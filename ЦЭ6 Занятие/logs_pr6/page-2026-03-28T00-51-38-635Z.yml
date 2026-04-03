@@ -1,0 +1,351 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e1373] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e1374] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e1375]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e1376] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e1377]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e1378] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e1379]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e1380] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e1381]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e1382] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e1383]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e1384] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e1385]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e1386] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e1387]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e1388] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e1389]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e1390] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e1391]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e1392] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e1393]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e1394] [cursor=pointer]:
+          - generic [ref=e187]:
+            - img [ref=e188]
+            - generic [ref=e191]: "29"
+        - button [ref=e1395] [cursor=pointer]:
+          - img [ref=e197]:
+            - img [ref=e198]
+        - button [ref=e1396] [cursor=pointer]:
+          - img [ref=e148]:
+            - img [ref=e149]
+        - button [ref=e1397] [cursor=pointer]:
+          - img [ref=e156]:
+            - img [ref=e157]
+        - button [ref=e1398] [cursor=pointer]:
+          - generic [ref=e165]:
+            - img [ref=e166]:
+              - img [ref=e167]
+            - img [ref=e169]:
+              - img [ref=e170]
+      - button [ref=e1399] [cursor=pointer]:
+        - img [ref=e173]:
+          - img [ref=e174]
+    - generic [ref=e550]:
+      - generic [ref=e553]:
+        - list [ref=e554]:
+          - listitem [ref=e555]:
+            - link [ref=e1400] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e557]: /
+          - listitem [ref=e558]:
+            - link [ref=e1401] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e560]: /
+          - listitem [ref=e561]:
+            - link [ref=e1402] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/wizard
+              - text: Новый чарт
+          - listitem [ref=e563]
+        - generic [ref=e564]:
+          - button [ref=e1312] [cursor=pointer]:
+            - img [ref=e1315]:
+              - img [ref=e1316]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e1403] [cursor=pointer]:
+            - img [ref=e568]:
+              - img [ref=e569]
+            - generic [ref=e571]: На весь экран
+          - button [ref=e572] [cursor=pointer]:
+            - img [ref=e575]:
+              - img [ref=e576]
+          - generic [ref=e578]:
+            - button [disabled]:
+              - generic: Сохранено
+      - generic [ref=e580]:
+        - generic [ref=e583]:
+          - generic [ref=e1404] [cursor=pointer]:
+            - img [ref=e823]:
+              - img [ref=e824]
+            - generic [ref=e826]: "Датасет:"
+            - generic [ref=e827]: ПР6_Вариант2_Датасет
+          - generic [ref=e828]:
+            - generic [ref=e830]:
+              - generic [ref=e833]:
+                - textbox [ref=e1405]:
+                  - /placeholder: Поиск по имени и описанию
+                  - text: Линейная_Оценка_ПоДатам
+                - button [ref=e1406] [cursor=pointer]:
+                  - img [ref=e1321]:
+                    - img [ref=e1322]
+              - button [ref=e836] [cursor=pointer]:
+                - img [ref=e839]:
+                  - img [ref=e840]
+            - generic [ref=e843]: Измерения
+        - generic [ref=e596]:
+          - generic [ref=e599]:
+            - generic [ref=e601]:
+              - button [ref=e1407] [cursor=pointer]:
+                - generic [ref=e604]:
+                  - img [ref=e606]:
+                    - img [ref=e1325]
+                  - generic [ref=e612]: Линейная диаграмма
+              - button [ref=e614] [cursor=pointer]:
+                - img [ref=e617]:
+                  - img [ref=e618]
+            - generic [ref=e621]:
+              - generic [ref=e624]:
+                - img [ref=e626]:
+                  - img [ref=e627]
+                - generic [ref=e629]: X
+                - generic [ref=e630]:
+                  - button [ref=e632] [cursor=pointer]:
+                    - img [ref=e635]:
+                      - img [ref=e636]
+                  - button [ref=e941] [cursor=pointer]:
+                    - img [ref=e944]:
+                      - img [ref=e945]
+              - generic [ref=e649]:
+                - img [ref=e651]:
+                  - img [ref=e652]
+                - generic [ref=e654]: "Y"
+                - generic [ref=e655]:
+                  - button [ref=e657] [cursor=pointer]:
+                    - img [ref=e660]:
+                      - img [ref=e661]
+                  - button [ref=e948] [cursor=pointer]:
+                    - img [ref=e951]:
+                      - img [ref=e952]
+              - generic [ref=e1331]:
+                - img [ref=e1333]:
+                  - img [ref=e1334]
+                - generic [ref=e1336]: Y2
+                - generic [ref=e1337]:
+                  - button [ref=e1339] [cursor=pointer]:
+                    - img [ref=e1342]:
+                      - img [ref=e1343]
+                  - button [ref=e1348] [cursor=pointer]:
+                    - img [ref=e1351]:
+                      - img [ref=e1352]
+              - generic [ref=e674]:
+                - img [ref=e676]:
+                  - img [ref=e677]
+                - generic [ref=e679]: Цвета
+                - button [ref=e955] [cursor=pointer]:
+                  - img [ref=e958]:
+                    - img [ref=e959]
+              - generic [ref=e1356]:
+                - img [ref=e1358]:
+                  - img [ref=e1359]
+                - generic [ref=e1362]: Формы
+                - button [ref=e1367] [cursor=pointer]:
+                  - img [ref=e1370]:
+                    - img [ref=e1371]
+              - generic [ref=e692]:
+                - img [ref=e694]:
+                  - img [ref=e695]
+                - generic [ref=e697]: Сортировка
+                - button [ref=e702] [cursor=pointer]:
+                  - img [ref=e705]:
+                    - img [ref=e706]
+              - generic [ref=e710]:
+                - img [ref=e712]:
+                  - img [ref=e713]
+                - generic [ref=e715]: Подписи
+                - generic [ref=e716]:
+                  - button [ref=e718] [cursor=pointer]:
+                    - img [ref=e721]:
+                      - img [ref=e722]
+                  - button [ref=e962] [cursor=pointer]:
+                    - img [ref=e965]:
+                      - img [ref=e966]
+              - generic [ref=e735]:
+                - img [ref=e737]:
+                  - img [ref=e738]
+                - generic [ref=e740]: Сплит
+                - generic [ref=e741]: beta
+                - button [ref=e969] [cursor=pointer]:
+                  - img [ref=e972]:
+                    - img [ref=e973]
+              - generic [ref=e754]:
+                - img [ref=e756]:
+                  - img [ref=e757]
+                - generic [ref=e759]: Фильтры
+                - button [ref=e976] [cursor=pointer]:
+                  - img [ref=e979]:
+                    - img [ref=e980]
+          - generic [ref=e776]:
+            - img [ref=e1408]
+            - generic [ref=e780]: Перетащите измерения и показатели в соответствующие секции, чтобы построить визуализацию
+  - dialog [active] [ref=e1413]:
+    - generic [ref=e1414]:
+      - generic [ref=e1415]:
+        - generic [ref=e1416]:
+          - img [ref=e1418]:
+            - img [ref=e1419]
+          - generic [ref=e1421]: X
+        - generic [ref=e1424]:
+          - generic [ref=e1425]:
+            - generic [ref=e1426]: Тип оси
+            - radiogroup [ref=e1428]:
+              - generic [ref=e1429]:
+                - radio "Линейная" [checked] [ref=e1430]
+                - generic [ref=e1431]: Линейная
+              - generic [ref=e1432] [cursor=pointer]:
+                - radio "Логарифмическая" [ref=e1433]
+                - generic [ref=e1434]: Логарифмическая
+          - generic [ref=e1435]:
+            - generic [ref=e1436]: Ось на графике
+            - radiogroup [ref=e1438]:
+              - generic [ref=e1439]:
+                - radio "Показать" [checked] [ref=e1440]
+                - generic [ref=e1441]: Показать
+              - generic [ref=e1442] [cursor=pointer]:
+                - radio "Скрыть" [ref=e1443]
+                - generic [ref=e1444]: Скрыть
+          - generic [ref=e1445]:
+            - generic [ref=e1446]: Название оси
+            - radiogroup [ref=e1450]:
+              - generic [ref=e1451] [cursor=pointer]:
+                - radio "Вкл" [ref=e1452]
+                - generic [ref=e1453]: Вкл
+              - generic [ref=e1454]:
+                - radio "Выкл" [checked] [ref=e1455]
+                - generic [ref=e1456]: Выкл
+              - generic [ref=e1457] [cursor=pointer]:
+                - radio "Вручную" [ref=e1458]
+                - generic [ref=e1459]: Вручную
+          - generic [ref=e1460]:
+            - generic [ref=e1461]: Форматирование оси
+            - radiogroup [ref=e1463]:
+              - generic [ref=e1464]:
+                - radio "Авто" [checked] [ref=e1465]
+                - generic [ref=e1466]: Авто
+              - generic [ref=e1467]:
+                - radio "По первому полю на оси X" [disabled] [ref=e1468]
+                - generic [ref=e1469]: По первому полю на оси X
+              - generic [ref=e1470]:
+                - radio "Вручную" [disabled] [ref=e1471]
+                - generic [ref=e1472]: Вручную
+          - generic [ref=e1473]:
+            - generic [ref=e1474]: Сетка
+            - radiogroup [ref=e1476]:
+              - generic [ref=e1477]:
+                - radio "Вкл" [checked] [ref=e1478]
+                - generic [ref=e1479]: Вкл
+              - generic [ref=e1480] [cursor=pointer]:
+                - radio "Выкл" [ref=e1481]
+                - generic [ref=e1482]: Выкл
+          - generic [ref=e1483]:
+            - generic [ref=e1485]: Шаг сетки, px
+            - radiogroup [ref=e1487]:
+              - generic [ref=e1488]:
+                - radio "Авто" [checked] [ref=e1489]
+                - generic [ref=e1490]: Авто
+              - generic [ref=e1491]:
+                - radio "Вручную" [disabled] [ref=e1492]
+                - generic [ref=e1493]: Вручную
+          - generic [ref=e1494]:
+            - generic [ref=e1495]: Подписи
+            - radiogroup [ref=e1497]:
+              - generic [ref=e1498]:
+                - radio "Вкл" [checked] [ref=e1499]
+                - generic [ref=e1500]: Вкл
+              - generic [ref=e1501] [cursor=pointer]:
+                - radio "Выкл" [ref=e1502]
+                - generic [ref=e1503]: Выкл
+          - generic [ref=e1504]:
+            - generic [ref=e1505]: Вид подписей
+            - radiogroup [ref=e1507]:
+              - generic [ref=e1508]:
+                - radio "Авто" [checked] [ref=e1509]
+                - generic [ref=e1510]: Авто
+              - generic [ref=e1511] [cursor=pointer]:
+                - radio "Горизонтальные" [ref=e1512]
+                - generic [ref=e1513]: Горизонтальные
+              - generic [ref=e1514] [cursor=pointer]:
+                - radio "Вертикальные" [ref=e1515]
+                - generic [ref=e1516]: Вертикальные
+              - generic [ref=e1517] [cursor=pointer]:
+                - radio "Под углом" [ref=e1518]
+                - generic [ref=e1519]: Под углом
+        - generic [ref=e1521]:
+          - button "Отменить" [ref=e1523] [cursor=pointer]:
+            - generic [ref=e1524]: Отменить
+          - button "Применить" [ref=e1526] [cursor=pointer]:
+            - generic [ref=e1527]: Применить
+      - button "Закрыть диалоговое окно" [ref=e1529] [cursor=pointer]:
+        - img [ref=e1532]:
+          - img [ref=e1533]

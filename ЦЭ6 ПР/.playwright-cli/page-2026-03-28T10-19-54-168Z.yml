@@ -1,0 +1,158 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e24] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e38] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e40]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e48] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e50]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e58] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e60]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e68] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e70]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e80]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e89] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e91]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e99] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e101]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e112] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e114]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e123] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e125]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e133] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e135]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e145] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e155] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e163] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e171] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e179] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e190] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - main [ref=e197]:
+      - generic [ref=e198]:
+        - img [ref=e200]:
+          - img [ref=e201]
+        - generic [ref=e204]:
+          - generic [ref=e205]: Давайте добавим коллег?
+          - generic [ref=e207]:
+            - text: Работайте в DataLens вместе бесплатно ещё 29 дней·Настроить вход
+            - link [ref=e208] [cursor=pointer]:
+              - /url: https://center.yandex.cloud/organization/federations
+              - text: через SSO
+          - button [ref=e210] [cursor=pointer]:
+            - generic [ref=e211]: Открыть настройки
+        - generic [ref=e212]:
+          - img [ref=e216] [cursor=pointer]:
+            - img [ref=e217]
+          - heading [level=4] [ref=e219] [cursor=pointer]: Подключения
+          - generic [ref=e220] [cursor=pointer]: Подключайте свои источники данных
+          - button [ref=e221] [cursor=pointer]:
+            - generic [ref=e222]: Создать
+          - img [ref=e226] [cursor=pointer]:
+            - img [ref=e227]
+          - heading [level=4] [ref=e229] [cursor=pointer]: Датасеты
+          - generic [ref=e230] [cursor=pointer]: Описывайте модели данных с вычисляемыми полями и агрегациями
+          - button [ref=e231] [cursor=pointer]:
+            - generic [ref=e232]: Создать
+          - img [ref=e236] [cursor=pointer]:
+            - img [ref=e237]
+          - heading [level=4] [ref=e240] [cursor=pointer]: Чарты
+          - generic [ref=e241] [cursor=pointer]: Визуализируйте данные в виде диаграмм и таблиц
+          - button [ref=e242] [cursor=pointer]:
+            - generic [ref=e243]: Создать
+          - img [ref=e247] [cursor=pointer]:
+            - img [ref=e248]
+          - heading [level=4] [ref=e250] [cursor=pointer]: Дашборды
+          - generic [ref=e251] [cursor=pointer]: Создавайте панели с наборами диаграмм, таблиц и фильтров
+          - button [ref=e252] [cursor=pointer]:
+            - generic [ref=e253]: Создать
+          - img [ref=e257] [cursor=pointer]:
+            - img [ref=e258]
+          - heading [level=4] [ref=e260] [cursor=pointer]: Отчёты
+          - generic [ref=e261] [cursor=pointer]: Собирайте документы для презентации, экспорта или печати
+          - button [ref=e262] [cursor=pointer]:
+            - generic [ref=e263]: Создать
+        - generic [ref=e265]:
+          - link [ref=e266] [cursor=pointer]:
+            - /url: /gallery/all
+            - text: Галерея
+          - button [ref=e267] [cursor=pointer]:
+            - img [ref=e270]
+  - generic [ref=e275]:
+    - button "Закрыть" [ref=e277]
+    - dialog [active] [ref=e278]:
+      - generic [ref=e280]:
+        - generic [ref=e283]: Командная работа доступна 30 дней бесплатно
+        - button [ref=e291] [cursor=pointer]:
+          - img [ref=e294]:
+            - img [ref=e295]
+    - button "Закрыть" [ref=e297]

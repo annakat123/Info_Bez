@@ -1,0 +1,376 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e195]:
+    - menu [ref=e197]:
+      - group [ref=e198]:
+        - menuitem "Коллекции и воркбуки ПР6_ЦЭДУП_Вариант2" [ref=e199]:
+          - list [ref=e202]:
+            - listitem [ref=e203]:
+              - link "Коллекции и воркбуки" [ref=e204] [cursor=pointer]:
+                - /url: /collections
+              - generic [ref=e205]: /
+            - listitem [ref=e206]:
+              - link "ПР6_ЦЭДУП_Вариант2" [disabled] [ref=e207]:
+                - /url: /workbooks/jneh2sr45iyi3
+      - group [ref=e208]:
+        - menuitem "Создать" [ref=e209]:
+          - generic [ref=e211]:
+            - button [ref=e213] [cursor=pointer]:
+              - img [ref=e216]:
+                - img [ref=e217]
+            - button [ref=e220] [cursor=pointer]:
+              - img [ref=e223]:
+                - img [ref=e224]
+            - button "Создать" [ref=e229] [cursor=pointer]:
+              - img [ref=e232]:
+                - img [ref=e233]
+              - generic [ref=e235]: Создать
+    - generic [ref=e237]:
+      - generic [ref=e239]:
+        - heading "ПР6_ЦЭДУП_Вариант2" [level=1] [ref=e240]
+        - button [ref=e243] [cursor=pointer]:
+          - img [ref=e246]:
+            - img [ref=e247]
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e255]:
+            - textbox "Искать по названию" [ref=e258]
+            - group [ref=e260] [cursor=pointer]:
+              - combobox [ref=e261]:
+                - generic [ref=e262]: Сортировка от А до Я
+              - img [ref=e263]:
+                - img [ref=e264]
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - generic "Все объекты" [ref=e271] [cursor=pointer]
+              - link "Дашборды" [ref=e273] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=dash
+                - generic "Дашборды" [ref=e274]
+              - link "Чарты" [active] [ref=e276] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=widget
+                - generic "Чарты" [ref=e277]
+              - link "Датасеты" [ref=e279] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=dataset
+                - generic "Датасеты" [ref=e280]
+              - link "Подключения" [ref=e282] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=connection
+                - generic "Подключения" [ref=e283]
+              - link "Отчёты" [ref=e285] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=report
+                - generic "Отчёты" [ref=e286]
+            - combobox [ref=e289]:
+              - generic "Еще 0" [ref=e291] [cursor=pointer]:
+                - generic [ref=e292]:
+                  - generic [ref=e293]: Еще 0
+                  - img [ref=e295]:
+                    - img [ref=e296]
+        - generic [ref=e301]:
+          - generic [ref=e302]:
+            - generic [ref=e303]: Название
+            - generic [ref=e304]: Автор
+            - generic [ref=e305]: Последнее изменение
+          - generic [ref=e307]:
+            - link "Индикатор_МаксСтоимость ivanbut2005 10 часов назад" [ref=e308] [cursor=pointer]:
+              - /url: /wizard/osjpargtkx808-indikator-maksstoimost
+              - generic [ref=e310]:
+                - img [ref=e313]:
+                  - img [ref=e314]
+                - generic "Индикатор_МаксСтоимость" [ref=e317]
+              - generic [ref=e319]: ivanbut2005
+              - generic [ref=e320]: 10 часов назад
+              - button [ref=e325]:
+                - img [ref=e328]:
+                  - img [ref=e329]
+            - link "Индикатор_СреднееМинМакс ivanbut2005 10 часов назад" [ref=e331] [cursor=pointer]:
+              - /url: /wizard/vzqwzxuzowjyf-indikator-sredneeminmaks
+              - generic [ref=e333]:
+                - img [ref=e336]:
+                  - img [ref=e337]
+                - generic "Индикатор_СреднееМинМакс" [ref=e340]
+              - generic [ref=e342]: ivanbut2005
+              - generic [ref=e343]: 10 часов назад
+              - button [ref=e348]:
+                - img [ref=e351]:
+                  - img [ref=e352]
+            - link "Круговая_Сотрудники_Заказы ivanbut2005 9 часов назад" [ref=e354] [cursor=pointer]:
+              - /url: /wizard/cg7gqn2tw7kgw-krugovaya-sotrudniki-zakazy
+              - generic [ref=e356]:
+                - img [ref=e359]:
+                  - img [ref=e360]
+                - generic "Круговая_Сотрудники_Заказы" [ref=e363]
+              - generic [ref=e365]: ivanbut2005
+              - generic [ref=e366]: 9 часов назад
+              - button [ref=e371]:
+                - img [ref=e374]:
+                  - img [ref=e375]
+            - link "Линейная_Оценка_ПоДатам ivanbut2005 9 часов назад" [ref=e377] [cursor=pointer]:
+              - /url: /wizard/dh8jnzqw7vuix-lineynaya-ocenka-podatam
+              - generic [ref=e379]:
+                - img [ref=e382]:
+                  - img [ref=e383]
+                - generic "Линейная_Оценка_ПоДатам" [ref=e386]
+              - generic [ref=e388]: ivanbut2005
+              - generic [ref=e389]: 9 часов назад
+              - button [ref=e394]:
+                - img [ref=e397]:
+                  - img [ref=e398]
+            - link "ПР6_Практика_Индикатор_МаксДлительность ivanbut2005 8 часов назад" [ref=e400] [cursor=pointer]:
+              - /url: /wizard/jneya4wmyxuu3-pr6-praktika-indikator-maksdlitelnost
+              - generic [ref=e402]:
+                - img [ref=e405]:
+                  - img [ref=e406]
+                - generic "ПР6_Практика_Индикатор_МаксДлительность" [ref=e409]
+              - generic [ref=e411]: ivanbut2005
+              - generic [ref=e412]: 8 часов назад
+              - button [ref=e417]:
+                - img [ref=e420]:
+                  - img [ref=e421]
+            - link "ПР6_Практика_Индикатор_МинДлительность ivanbut2005 час назад" [ref=e423] [cursor=pointer]:
+              - /url: /wizard/img3mq8xaquw2-pr6-praktika-indikator-mindlitelnost
+              - generic [ref=e425]:
+                - img [ref=e428]:
+                  - img [ref=e429]
+                - generic "ПР6_Практика_Индикатор_МинДлительность" [ref=e432]
+              - generic [ref=e434]: ivanbut2005
+              - generic [ref=e435]: час назад
+              - button [ref=e440]:
+                - img [ref=e443]:
+                  - img [ref=e444]
+            - link "ПР6_Практика_Индикатор_НераспознанныеДействия ivanbut2005 час назад" [ref=e446] [cursor=pointer]:
+              - /url: /wizard/gke2thnu4dko0-pr6-praktika-indikator-neraspoznannyedeystviya
+              - generic [ref=e448]:
+                - img [ref=e451]:
+                  - img [ref=e452]
+                - generic "ПР6_Практика_Индикатор_НераспознанныеДействия" [ref=e455]
+              - generic [ref=e457]: ivanbut2005
+              - generic [ref=e458]: час назад
+              - button [ref=e463]:
+                - img [ref=e466]:
+                  - img [ref=e467]
+            - link "ПР6_Практика_Индикатор_РаспознанныеДействия ivanbut2005 час назад" [ref=e469] [cursor=pointer]:
+              - /url: /wizard/quocfb5jvmoca-pr6-praktika-indikator-raspoznannyedeystviya
+              - generic [ref=e471]:
+                - img [ref=e474]:
+                  - img [ref=e475]
+                - generic "ПР6_Практика_Индикатор_РаспознанныеДействия" [ref=e478]
+              - generic [ref=e480]: ivanbut2005
+              - generic [ref=e481]: час назад
+              - button [ref=e486]:
+                - img [ref=e489]:
+                  - img [ref=e490]
+            - link "ПР6_Практика_Индикатор_СуммарныйПШЕ ivanbut2005 час назад" [ref=e492] [cursor=pointer]:
+              - /url: /wizard/osmc0n38l8ao8-pr6-praktika-indikator-summarnyypshe
+              - generic [ref=e494]:
+                - img [ref=e497]:
+                  - img [ref=e498]
+                - generic "ПР6_Практика_Индикатор_СуммарныйПШЕ" [ref=e501]
+              - generic [ref=e503]: ivanbut2005
+              - generic [ref=e504]: час назад
+              - button [ref=e509]:
+                - img [ref=e512]:
+                  - img [ref=e513]
+            - link "ПР6_Практика_Индикатор_УникПользователи ivanbut2005 8 часов назад" [ref=e515] [cursor=pointer]:
+              - /url: /wizard/qul4fa7sdiv0a-pr6-praktika-indikator-unikpolzovateli
+              - generic [ref=e517]:
+                - img [ref=e520]:
+                  - img [ref=e521]
+                - generic "ПР6_Практика_Индикатор_УникПользователи" [ref=e524]
+              - generic [ref=e526]: ivanbut2005
+              - generic [ref=e527]: 8 часов назад
+              - button [ref=e532]:
+                - img [ref=e535]:
+                  - img [ref=e536]
+            - link "ПР6_Практика_Индикатор_УникПроцессы ivanbut2005 8 часов назад" [ref=e538] [cursor=pointer]:
+              - /url: /wizard/48zi9dc9m9sso-pr6-praktika-indikator-unikprocessy
+              - generic [ref=e540]:
+                - img [ref=e543]:
+                  - img [ref=e544]
+                - generic "ПР6_Практика_Индикатор_УникПроцессы" [ref=e547]
+              - generic [ref=e549]: ivanbut2005
+              - generic [ref=e550]: 8 часов назад
+              - button [ref=e555]:
+                - img [ref=e558]:
+                  - img [ref=e559]
+            - link "ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам ivanbut2005 38 минут назад" [ref=e561] [cursor=pointer]:
+              - /url: /wizard/593vujj3qy8qp-pr6-praktika-krugovaya-veroyatnostponaydennymprocessam
+              - generic [ref=e563]:
+                - img [ref=e566]:
+                  - img [ref=e567]
+                - generic "ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам" [ref=e570]
+              - generic [ref=e572]: ivanbut2005
+              - generic [ref=e573]: 38 минут назад
+              - button [ref=e578]:
+                - img [ref=e581]:
+                  - img [ref=e582]
+            - link "ПР6_Практика_Линейная_МаксСредМинДлительностьПоПроцессам ivanbut2005 40 минут назад" [ref=e584] [cursor=pointer]:
+              - /url: /wizard/uysj9fd0g6zke-pr6-praktika-lineynaya-makssredmindlitelnostpoprocessa
+              - generic [ref=e586]:
+                - img [ref=e589]:
+                  - img [ref=e590]
+                - generic "ПР6_Практика_Линейная_МаксСредМинДлительностьПоПроцессам" [ref=e593]
+              - generic [ref=e595]: ivanbut2005
+              - generic [ref=e596]: 40 минут назад
+              - button [ref=e601]:
+                - img [ref=e604]:
+                  - img [ref=e605]
+            - link "ПР6_Практика_Столбчатая_РаспознанныеДействияПоПользователям ivanbut2005 35 минут назад" [ref=e607] [cursor=pointer]:
+              - /url: /wizard/9d7zhzub6g2mt-pr6-praktika-stolbchataya-raspoznannyedeystviyapopolzo
+              - generic [ref=e609]:
+                - img [ref=e612]:
+                  - img [ref=e613]
+                - generic "ПР6_Практика_Столбчатая_РаспознанныеДействияПоПользователям" [ref=e616]
+              - generic [ref=e618]: ivanbut2005
+              - generic [ref=e619]: 35 минут назад
+              - button [ref=e624]:
+                - img [ref=e627]:
+                  - img [ref=e628]
+            - link "ПР6_Практика_Таблица_ПроектМинСложностьМаксПШЕ ivanbut2005 36 минут назад" [ref=e630] [cursor=pointer]:
+              - /url: /wizard/371t2z42qr6en-pr6-praktika-tablica-proektminslozhnostmakspshe
+              - generic [ref=e632]:
+                - img [ref=e635]:
+                  - img [ref=e636]
+                - generic "ПР6_Практика_Таблица_ПроектМинСложностьМаксПШЕ" [ref=e639]
+              - generic [ref=e641]: ivanbut2005
+              - generic [ref=e642]: 36 минут назад
+              - button [ref=e647]:
+                - img [ref=e650]:
+                  - img [ref=e651]
+            - link "Сводная_Города_Заказы_Дни ivanbut2005 9 часов назад" [ref=e653] [cursor=pointer]:
+              - /url: /wizard/15w8vzlnwdzel-svodnaya-goroda-zakazy-dni
+              - generic [ref=e655]:
+                - img [ref=e658]:
+                  - img [ref=e659]
+                - generic "Сводная_Города_Заказы_Дни" [ref=e662]
+              - generic [ref=e664]: ivanbut2005
+              - generic [ref=e665]: 9 часов назад
+              - button [ref=e670]:
+                - img [ref=e673]:
+                  - img [ref=e674]

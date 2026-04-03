@@ -1,0 +1,2 @@
+[      75ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://adfstat.yandex.ru/captcha?req_id=&unique_key=8416900734677421623:0
+[     798ms] [WARNING] It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ https://smartcaptcha.cloud.yandex.ru/captchapgrd:0

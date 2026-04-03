@@ -1,0 +1,314 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e195]:
+    - menu [ref=e197]:
+      - group [ref=e198]:
+        - menuitem "Коллекции и воркбуки ПР6_ЦЭДУП_Вариант2" [ref=e199]:
+          - list [ref=e202]:
+            - listitem [ref=e203]:
+              - link "Коллекции и воркбуки" [ref=e204] [cursor=pointer]:
+                - /url: /collections
+              - generic [ref=e205]: /
+            - listitem [ref=e206]:
+              - link "ПР6_ЦЭДУП_Вариант2" [disabled] [ref=e207]:
+                - /url: /workbooks/jneh2sr45iyi3
+      - group [ref=e208]:
+        - menuitem "Создать" [ref=e209]:
+          - generic [ref=e211]:
+            - button [ref=e213] [cursor=pointer]:
+              - img [ref=e216]:
+                - img [ref=e217]
+            - button [ref=e220] [cursor=pointer]:
+              - img [ref=e223]:
+                - img [ref=e224]
+            - button "Создать" [ref=e229] [cursor=pointer]:
+              - img [ref=e232]:
+                - img [ref=e233]
+              - generic [ref=e235]: Создать
+    - generic [ref=e237]:
+      - generic [ref=e239]:
+        - heading "ПР6_ЦЭДУП_Вариант2" [level=1] [ref=e240]
+        - button [ref=e243] [cursor=pointer]:
+          - img [ref=e246]:
+            - img [ref=e247]
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - generic [ref=e255]:
+            - textbox "Искать по названию" [ref=e258]
+            - group [ref=e260] [cursor=pointer]:
+              - combobox [ref=e261]:
+                - generic [ref=e262]: Сортировка от А до Я
+              - img [ref=e263]:
+                - img [ref=e264]
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - generic "Все объекты" [ref=e271] [cursor=pointer]
+              - link "Дашборды" [ref=e273] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=dash
+                - generic "Дашборды" [ref=e274]
+              - link "Чарты" [ref=e276] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=widget
+                - generic "Чарты" [ref=e277]
+              - link "Датасеты" [ref=e279] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=dataset
+                - generic "Датасеты" [ref=e280]
+              - link "Подключения" [ref=e282] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=connection
+                - generic "Подключения" [ref=e283]
+              - link "Отчёты" [ref=e285] [cursor=pointer]:
+                - /url: /workbooks/jneh2sr45iyi3?tab=report
+                - generic "Отчёты" [ref=e286]
+            - combobox [ref=e289]:
+              - generic "Еще 0" [ref=e291] [cursor=pointer]:
+                - generic [ref=e292]:
+                  - generic [ref=e293]: Еще 0
+                  - img [ref=e295]:
+                    - img [ref=e296]
+        - generic [ref=e299]:
+          - generic [ref=e302]:
+            - generic [ref=e303]: Название
+            - generic [ref=e304]: Автор
+            - generic [ref=e305]: Последнее изменение
+          - generic [ref=e307]:
+            - generic [ref=e308]:
+              - generic [ref=e310] [cursor=pointer]:
+                - img [ref=e311]
+                - generic [ref=e313]: Дашборды
+              - button "Создать дашборд" [ref=e316] [cursor=pointer]:
+                - img [ref=e319]:
+                  - img [ref=e320]
+                - generic [ref=e322]: Создать дашборд
+            - generic [ref=e326]: Пока нет объектов
+          - generic [ref=e330]:
+            - generic [ref=e331]:
+              - generic [ref=e333] [cursor=pointer]:
+                - img [ref=e334]
+                - generic [ref=e336]: Чарты
+              - button "Создать чарт" [ref=e341] [cursor=pointer]:
+                - img [ref=e344]:
+                  - img [ref=e345]
+                - generic [ref=e347]: Создать чарт
+            - generic [ref=e349]:
+              - link "Индикатор_МаксСтоимость 35 минут назад" [ref=e350] [cursor=pointer]:
+                - /url: /wizard/osjpargtkx808-indikator-maksstoimost
+                - generic [ref=e352]:
+                  - img [ref=e355]:
+                    - img [ref=e356]
+                  - generic "Индикатор_МаксСтоимость" [ref=e359]
+                - generic [ref=e363]: 35 минут назад
+                - button [ref=e368]:
+                  - img [ref=e371]:
+                    - img [ref=e372]
+              - link "Индикатор_СреднееМинМакс 32 минуты назад" [ref=e374] [cursor=pointer]:
+                - /url: /wizard/vzqwzxuzowjyf-indikator-sredneeminmaks
+                - generic [ref=e376]:
+                  - img [ref=e379]:
+                    - img [ref=e380]
+                  - generic "Индикатор_СреднееМинМакс" [ref=e383]
+                - generic [ref=e387]: 32 минуты назад
+                - button [ref=e392]:
+                  - img [ref=e395]:
+                    - img [ref=e396]
+              - link "Круговая_Сотрудники_Заказы 14 минут назад" [ref=e398] [cursor=pointer]:
+                - /url: /wizard/cg7gqn2tw7kgw-krugovaya-sotrudniki-zakazy
+                - generic [ref=e400]:
+                  - img [ref=e403]:
+                    - img [ref=e404]
+                  - generic "Круговая_Сотрудники_Заказы" [ref=e407]
+                - generic [ref=e411]: 14 минут назад
+                - button [ref=e416]:
+                  - img [ref=e419]:
+                    - img [ref=e420]
+              - link "Линейная_Оценка_ПоДатам 3 минуты назад" [ref=e422] [cursor=pointer]:
+                - /url: /wizard/dh8jnzqw7vuix-lineynaya-ocenka-podatam
+                - generic [ref=e424]:
+                  - img [ref=e427]:
+                    - img [ref=e428]
+                  - generic "Линейная_Оценка_ПоДатам" [ref=e431]
+                - generic [ref=e435]: 3 минуты назад
+                - button [ref=e440]:
+                  - img [ref=e443]:
+                    - img [ref=e444]
+              - link "Сводная_Города_Заказы_Дни несколько секунд назад" [ref=e446] [cursor=pointer]:
+                - /url: /wizard/15w8vzlnwdzel-svodnaya-goroda-zakazy-dni
+                - generic [ref=e448]:
+                  - img [ref=e451]:
+                    - img [ref=e452]
+                  - generic "Сводная_Города_Заказы_Дни" [ref=e455]
+                - generic [ref=e459]: несколько секунд назад
+                - button [ref=e464]:
+                  - img [ref=e467]:
+                    - img [ref=e468]
+          - generic [ref=e470]:
+            - generic [ref=e471]:
+              - generic [ref=e473] [cursor=pointer]:
+                - img [ref=e474]
+                - generic [ref=e476]: Датасеты
+              - button "Создать датасет" [ref=e479] [cursor=pointer]:
+                - img [ref=e482]:
+                  - img [ref=e483]
+                - generic [ref=e485]: Создать датасет
+            - link "ПР6_Вариант2_Датасет 40 минут назад" [ref=e488] [cursor=pointer]:
+              - /url: /datasets/hlch59bhktdy1-pr6-variant2-dataset
+              - generic [ref=e490]:
+                - img [ref=e493]:
+                  - img [ref=e494]
+                - generic "ПР6_Вариант2_Датасет" [ref=e496]
+              - generic [ref=e500]: 40 минут назад
+              - button [ref=e505]:
+                - img [ref=e508]:
+                  - img [ref=e509]
+          - generic [ref=e511]:
+            - generic [ref=e512]:
+              - generic [ref=e514] [cursor=pointer]:
+                - img [ref=e515]
+                - generic [ref=e517]: Подключения
+              - button "Создать подключение" [ref=e520] [cursor=pointer]:
+                - img [ref=e523]:
+                  - img [ref=e524]
+                - generic [ref=e526]: Создать подключение
+            - link "ПР6_Вариант2_Подключение 44 минуты назад" [ref=e529] [cursor=pointer]:
+              - /url: /connections/7b2665x8pplmr-pr6-variant2-podklyuchenie
+              - generic "ПР6_Вариант2_Подключение" [ref=e533]
+              - generic [ref=e537]: 44 минуты назад
+              - button [ref=e542]:
+                - img [ref=e545]:
+                  - img [ref=e546]
+          - generic [ref=e548]:
+            - generic [ref=e549]:
+              - generic [ref=e551] [cursor=pointer]:
+                - img [ref=e552]
+                - generic [ref=e554]: Отчёты
+              - button "Создать отчёт" [ref=e557] [cursor=pointer]:
+                - img [ref=e560]:
+                  - img [ref=e561]
+                - generic [ref=e563]: Создать отчёт
+            - generic [ref=e567]: Пока нет объектов

@@ -1,0 +1,180 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e410]:
+    - generic [ref=e413]:
+      - list [ref=e414]:
+        - listitem [ref=e415]:
+          - link "Коллекции и воркбуки" [ref=e416] [cursor=pointer]:
+            - /url: /collections
+          - generic [ref=e417]: /
+        - listitem [ref=e418]:
+          - link "ПР6_ЦЭДУП_Вариант2" [ref=e419] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3
+          - generic [ref=e420]: /
+        - listitem [ref=e421]:
+          - link "Новое подключение" [ref=e422] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3/connections/new/file
+        - listitem [ref=e423]
+      - combobox [ref=e425] [cursor=pointer]:
+        - img [ref=e428]:
+          - img [ref=e429]
+      - button [ref=e549] [cursor=pointer]:
+        - img [ref=e552]:
+          - img [ref=e553]
+      - generic [ref=e555]:
+        - button "Создать подключение" [disabled]:
+          - generic: Создать подключение
+    - generic [ref=e556]:
+      - generic [ref=e557]:
+        - generic [ref=e558]:
+          - link [ref=e560] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3/connections/new
+            - button [ref=e561]:
+              - img [ref=e564]:
+                - img [ref=e565]
+          - img [ref=e567]
+          - generic [ref=e568]: Файлы
+        - generic [ref=e569]:
+          - button [ref=e570]
+          - button "Загрузить файлы" [ref=e571] [cursor=pointer]:
+            - img [ref=e574]:
+              - img [ref=e575]
+            - generic [ref=e577]: Загрузить файлы
+          - button [ref=e578] [cursor=pointer]:
+            - img [ref=e579]:
+              - img [ref=e580]
+        - button [ref=e582]
+        - list [ref=e584]
+      - generic [ref=e588]:
+        - img "template" [ref=e590]
+        - generic [ref=e592]:
+          - text: Чтобы создать подключение, загрузите файлы.
+          - text: "Поддерживаемые форматы: CSV, TXT, XLSX."

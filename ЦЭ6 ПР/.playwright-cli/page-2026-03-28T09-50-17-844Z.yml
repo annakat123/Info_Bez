@@ -1,0 +1,427 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e12997] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e12998] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e12999]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e13000] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e13001]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e13002] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e13003]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e13004] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e13005]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e13006] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e13007]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e13008] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e13009]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e13010] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e13011]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e13012] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e13013]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e13014] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e13015]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e13016] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e13017]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e13018] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e13019] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e13020] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e13021] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e13022] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e13023] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e12382]:
+      - generic [ref=e12386]:
+        - list [ref=e12387]:
+          - listitem [ref=e12388]:
+            - link [ref=e13024] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e12390]: /
+          - listitem [ref=e12391]:
+            - link [ref=e13025] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e12393]: /
+          - listitem [ref=e12394]:
+            - link [ref=e13026] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/dashboards
+              - text: Новый дашборд
+          - listitem [ref=e12396]
+        - generic [ref=e12397]:
+          - button [ref=e12949] [cursor=pointer]:
+            - img [ref=e12952]:
+              - img [ref=e12953]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e13027] [cursor=pointer]:
+            - img [ref=e12401]:
+              - img [ref=e12402]
+          - button [ref=e12404] [cursor=pointer]:
+            - img [ref=e12407]:
+              - img [ref=e12408]
+          - button [ref=e13028] [cursor=pointer]:
+            - generic [ref=e12411]: Связи
+          - button [ref=e13029] [cursor=pointer]:
+            - generic [ref=e12413]: Вкладки
+          - button [ref=e13030] [cursor=pointer]:
+            - generic [ref=e12959]: Сохранить
+      - generic [ref=e12421]:
+        - generic [ref=e12422]: Новый дашборд
+        - generic [ref=e12962]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic: ПР6_Практика_Индикатор_УникПользователи
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Имя пользователя
+                              - generic: "10"
+          - generic [ref=e12965]:
+            - button [ref=e13031] [cursor=pointer]:
+              - img [ref=e12969]:
+                - img [ref=e12970]
+            - button [ref=e13032] [cursor=pointer]:
+              - img [ref=e12975]:
+                - img [ref=e12976]
+            - button [ref=e13033] [cursor=pointer]:
+              - img [ref=e12982]:
+                - img [ref=e12983]
+        - generic [ref=e12431]:
+          - button [ref=e13034]:
+            - img [ref=e12434]:
+              - img [ref=e12435]
+            - generic [ref=e13035]: Чарт
+          - button [ref=e13036]:
+            - img [ref=e12441]:
+              - img [ref=e12442]
+            - generic [ref=e13037]: Селектор
+          - button [ref=e13038]:
+            - img [ref=e12447]:
+              - img [ref=e12448]
+            - generic [ref=e13039]: Селектор (JS)
+          - button [ref=e13040]:
+            - img [ref=e12453]:
+              - img [ref=e12454]
+            - generic [ref=e13041]: Текст
+          - button [ref=e13042]:
+            - img [ref=e12459]:
+              - img [ref=e12460]
+            - generic [ref=e13043]: Заголовок
+  - generic [ref=e1261]:
+    - complementary
+    - complementary
+  - dialog [ref=e13048]:
+    - generic [ref=e13049]:
+      - generic [ref=e13051]: Чарт
+      - generic [ref=e13053]:
+        - generic [ref=e13054]:
+          - list [ref=e13057]:
+            - button "Заголовок 1" [ref=e13059]:
+              - generic [ref=e13064] [cursor=pointer]:
+                - button [ref=e13066]:
+                  - img [ref=e13069]:
+                    - img [ref=e13070]
+                - generic [ref=e13072]: Заголовок 1
+          - button "Добавить" [ref=e13074] [cursor=pointer]:
+            - img [ref=e13077]:
+              - img [ref=e13078]
+            - generic [ref=e13080]: Добавить
+        - separator [ref=e13081]
+        - generic [ref=e13083]:
+          - generic [ref=e13084]:
+            - generic [ref=e13085]: Общие
+            - generic [ref=e13086]:
+              - generic [ref=e13088]: Заголовок
+              - textbox "Заголовок" [ref=e13092]:
+                - /placeholder: Введите заголовок
+                - text: Заголовок 1
+            - generic [ref=e13093]:
+              - generic [ref=e13095]: Чарт
+              - generic [ref=e13097]:
+                - generic [ref=e13099]:
+                  - button "Выбрать" [active] [ref=e13100] [cursor=pointer]:
+                    - generic [ref=e13102]: Выбрать
+                  - generic [ref=e13193]:
+                    - generic [ref=e13194]:
+                      - textbox "Фильтр по имени" [ref=e13197]
+                      - group [ref=e13200] [cursor=pointer]:
+                        - combobox [ref=e13201]:
+                          - generic [ref=e13202]: Сначала новые
+                        - img [ref=e13203]:
+                          - img [ref=e13204]
+                    - list [ref=e13207]:
+                      - generic [ref=e13209]:
+                        - listitem [ref=e13210]:
+                          - generic [ref=e13212] [cursor=pointer]:
+                            - img [ref=e13215]:
+                              - img [ref=e13216]
+                            - generic [ref=e13219]:
+                              - generic "ПР6_Практика_Столбчатая_РаспознанныеДействияПоПользователям" [ref=e13221]:
+                                - generic [ref=e13222]: ПР6_Практика_Столбчатая_РаспознанныеДействияПоПользователям
+                              - generic "28.03.2026" [ref=e13223]
+                        - listitem [ref=e13224]:
+                          - generic [ref=e13226] [cursor=pointer]:
+                            - img [ref=e13229]:
+                              - img [ref=e13230]
+                            - generic [ref=e13233]:
+                              - generic "ПР6_Практика_Таблица_ПроектМинСложностьМаксПШЕ" [ref=e13235]:
+                                - generic [ref=e13236]: ПР6_Практика_Таблица_ПроектМинСложностьМаксПШЕ
+                              - generic "28.03.2026" [ref=e13237]
+                        - listitem [ref=e13238]:
+                          - generic [ref=e13240] [cursor=pointer]:
+                            - img [ref=e13243]:
+                              - img [ref=e13244]
+                            - generic [ref=e13247]:
+                              - generic "ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам" [ref=e13249]:
+                                - generic [ref=e13250]: ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам
+                              - generic "28.03.2026" [ref=e13251]
+                        - listitem [ref=e13252]:
+                          - generic [ref=e13254] [cursor=pointer]:
+                            - img [ref=e13257]:
+                              - img [ref=e13258]
+                            - generic [ref=e13261]:
+                              - generic "ПР6_Практика_Линейная_МаксСредМинДлительностьПоПроцессам" [ref=e13263]:
+                                - generic [ref=e13264]: ПР6_Практика_Линейная_МаксСредМинДлительностьПоПроцессам
+                              - generic "28.03.2026" [ref=e13265]
+                        - listitem [ref=e13266]:
+                          - generic [ref=e13268] [cursor=pointer]:
+                            - img [ref=e13271]:
+                              - img [ref=e13272]
+                            - generic [ref=e13275]:
+                              - generic "ПР6_Практика_Индикатор_СуммарныйПШЕ" [ref=e13277]:
+                                - generic [ref=e13278]: ПР6_Практика_Индикатор_СуммарныйПШЕ
+                              - generic "28.03.2026" [ref=e13279]
+                        - listitem [ref=e13280]:
+                          - generic [ref=e13282] [cursor=pointer]:
+                            - img [ref=e13285]:
+                              - img [ref=e13286]
+                            - generic [ref=e13289]:
+                              - generic "ПР6_Практика_Индикатор_НераспознанныеДействия" [ref=e13291]:
+                                - generic [ref=e13292]: ПР6_Практика_Индикатор_НераспознанныеДействия
+                              - generic "28.03.2026" [ref=e13293]
+                        - listitem [ref=e13294]:
+                          - generic [ref=e13296] [cursor=pointer]:
+                            - img [ref=e13299]:
+                              - img [ref=e13300]
+                            - generic [ref=e13303]:
+                              - generic "ПР6_Практика_Индикатор_РаспознанныеДействия" [ref=e13305]:
+                                - generic [ref=e13306]: ПР6_Практика_Индикатор_РаспознанныеДействия
+                              - generic "28.03.2026" [ref=e13307]
+                        - listitem [ref=e13308]:
+                          - generic [ref=e13310] [cursor=pointer]:
+                            - img [ref=e13313]:
+                              - img [ref=e13314]
+                            - generic [ref=e13317]:
+                              - generic "ПР6_Практика_Индикатор_МинДлительность" [ref=e13319]:
+                                - generic [ref=e13320]: ПР6_Практика_Индикатор_МинДлительность
+                              - generic "28.03.2026" [ref=e13321]
+                        - listitem [ref=e13322]:
+                          - generic [ref=e13324] [cursor=pointer]:
+                            - img [ref=e13327]:
+                              - img [ref=e13328]
+                            - generic [ref=e13331]:
+                              - generic "ПР6_Практика_Индикатор_МаксДлительность" [ref=e13333]:
+                                - generic [ref=e13334]: ПР6_Практика_Индикатор_МаксДлительность
+                              - generic "28.03.2026" [ref=e13335]
+                        - listitem [ref=e13336]:
+                          - generic [ref=e13338] [cursor=pointer]:
+                            - img [ref=e13341]:
+                              - img [ref=e13342]
+                            - generic [ref=e13345]:
+                              - generic "ПР6_Практика_Индикатор_УникПроцессы" [ref=e13347]:
+                                - generic [ref=e13348]: ПР6_Практика_Индикатор_УникПроцессы
+                              - generic "28.03.2026" [ref=e13349]
+                        - listitem [ref=e13350]:
+                          - generic [ref=e13352] [cursor=pointer]:
+                            - img [ref=e13355]:
+                              - img [ref=e13356]
+                            - generic [ref=e13359]:
+                              - generic "ПР6_Практика_Индикатор_УникПользователи" [ref=e13361]:
+                                - generic [ref=e13362]: ПР6_Практика_Индикатор_УникПользователи
+                              - generic "28.03.2026" [ref=e13363]
+                        - listitem [ref=e13364]:
+                          - generic [ref=e13366] [cursor=pointer]:
+                            - img [ref=e13369]:
+                              - img [ref=e13370]
+                            - generic [ref=e13373]:
+                              - generic "Сводная_Города_Заказы_Дни" [ref=e13375]:
+                                - generic [ref=e13376]: Сводная_Города_Заказы_Дни
+                              - generic "28.03.2026" [ref=e13377]
+                        - listitem [ref=e13378]:
+                          - generic [ref=e13380] [cursor=pointer]:
+                            - img [ref=e13383]:
+                              - img [ref=e13384]
+                            - generic [ref=e13387]:
+                              - generic "Линейная_Оценка_ПоДатам" [ref=e13389]:
+                                - generic [ref=e13390]: Линейная_Оценка_ПоДатам
+                              - generic "28.03.2026" [ref=e13391]
+                        - listitem [ref=e13392]:
+                          - generic [ref=e13394] [cursor=pointer]:
+                            - img [ref=e13397]:
+                              - img [ref=e13398]
+                            - generic [ref=e13401]:
+                              - generic "Круговая_Сотрудники_Заказы" [ref=e13403]:
+                                - generic [ref=e13404]: Круговая_Сотрудники_Заказы
+                              - generic "28.03.2026" [ref=e13405]
+                        - listitem [ref=e13406]:
+                          - generic [ref=e13408] [cursor=pointer]:
+                            - img [ref=e13411]:
+                              - img [ref=e13412]
+                            - generic [ref=e13415]:
+                              - generic "Индикатор_СреднееМинМакс" [ref=e13417]:
+                                - generic [ref=e13418]: Индикатор_СреднееМинМакс
+                              - generic "28.03.2026" [ref=e13419]
+                        - listitem [ref=e13420]:
+                          - generic [ref=e13422] [cursor=pointer]:
+                            - img [ref=e13425]:
+                              - img [ref=e13426]
+                            - generic [ref=e13429]:
+                              - generic "Индикатор_МаксСтоимость" [ref=e13431]:
+                                - generic [ref=e13432]: Индикатор_МаксСтоимость
+                              - generic "28.03.2026" [ref=e13433]
+                - button "Указать ссылку" [ref=e13104] [cursor=pointer]:
+                  - generic [ref=e13105]: Указать ссылку
+            - generic [ref=e13106]:
+              - generic [ref=e13108]:
+                - text: Фильтрация
+                - button [ref=e13110] [cursor=pointer]:
+                  - img [ref=e13111]:
+                    - img [ref=e13112]
+              - generic [ref=e13115]:
+                - generic:
+                  - generic:
+                    - checkbox "Фильтрация" [disabled]
+          - generic [ref=e13116]:
+            - generic [ref=e13117]: Внешний вид
+            - generic [ref=e13118]:
+              - generic [ref=e13120]: Заголовок
+              - generic [ref=e13123] [cursor=pointer]:
+                - generic:
+                  - img
+                - checkbox "Заголовок" [checked] [ref=e13124]
+            - generic [ref=e13125]:
+              - generic [ref=e13127]: Описание
+              - checkbox [ref=e13132] [cursor=pointer]
+            - generic [ref=e13133]:
+              - generic [ref=e13135]:
+                - text: Подсказка
+                - button [ref=e13137] [cursor=pointer]:
+                  - img [ref=e13138]:
+                    - img [ref=e13139]
+              - checkbox [ref=e13145] [cursor=pointer]
+            - generic [ref=e13146]:
+              - generic [ref=e13148]:
+                - text: Автовысота
+                - button [ref=e13150] [cursor=pointer]:
+                  - img [ref=e13151]:
+                    - img [ref=e13152]
+              - generic [ref=e13154]:
+                - generic:
+                  - generic:
+                    - checkbox "Автовысота" [disabled]
+          - generic [ref=e13157] [cursor=pointer]:
+            - generic [ref=e13158]: Параметры
+            - img [ref=e13161]:
+              - img [ref=e13162]
+      - generic [ref=e13166]:
+        - button "Отменить" [ref=e13168] [cursor=pointer]:
+          - generic [ref=e13169]: Отменить
+        - button "Добавить" [ref=e13171] [cursor=pointer]:
+          - generic [ref=e13172]: Добавить
+      - button "Закрыть диалоговое окно" [ref=e13174] [cursor=pointer]:
+        - img [ref=e13177]:
+          - img [ref=e13178]

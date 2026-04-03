@@ -1,0 +1,257 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e294]:
+    - generic [ref=e297]:
+      - list [ref=e298]:
+        - listitem [ref=e299]:
+          - link "Новое подключение" [ref=e300] [cursor=pointer]:
+            - /url: /connections/new
+            - generic [ref=e301]: Новое подключение
+        - listitem [ref=e302]
+      - combobox [ref=e304] [cursor=pointer]:
+        - img [ref=e307]:
+          - img [ref=e308]
+    - generic [ref=e310]:
+      - textbox "Имя коннектора" [active] [ref=e313]
+      - heading "Базы данных" [level=3] [ref=e314]
+      - generic [ref=e315]:
+        - link "ClickHouse" [ref=e317] [cursor=pointer]:
+          - /url: /connections/new/clickhouse
+          - img [ref=e318]
+          - generic [ref=e319]: ClickHouse
+        - link "PostgreSQL" [ref=e321] [cursor=pointer]:
+          - /url: /connections/new/postgres
+          - img [ref=e322]
+          - generic [ref=e323]: PostgreSQL
+        - link "MySQL" [ref=e325] [cursor=pointer]:
+          - /url: /connections/new/mysql
+          - img [ref=e326]
+          - generic [ref=e327]: MySQL
+        - link "YDB" [ref=e329] [cursor=pointer]:
+          - /url: /connections/new/ydb
+          - img [ref=e330]
+          - generic [ref=e331]: YDB
+        - link "YTsaurus CHYT" [ref=e333] [cursor=pointer]:
+          - /url: /connections/new/chyt
+          - img [ref=e334]
+          - generic [ref=e335]: YTsaurus CHYT
+        - link "Greenplum" [ref=e337] [cursor=pointer]:
+          - /url: /connections/new/greenplum
+          - img [ref=e338]
+          - generic [ref=e339]: Greenplum
+        - link "MS SQL Server" [ref=e341] [cursor=pointer]:
+          - /url: /connections/new/mssql
+          - img [ref=e342]
+          - generic [ref=e343]: MS SQL Server
+        - link "Oracle Database" [ref=e345] [cursor=pointer]:
+          - /url: /connections/new/oracle
+          - img [ref=e346]
+          - generic [ref=e347]: Oracle Database
+        - link "Trino" [ref=e349] [cursor=pointer]:
+          - /url: /connections/new/trino
+          - img [ref=e350]
+          - generic [ref=e351]: Trino
+        - link "Snowflake" [ref=e353] [cursor=pointer]:
+          - /url: /connections/new/snowflake
+          - img [ref=e354]
+          - generic [ref=e355]: Snowflake
+        - link "Prometheus" [ref=e357] [cursor=pointer]:
+          - /url: /connections/new/promql
+          - img [ref=e358]
+          - generic [ref=e359]: Prometheus
+      - heading "Файлы и сервисы" [level=3] [ref=e360]
+      - generic [ref=e361]:
+        - link "Файлы" [ref=e363] [cursor=pointer]:
+          - /url: /connections/new/file
+          - img [ref=e364]
+          - generic [ref=e365]: Файлы
+        - link "Google Sheets" [ref=e367] [cursor=pointer]:
+          - /url: /connections/new/gsheets_v2
+          - img [ref=e368]
+          - generic [ref=e369]: Google Sheets
+        - link "Яндекс Документы" [ref=e371] [cursor=pointer]:
+          - /url: /connections/new/yadocs
+          - img [ref=e372]
+          - generic [ref=e373]: Яндекс Документы
+        - link "Yandex Query" [ref=e375] [cursor=pointer]:
+          - /url: /connections/new/yq
+          - img [ref=e376]
+          - generic [ref=e377]: Yandex Query
+        - link "Metrica" [ref=e379] [cursor=pointer]:
+          - /url: /connections/new/metrica
+          - img [ref=e380]
+          - generic [ref=e381]: Metrica
+        - link "AppMetrica" [ref=e383] [cursor=pointer]:
+          - /url: /connections/new/appmetrica
+          - img [ref=e384]
+          - generic [ref=e385]: AppMetrica
+        - link "Yandex Cloud Billing" [ref=e387] [cursor=pointer]:
+          - /url: /connections/new/yc_billing
+          - img [ref=e388]
+          - generic [ref=e389]: Yandex Cloud Billing
+        - link "Мониторинг" [ref=e391] [cursor=pointer]:
+          - /url: /connections/new/monitoring
+          - img [ref=e392]
+          - generic [ref=e393]: Мониторинг
+        - link "Usage Analytics Detailed" [ref=e395] [cursor=pointer]:
+          - /url: /connections/new/usage_analytics_detailed
+          - img [ref=e396]
+          - generic [ref=e397]: Usage Analytics Detailed
+        - link "API Connector" [ref=e399] [cursor=pointer]:
+          - /url: /connections/new/json_api
+          - img [ref=e400]
+          - generic [ref=e401]: API Connector
+        - link "SpeechSense" [ref=e403] [cursor=pointer]:
+          - /url: /connections/new/speechsense
+          - img [ref=e404]
+          - generic [ref=e405]: SpeechSense
+      - heading "Партнерские подключения" [level=3] [ref=e406]
+      - generic [ref=e407]:
+        - link "Битрикс24" [ref=e409] [cursor=pointer]:
+          - /url: /connections/new/bitrix24
+          - img [ref=e410]
+          - generic [ref=e411]: Битрикс24
+        - link "Подкасты Аналитика" [ref=e413] [cursor=pointer]:
+          - /url: /connections/new/ch_ya_music_podcast_stats
+          - img [ref=e414]
+          - generic [ref=e415]: Подкасты Аналитика
+        - link "МойСклад" [ref=e417] [cursor=pointer]:
+          - /url: /connections/new/moysklad
+          - img [ref=e418]
+          - generic [ref=e419]: МойСклад
+        - link "Контур.Маркет" [ref=e421] [cursor=pointer]:
+          - /url: /connections/new/kontur_market
+          - img [ref=e422]
+          - generic [ref=e423]: Контур.Маркет
+        - link "Экстрактор 1С" [ref=e425] [cursor=pointer]:
+          - /url: /connections/new/extractor1c
+          - img [ref=e426]
+          - generic [ref=e427]: Экстрактор 1С

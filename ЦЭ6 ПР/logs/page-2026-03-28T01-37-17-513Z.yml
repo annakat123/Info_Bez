@@ -1,0 +1,391 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e2237] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e2238] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e2239]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e2240] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e2241]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e2242] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e2243]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e2244] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e2245]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e2246] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e2247]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e2248] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e2249]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e2250] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e2251]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e2252] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e2253]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e2254] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e2255]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e2256] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e2257]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e2258] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e2259] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e2260] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e2261] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e2262] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e2263] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e2910]:
+    - generic [ref=e2913]:
+      - list [ref=e2914]:
+        - listitem [ref=e2915]:
+          - link "Коллекции и воркбуки" [ref=e2916] [cursor=pointer]:
+            - /url: /collections
+          - generic [ref=e2917]: /
+        - listitem [ref=e2918]:
+          - link "ПР6_ЦЭДУП_Вариант2" [ref=e2919] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3
+          - generic [ref=e2920]: /
+        - listitem [ref=e2921]:
+          - link "Новый датасет" [ref=e2922] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3/datasets/new
+        - listitem [ref=e2923]
+      - generic [ref=e2924]:
+        - button [disabled]:
+          - generic:
+            - generic:
+              - img:
+                - img
+        - button [disabled]:
+          - generic:
+            - generic:
+              - img:
+                - img
+        - combobox [ref=e2926] [cursor=pointer]:
+          - img [ref=e2929]:
+            - img [ref=e2930]
+        - button [ref=e2932] [cursor=pointer]:
+          - img [ref=e2935]:
+            - img [ref=e2936]
+        - button "Создать чарт" [disabled]:
+          - generic: Создать чарт
+        - button "Сохранить" [ref=e3062] [cursor=pointer]:
+          - generic [ref=e3063]: Сохранить
+    - generic [ref=e2938]:
+      - radiogroup [ref=e2939]:
+        - generic [ref=e2940]:
+          - radio "Источники" [checked] [ref=e2941]
+          - generic [ref=e2942]: Источники
+        - generic [ref=e2943] [cursor=pointer]:
+          - radio "Поля" [ref=e2944]
+          - generic [ref=e2945]: Поля
+        - generic [ref=e2946] [cursor=pointer]:
+          - radio "Параметры" [ref=e2947]
+          - generic [ref=e2948]: Параметры
+        - generic [ref=e2949]:
+          - radio "Фильтрация" [disabled] [ref=e2950]
+          - generic [ref=e2951]: Фильтрация
+      - button "Предпросмотр" [ref=e2953] [cursor=pointer]:
+        - generic [ref=e2954]: Предпросмотр
+    - generic [ref=e2956]:
+      - generic [ref=e2959]:
+        - generic [ref=e2961]:
+          - generic [ref=e2962]:
+            - generic [ref=e2963]: Подключения
+            - generic [ref=e3064]:
+              - generic [ref=e3065] [cursor=pointer]:
+                - img [ref=e3066]
+                - generic "ПР6_Вариант2_Подключение" [ref=e3068]
+              - button [ref=e3070] [cursor=pointer]:
+                - img [ref=e3073]:
+                  - img [ref=e3074]
+          - generic [ref=e2972]:
+            - generic [ref=e2975]: Таблицы
+            - list [ref=e3077]:
+              - listitem [ref=e3080]:
+                - generic [ref=e3082]:
+                  - img [ref=e3083]:
+                    - img [ref=e3084]
+                  - generic "pr6_variant2.csv" [ref=e3088]
+                  - button [ref=e3090] [cursor=pointer]:
+                    - img [ref=e3093]:
+                      - img [ref=e3094]
+        - generic [ref=e2980]:
+          - generic [ref=e3097]:
+            - img [ref=e3098]:
+              - img [ref=e3099]
+            - generic "pr6_variant2.csv" [ref=e3103]
+            - button [ref=e3104] [cursor=pointer]:
+              - img [ref=e3107]:
+                - img [ref=e3108]
+          - img [ref=e2989]
+      - generic [ref=e2991]:
+        - generic [ref=e2992]:
+          - generic [ref=e2993]: Предпросмотр
+          - generic [ref=e2994]:
+            - generic [ref=e2995]: "Количество строк:"
+            - spinbutton [ref=e2998]: "10"
+            - generic [ref=e2999]: не больше 1 000
+          - generic [ref=e3000]:
+            - button "На весь экран" [ref=e3001] [cursor=pointer]:
+              - img [ref=e3004]:
+                - img [ref=e3005]
+            - button "Развернуть справа" [ref=e3007] [cursor=pointer]:
+              - img [ref=e3010]:
+                - img [ref=e3011]
+            - button "Закрыть" [ref=e3013] [cursor=pointer]:
+              - img [ref=e3016]:
+                - img [ref=e3017]
+        - generic [ref=e3111]:
+          - table [ref=e3114]:
+            - rowgroup [ref=e3126]:
+              - row "Страна Город Номер заявки Дата потсупления заявки Дата закрытия заявки Стоимость ремонта Ответственный сотрудник Кол-во дней ремонта Оценка качества сотрудника" [ref=e3127]:
+                - columnheader [ref=e3128]:
+                  - img [ref=e3131]:
+                    - img [ref=e3132]
+                - columnheader "Страна" [ref=e3134]:
+                  - generic [ref=e3136]: Страна
+                - columnheader "Город" [ref=e3137]:
+                  - generic [ref=e3139]: Город
+                - columnheader "Номер заявки" [ref=e3140]:
+                  - generic [ref=e3142]: Номер заявки
+                - columnheader "Дата потсупления заявки" [ref=e3143]:
+                  - generic [ref=e3145]: Дата потсупления заявки
+                - columnheader "Дата закрытия заявки" [ref=e3146]:
+                  - generic [ref=e3148]: Дата закрытия заявки
+                - columnheader "Стоимость ремонта" [ref=e3149]:
+                  - generic [ref=e3151]: Стоимость ремонта
+                - columnheader "Ответственный сотрудник" [ref=e3152]:
+                  - generic [ref=e3154]: Ответственный сотрудник
+                - columnheader "Кол-во дней ремонта" [ref=e3155]:
+                  - generic [ref=e3157]: Кол-во дней ремонта
+                - columnheader "Оценка качества сотрудника" [ref=e3158]:
+                  - generic [ref=e3160]: Оценка качества сотрудника
+          - table [ref=e3163]:
+            - rowgroup [ref=e3175]:
+              - row "Страна Город Номер заявки Дата потсупления заявки Дата закрытия заявки Стоимость ремонта Ответственный сотрудник Кол-во дней ремонта Оценка качества сотрудника" [ref=e3176]:
+                - columnheader [ref=e3177]:
+                  - img [ref=e3180]:
+                    - img [ref=e3181]
+                - columnheader "Страна" [ref=e3183]:
+                  - generic [ref=e3185]: Страна
+                - columnheader "Город" [ref=e3186]:
+                  - generic [ref=e3188]: Город
+                - columnheader "Номер заявки" [ref=e3189]:
+                  - generic [ref=e3191]: Номер заявки
+                - columnheader "Дата потсупления заявки" [ref=e3192]:
+                  - generic [ref=e3194]: Дата потсупления заявки
+                - columnheader "Дата закрытия заявки" [ref=e3195]:
+                  - generic [ref=e3197]: Дата закрытия заявки
+                - columnheader "Стоимость ремонта" [ref=e3198]:
+                  - generic [ref=e3200]: Стоимость ремонта
+                - columnheader "Ответственный сотрудник" [ref=e3201]:
+                  - generic [ref=e3203]: Ответственный сотрудник
+                - columnheader "Кол-во дней ремонта" [ref=e3204]:
+                  - generic [ref=e3206]: Кол-во дней ремонта
+                - columnheader "Оценка качества сотрудника" [ref=e3207]:
+                  - generic [ref=e3209]: Оценка качества сотрудника
+            - rowgroup [ref=e3210]:
+              - row "1 Россия Москва 389373 2023-11-06 2023-11-09 19000 Котов А.В. 4 4" [ref=e3211]:
+                - cell "1" [ref=e3212]
+                - cell "Россия" [ref=e3213]
+                - cell "Москва" [ref=e3214]
+                - cell "389373" [ref=e3215]
+                - cell "2023-11-06" [ref=e3216]
+                - cell "2023-11-09" [ref=e3217]
+                - cell "19000" [ref=e3218]
+                - cell "Котов А.В." [ref=e3219]
+                - cell "4" [ref=e3220]
+                - cell "4" [ref=e3221]
+              - row "2 Россия Москва 206664 2023-11-07 2023-11-10 28546 Васин В.Д. 4 4" [ref=e3222]:
+                - cell "2" [ref=e3223]
+                - cell "Россия" [ref=e3224]
+                - cell "Москва" [ref=e3225]
+                - cell "206664" [ref=e3226]
+                - cell "2023-11-07" [ref=e3227]
+                - cell "2023-11-10" [ref=e3228]
+                - cell "28546" [ref=e3229]
+                - cell "Васин В.Д." [ref=e3230]
+                - cell "4" [ref=e3231]
+                - cell "4" [ref=e3232]
+              - row "3 Россия Москва 784046 2024-04-07 2024-04-11 58203 Кетов А.А. 5 5" [ref=e3233]:
+                - cell "3" [ref=e3234]
+                - cell "Россия" [ref=e3235]
+                - cell "Москва" [ref=e3236]
+                - cell "784046" [ref=e3237]
+                - cell "2024-04-07" [ref=e3238]
+                - cell "2024-04-11" [ref=e3239]
+                - cell "58203" [ref=e3240]
+                - cell "Кетов А.А." [ref=e3241]
+                - cell "5" [ref=e3242]
+                - cell "5" [ref=e3243]
+              - row "4 Россия Нижний Новгород 996474 2024-04-08 2024-04-12 65393 Кетов А.А. 5 5" [ref=e3244]:
+                - cell "4" [ref=e3245]
+                - cell "Россия" [ref=e3246]
+                - cell "Нижний Новгород" [ref=e3247]
+                - cell "996474" [ref=e3248]
+                - cell "2024-04-08" [ref=e3249]
+                - cell "2024-04-12" [ref=e3250]
+                - cell "65393" [ref=e3251]
+                - cell "Кетов А.А." [ref=e3252]
+                - cell "5" [ref=e3253]
+                - cell "5" [ref=e3254]
+              - row "5 Россия Екатеринбург 132131 2024-04-09 2024-04-13 12354 Кетов А.А. 5 4" [ref=e3255]:
+                - cell "5" [ref=e3256]
+                - cell "Россия" [ref=e3257]
+                - cell "Екатеринбург" [ref=e3258]
+                - cell "132131" [ref=e3259]
+                - cell "2024-04-09" [ref=e3260]
+                - cell "2024-04-13" [ref=e3261]
+                - cell "12354" [ref=e3262]
+                - cell "Кетов А.А." [ref=e3263]
+                - cell "5" [ref=e3264]
+                - cell "4" [ref=e3265]
+              - row "6 Россия Нижний Новгород 822178 2024-11-12 2024-11-14 13500 Васин В.Д. 3 3" [ref=e3266]:
+                - cell "6" [ref=e3267]
+                - cell "Россия" [ref=e3268]
+                - cell "Нижний Новгород" [ref=e3269]
+                - cell "822178" [ref=e3270]
+                - cell "2024-11-12" [ref=e3271]
+                - cell "2024-11-14" [ref=e3272]
+                - cell "13500" [ref=e3273]
+                - cell "Васин В.Д." [ref=e3274]
+                - cell "3" [ref=e3275]
+                - cell "3" [ref=e3276]
+              - row "7 Россия Екатеринбург 658082 2024-11-13 2024-11-15 8657 Васин В.Д. 3 4" [ref=e3277]:
+                - cell "7" [ref=e3278]
+                - cell "Россия" [ref=e3279]
+                - cell "Екатеринбург" [ref=e3280]
+                - cell "658082" [ref=e3281]
+                - cell "2024-11-13" [ref=e3282]
+                - cell "2024-11-15" [ref=e3283]
+                - cell "8657" [ref=e3284]
+                - cell "Васин В.Д." [ref=e3285]
+                - cell "3" [ref=e3286]
+                - cell "4" [ref=e3287]
+              - row "8 Россия Москва 418956 2025-02-10 2025-02-15 37545 Васин В.Д. 6 5" [ref=e3288]:
+                - cell "8" [ref=e3289]
+                - cell "Россия" [ref=e3290]
+                - cell "Москва" [ref=e3291]
+                - cell "418956" [ref=e3292]
+                - cell "2025-02-10" [ref=e3293]
+                - cell "2025-02-15" [ref=e3294]
+                - cell "37545" [ref=e3295]
+                - cell "Васин В.Д." [ref=e3296]
+                - cell "6" [ref=e3297]
+                - cell "5" [ref=e3298]
+              - row "9 Россия Екатеринбург 689680 2025-02-11 2025-02-16 22564 Котов А.В. 6 3" [ref=e3299]:
+                - cell "9" [ref=e3300]
+                - cell "Россия" [ref=e3301]
+                - cell "Екатеринбург" [ref=e3302]
+                - cell "689680" [ref=e3303]
+                - cell "2025-02-11" [ref=e3304]
+                - cell "2025-02-16" [ref=e3305]
+                - cell "22564" [ref=e3306]
+                - cell "Котов А.В." [ref=e3307]
+                - cell "6" [ref=e3308]
+                - cell "3" [ref=e3309]
+              - row "10 Россия Нижний Новгород 155010 2025-02-12 2025-02-17 45321 Котов А.В. 6 5" [ref=e3310]:
+                - cell "10" [ref=e3311]
+                - cell "Россия" [ref=e3312]
+                - cell "Нижний Новгород" [ref=e3313]
+                - cell "155010" [ref=e3314]
+                - cell "2025-02-12" [ref=e3315]
+                - cell "2025-02-17" [ref=e3316]
+                - cell "45321" [ref=e3317]
+                - cell "Котов А.В." [ref=e3318]
+                - cell "6" [ref=e3319]
+                - cell "5" [ref=e3320]

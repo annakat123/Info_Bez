@@ -1,0 +1,18 @@
+[   52012ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://datalens.ru/gateway/root/billing/getBillableEntityBillingAccount:0
+[  100049ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://datalens.ru/gateway/root/bi/validateDatasetFormula:0
+[  130180ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://datalens.ru/gateway/root/bi/validateDatasetFormula:0
+[  132771ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://datalens.ru/gateway/root/bi/validateDatasetFormula:0
+[  135004ms] Uncaught Error: Cannot read properties of null (reading 'id')
+
+TypeError: Cannot read properties of null (reading 'id')
+    at f._key (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:489:251007)
+    at f.get (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:489:251087)
+    at https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:503:177026
+    at c.invoke (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:444:130183)
+    at m.deliver (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:444:132715)
+    at g.fire (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:444:132318)
+    at https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:1:96774
+    at https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:444:168198
+    at Object.dispose (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:444:143159)
+    at e.dispose (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:509:53122)
+    at <anonymous> (https://yastatic.net/s3/cloud/datalens/static/freeze/js/monaco-editor.180a028d.chunk.js:443:123655)

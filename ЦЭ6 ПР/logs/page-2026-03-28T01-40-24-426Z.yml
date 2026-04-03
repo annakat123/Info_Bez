@@ -1,0 +1,191 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e593] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e594] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e595]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e596] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e597]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e598] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e599]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e600] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e601]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e602] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e603]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e604] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e605]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e606] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e607]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e608] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e609]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e610] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e611]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e612] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e613]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e614] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e615] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e616] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e617] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e618] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e619] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e410]:
+      - generic [ref=e413]:
+        - list [ref=e414]:
+          - listitem [ref=e415]:
+            - link [ref=e620] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e417]: /
+          - listitem [ref=e418]:
+            - link [ref=e621] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e420]: /
+          - listitem [ref=e421]:
+            - link [ref=e622] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/connections/new/file
+              - text: Новое подключение
+          - listitem [ref=e423]
+        - combobox [ref=e425] [cursor=pointer]:
+          - img [ref=e428]:
+            - img [ref=e429]
+        - button [ref=e549] [cursor=pointer]:
+          - img [ref=e552]:
+            - img [ref=e553]
+        - generic [ref=e555]:
+          - button [disabled]:
+            - generic: Создать подключение
+      - generic [ref=e557]:
+        - generic [ref=e558]:
+          - link [ref=e560] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3/connections/new
+            - button [ref=e561]:
+              - img [ref=e564]:
+                - img [ref=e565]
+          - img [ref=e567]
+          - generic [ref=e568]: Файлы
+        - generic [ref=e569]:
+          - button [ref=e570]
+          - button [ref=e623] [cursor=pointer]:
+            - img [ref=e574]:
+              - img [ref=e575]
+            - generic [ref=e577]: Загрузить файлы
+          - button [ref=e578] [cursor=pointer]:
+            - img [ref=e579]:
+              - img [ref=e580]
+        - button [ref=e582]
+        - list [ref=e584]:
+          - listitem [ref=e625] [cursor=pointer]:
+            - generic [ref=e627]:
+              - img [ref=e628]:
+                - img [ref=e629]
+              - generic [ref=e632]:
+                - generic [ref=e634]: PR6_variant2_practice.xlsx
+                - generic [ref=e635]: Выбрать листы
+  - dialog [active] [ref=e640]:
+    - generic [ref=e641]:
+      - generic [ref=e643]: Добавить листы
+      - generic [ref=e644]:
+        - generic [ref=e646] [cursor=pointer]:
+          - checkbox [ref=e649]
+          - generic [ref=e650]: Листы
+        - list [ref=e652]:
+          - generic [ref=e653]:
+            - listitem [ref=e654]:
+              - generic [ref=e656] [cursor=pointer]:
+                - checkbox [ref=e659]
+                - generic [ref=e660]: PR6_variant2_practice.xlsx – Вариант_1_Синий+Зеленый
+            - listitem [ref=e661]:
+              - generic [ref=e663] [cursor=pointer]:
+                - checkbox [ref=e666]
+                - generic [ref=e667]: PR6_variant2_practice.xlsx – Вариант_2_Оранжевый+Синий
+            - listitem [ref=e668]:
+              - generic [ref=e670] [cursor=pointer]:
+                - checkbox [ref=e673]
+                - generic [ref=e674]: PR6_variant2_practice.xlsx – Вариант_3_Бирюзовый+Красный
+            - listitem [ref=e675]:
+              - generic [ref=e677] [cursor=pointer]:
+                - checkbox [ref=e680]
+                - generic [ref=e681]: PR6_variant2_practice.xlsx – Вариант_4_Оранжевый+Красный
+            - listitem [ref=e682]:
+              - generic [ref=e684] [cursor=pointer]:
+                - checkbox [ref=e687]
+                - generic [ref=e688]: PR6_variant2_practice.xlsx – Вариант_5_Бирюзовый+Оранжевый
+      - generic [ref=e690]:
+        - button "Отмена" [ref=e692] [cursor=pointer]:
+          - generic [ref=e693]: Отмена
+        - generic [ref=e694]:
+          - button "Добавить" [disabled]:
+            - generic: Добавить
+      - button "Закрыть диалоговое окно" [ref=e696] [cursor=pointer]:
+        - img [ref=e699]:
+          - img [ref=e700]

@@ -1,0 +1,358 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e297]:
+    - list [ref=e302]:
+      - listitem [ref=e303]:
+        - link "Чарты" [disabled] [ref=e304]
+    - generic [ref=e305]:
+      - generic [ref=e306]:
+        - textbox "Фильтр по имени" [active] [ref=e310]
+        - generic [ref=e311]:
+          - group [ref=e314] [cursor=pointer]:
+            - combobox [ref=e315]:
+              - generic [ref=e316]: Сначала новые
+            - img [ref=e317]:
+              - img [ref=e318]
+          - radiogroup [ref=e321]:
+            - generic [ref=e322]:
+              - radio "Все" [checked] [ref=e323]
+              - generic [ref=e324]: Все
+            - generic [ref=e325] [cursor=pointer]:
+              - radio "Только мои" [ref=e326]
+              - generic [ref=e327]: Только мои
+        - button "Создать чарт" [ref=e330] [cursor=pointer]:
+          - img [ref=e333]:
+            - img [ref=e334]
+          - generic [ref=e336]: Создать чарт
+      - generic [ref=e341]:
+        - generic [ref=e345]:
+          - generic [ref=e348]: Название
+          - generic [ref=e351]: Автор
+          - generic [ref=e353]: Дата
+        - link "ПР6_Практика_Индикатор_МаксДлительность ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e357] [cursor=pointer]:
+          - /url: /wizard/jneya4wmyxuu3-pr6-praktika-indikator-maksdlitelnost
+          - generic [ref=e358]:
+            - img [ref=e361]:
+              - img [ref=e362]
+            - generic [ref=e365]:
+              - generic [ref=e366]:
+                - generic "ПР6_Практика_Индикатор_МаксДлительность" [ref=e367]:
+                  - generic [ref=e368]: ПР6_Практика_Индикатор_МаксДлительность
+                - generic [ref=e369]:
+                  - img [ref=e370]:
+                    - img [ref=e371]
+                  - generic [ref=e374]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e376]: ivanbut2005
+              - generic "28.03.26" [ref=e377]:
+                - generic [ref=e378]: 28.03.26
+        - link "ПР6_Практика_Индикатор_УникПроцессы ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e382] [cursor=pointer]:
+          - /url: /wizard/48zi9dc9m9sso-pr6-praktika-indikator-unikprocessy
+          - generic [ref=e383]:
+            - img [ref=e386]:
+              - img [ref=e387]
+            - generic [ref=e390]:
+              - generic [ref=e391]:
+                - generic "ПР6_Практика_Индикатор_УникПроцессы" [ref=e392]:
+                  - generic [ref=e393]: ПР6_Практика_Индикатор_УникПроцессы
+                - generic [ref=e394]:
+                  - img [ref=e395]:
+                    - img [ref=e396]
+                  - generic [ref=e399]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e401]: ivanbut2005
+              - generic "28.03.26" [ref=e402]:
+                - generic [ref=e403]: 28.03.26
+        - link "ПР6_Практика_Индикатор_УникПользователи ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e407] [cursor=pointer]:
+          - /url: /wizard/qul4fa7sdiv0a-pr6-praktika-indikator-unikpolzovateli
+          - generic [ref=e408]:
+            - img [ref=e411]:
+              - img [ref=e412]
+            - generic [ref=e415]:
+              - generic [ref=e416]:
+                - generic "ПР6_Практика_Индикатор_УникПользователи" [ref=e417]:
+                  - generic [ref=e418]: ПР6_Практика_Индикатор_УникПользователи
+                - generic [ref=e419]:
+                  - img [ref=e420]:
+                    - img [ref=e421]
+                  - generic [ref=e424]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e426]: ivanbut2005
+              - generic "28.03.26" [ref=e427]:
+                - generic [ref=e428]: 28.03.26
+        - link "Сводная_Города_Заказы_Дни ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e432] [cursor=pointer]:
+          - /url: /wizard/15w8vzlnwdzel-svodnaya-goroda-zakazy-dni
+          - generic [ref=e433]:
+            - img [ref=e436]:
+              - img [ref=e437]
+            - generic [ref=e440]:
+              - generic [ref=e441]:
+                - generic "Сводная_Города_Заказы_Дни" [ref=e442]:
+                  - generic [ref=e443]: Сводная_Города_Заказы_Дни
+                - generic [ref=e444]:
+                  - img [ref=e445]:
+                    - img [ref=e446]
+                  - generic [ref=e449]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e451]: ivanbut2005
+              - generic "28.03.26" [ref=e452]:
+                - generic [ref=e453]: 28.03.26
+        - link "Линейная_Оценка_ПоДатам ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e457] [cursor=pointer]:
+          - /url: /wizard/dh8jnzqw7vuix-lineynaya-ocenka-podatam
+          - generic [ref=e458]:
+            - img [ref=e461]:
+              - img [ref=e462]
+            - generic [ref=e465]:
+              - generic [ref=e466]:
+                - generic "Линейная_Оценка_ПоДатам" [ref=e467]:
+                  - generic [ref=e468]: Линейная_Оценка_ПоДатам
+                - generic [ref=e469]:
+                  - img [ref=e470]:
+                    - img [ref=e471]
+                  - generic [ref=e474]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e476]: ivanbut2005
+              - generic "28.03.26" [ref=e477]:
+                - generic [ref=e478]: 28.03.26
+        - link "Круговая_Сотрудники_Заказы ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e482] [cursor=pointer]:
+          - /url: /wizard/cg7gqn2tw7kgw-krugovaya-sotrudniki-zakazy
+          - generic [ref=e483]:
+            - img [ref=e486]:
+              - img [ref=e487]
+            - generic [ref=e490]:
+              - generic [ref=e491]:
+                - generic "Круговая_Сотрудники_Заказы" [ref=e492]:
+                  - generic [ref=e493]: Круговая_Сотрудники_Заказы
+                - generic [ref=e494]:
+                  - img [ref=e495]:
+                    - img [ref=e496]
+                  - generic [ref=e499]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e501]: ivanbut2005
+              - generic "28.03.26" [ref=e502]:
+                - generic [ref=e503]: 28.03.26
+        - link "Индикатор_СреднееМинМакс ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e507] [cursor=pointer]:
+          - /url: /wizard/vzqwzxuzowjyf-indikator-sredneeminmaks
+          - generic [ref=e508]:
+            - img [ref=e511]:
+              - img [ref=e512]
+            - generic [ref=e515]:
+              - generic [ref=e516]:
+                - generic "Индикатор_СреднееМинМакс" [ref=e517]:
+                  - generic [ref=e518]: Индикатор_СреднееМинМакс
+                - generic [ref=e519]:
+                  - img [ref=e520]:
+                    - img [ref=e521]
+                  - generic [ref=e524]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e526]: ivanbut2005
+              - generic "28.03.26" [ref=e527]:
+                - generic [ref=e528]: 28.03.26
+        - link "Индикатор_МаксСтоимость ПР6_ЦЭДУП_Вариант2 ivanbut2005 28.03.26" [ref=e532] [cursor=pointer]:
+          - /url: /wizard/osjpargtkx808-indikator-maksstoimost
+          - generic [ref=e533]:
+            - img [ref=e536]:
+              - img [ref=e537]
+            - generic [ref=e540]:
+              - generic [ref=e541]:
+                - generic "Индикатор_МаксСтоимость" [ref=e542]:
+                  - generic [ref=e543]: Индикатор_МаксСтоимость
+                - generic [ref=e544]:
+                  - img [ref=e545]:
+                    - img [ref=e546]
+                  - generic [ref=e549]: ПР6_ЦЭДУП_Вариант2
+              - generic [ref=e551]: ivanbut2005
+              - generic "28.03.26" [ref=e552]:
+                - generic [ref=e553]: 28.03.26
+  - main [ref=e197]:
+    - generic [ref=e198]:
+      - img [ref=e200]:
+        - img [ref=e201]
+      - generic [ref=e204]:
+        - generic [ref=e205]: Давайте добавим коллег?
+        - generic [ref=e207]:
+          - text: Работайте в DataLens вместе бесплатно ещё 29 дней·Настроить вход
+          - link "через SSO" [ref=e208] [cursor=pointer]:
+            - /url: https://center.yandex.cloud/organization/federations
+        - button "Открыть настройки" [ref=e210] [cursor=pointer]:
+          - generic [ref=e211]: Открыть настройки
+      - generic [ref=e212]:
+        - img [ref=e216] [cursor=pointer]:
+          - img [ref=e217]
+        - heading "Подключения" [level=4] [ref=e219] [cursor=pointer]
+        - generic [ref=e220] [cursor=pointer]: Подключайте свои источники данных
+        - button "Создать подключение" [ref=e221] [cursor=pointer]:
+          - generic [ref=e222]: Создать
+        - img [ref=e226] [cursor=pointer]:
+          - img [ref=e227]
+        - heading "Датасеты" [level=4] [ref=e229] [cursor=pointer]
+        - generic [ref=e230] [cursor=pointer]: Описывайте модели данных с вычисляемыми полями и агрегациями
+        - button "Создать датасет" [ref=e231] [cursor=pointer]:
+          - generic [ref=e232]: Создать
+        - img [ref=e236] [cursor=pointer]:
+          - img [ref=e237]
+        - heading "Чарты" [level=4] [ref=e240] [cursor=pointer]
+        - generic [ref=e241] [cursor=pointer]: Визуализируйте данные в виде диаграмм и таблиц
+        - button "Создать чарт" [ref=e242] [cursor=pointer]:
+          - generic [ref=e243]: Создать
+        - img [ref=e247] [cursor=pointer]:
+          - img [ref=e248]
+        - heading "Дашборды" [level=4] [ref=e250] [cursor=pointer]
+        - generic [ref=e251] [cursor=pointer]: Создавайте панели с наборами диаграмм, таблиц и фильтров
+        - button "Создать дашборд" [ref=e252] [cursor=pointer]:
+          - generic [ref=e253]: Создать
+        - img [ref=e257] [cursor=pointer]:
+          - img [ref=e258]
+        - heading "Отчёты" [level=4] [ref=e260] [cursor=pointer]
+        - generic [ref=e261] [cursor=pointer]: Собирайте документы для презентации, экспорта или печати
+        - button "Создать отчёт" [ref=e262] [cursor=pointer]:
+          - generic [ref=e263]: Создать
+      - generic [ref=e264]:
+        - generic [ref=e265]:
+          - link "Открыть все работы Галереи" [ref=e266] [cursor=pointer]:
+            - /url: /gallery/all
+            - text: Галерея
+          - button [ref=e267] [cursor=pointer]:
+            - img [ref=e270]
+        - generic [ref=e272]:
+          - link "DataLens Demo Dashboard в Галерее DataLens Demo Dashboard" [ref=e273] [cursor=pointer]:
+            - /url: /gallery/wcyljs3cf5mwi
+            - generic [ref=e274]:
+              - img "DataLens Demo Dashboard в Галерее" [ref=e275]
+              - heading "DataLens Demo Dashboard" [level=1] [ref=e277]
+          - link "Коронавирус. Дашборд и данные в Галерее Коронавирус. Дашборд и данные" [ref=e278] [cursor=pointer]:
+            - /url: /gallery/k0rxsq57niv46
+            - generic [ref=e279]:
+              - img "Коронавирус. Дашборд и данные в Галерее" [ref=e280]
+              - heading "Коронавирус. Дашборд и данные" [level=1] [ref=e282]
+          - link "Погода в Галерее Погода" [ref=e283] [cursor=pointer]:
+            - /url: /gallery/7nd20g5n4mz6t
+            - generic [ref=e284]:
+              - img "Погода в Галерее" [ref=e285]
+              - heading "Погода" [level=1] [ref=e287]
+          - 'link "Организации: спрос и предложение в Галерее Организации: спрос и предложение" [ref=e288] [cursor=pointer]':
+            - /url: /gallery/euma77kb36nc0
+            - generic [ref=e289]:
+              - 'img "Организации: спрос и предложение в Галерее" [ref=e290]'
+              - 'heading "Организации: спрос и предложение" [level=1] [ref=e292]'

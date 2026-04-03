@@ -1,0 +1,349 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button "Все сервисы" [ref=e8265] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+              - generic "Все сервисы":
+                - generic: Все сервисы
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link "Коллекции и воркбуки" [ref=e8266] [cursor=pointer]:
+              - /url: /collections
+              - button "Коллекции и воркбуки" [ref=e8267]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+                - generic "Коллекции и воркбуки":
+                  - generic: Коллекции и воркбуки
+          - listitem [ref=e46]:
+            - link "Избранное" [ref=e8268] [cursor=pointer]:
+              - /url: /favorites
+              - button "Избранное" [ref=e8269]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+                - generic "Избранное":
+                  - generic: Избранное
+          - listitem [ref=e56]:
+            - link "Подключения" [ref=e8270] [cursor=pointer]:
+              - /url: /connections
+              - button "Подключения" [ref=e8271]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+                - generic "Подключения":
+                  - generic: Подключения
+          - listitem [ref=e66]:
+            - link "Датасеты" [ref=e8272] [cursor=pointer]:
+              - /url: /datasets
+              - button "Датасеты" [ref=e8273]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+                - generic "Датасеты":
+                  - generic: Датасеты
+          - listitem [ref=e76]:
+            - link "Чарты" [ref=e8274] [cursor=pointer]:
+              - /url: /widgets
+              - button "Чарты" [ref=e8275]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+                - generic "Чарты":
+                  - generic: Чарты
+          - listitem [ref=e87]:
+            - link "Дашборды" [ref=e8276] [cursor=pointer]:
+              - /url: /dashboards
+              - button "Дашборды" [ref=e8277]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+                - generic "Дашборды":
+                  - generic: Дашборды
+          - listitem [ref=e97]:
+            - link "Отчёты" [ref=e8278] [cursor=pointer]:
+              - /url: /reports
+              - button "Отчёты" [ref=e8279]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+                - generic "Отчёты":
+                  - generic: Отчёты
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link "Галерея" [ref=e8280] [cursor=pointer]:
+              - /url: /gallery
+              - button "Галерея" [ref=e8281]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+                - generic "Галерея":
+                  - generic: Галерея
+          - listitem [ref=e121]:
+            - link "Фоновый экспорт данных" [ref=e8282] [cursor=pointer]:
+              - /url: /exports
+              - button "Фоновый экспорт данных" [ref=e8283]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+                - generic "Фоновый экспорт данных":
+                  - generic: Фоновый экспорт данных
+          - listitem [ref=e131]:
+            - link "Настройки сервиса" [ref=e8284] [cursor=pointer]:
+              - /url: /settings
+              - button "Настройки сервиса" [ref=e8285]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+                - generic "Настройки сервиса":
+                  - generic: Настройки сервиса
+      - generic [ref=e142]:
+        - button "29 Пробный период" [ref=e8286] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+          - generic "Пробный период":
+            - generic: Пробный период
+        - button "Уведомления" [ref=e8287] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+          - generic "Уведомления":
+            - generic: Уведомления
+        - button "Центр поддержки" [ref=e8288] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+          - generic "Центр поддержки":
+            - generic: Центр поддержки
+        - button "Настройки" [ref=e8289] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+          - generic "Настройки":
+            - generic: Настройки
+        - button "Учётная запись" [ref=e8290] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+          - generic "Учётная запись":
+            - generic: Учётная запись
+      - button "Развернуть" [ref=e8291] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e7377]:
+      - generic [ref=e7380]:
+        - list [ref=e7381]:
+          - listitem [ref=e7382]:
+            - link "Коллекции и воркбуки" [ref=e8292] [cursor=pointer]:
+              - /url: /collections
+            - generic [ref=e7384]: /
+          - listitem [ref=e7385]:
+            - link "ПР6_ЦЭДУП_Вариант2" [ref=e8293] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+            - generic [ref=e7387]: /
+          - listitem [ref=e7388]:
+            - link "Новый чарт" [ref=e8294] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/wizard
+          - listitem [ref=e7390]
+        - generic [ref=e7391]:
+          - button [ref=e8009] [cursor=pointer]:
+            - img [ref=e8012]:
+              - img [ref=e8013]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button "На весь экран" [ref=e8295] [cursor=pointer]:
+            - img [ref=e7395]:
+              - img [ref=e7396]
+            - generic [ref=e7398]: На весь экран
+          - button [ref=e7399] [cursor=pointer]:
+            - img [ref=e7402]:
+              - img [ref=e7403]
+          - button "Сохранить" [ref=e8458] [cursor=pointer]:
+            - generic [ref=e8459]: Сохранить
+      - generic [ref=e7407]:
+        - generic [ref=e7410]:
+          - 'generic "Датасет: ПР6_Практика_Вариант2_Датасет" [ref=e8296] [cursor=pointer]':
+            - img [ref=e7663]:
+              - img [ref=e7664]
+            - generic [ref=e7666]: "Датасет:"
+            - generic [ref=e7667]: ПР6_Практика_Вариант2_Датасет
+          - generic [ref=e7668]:
+            - generic [ref=e7670]:
+              - textbox "Поиск по имени и описанию" [ref=e8297]
+              - button [ref=e7676] [cursor=pointer]:
+                - img [ref=e7679]:
+                  - img [ref=e7680]
+            - generic [ref=e7682]:
+              - generic [ref=e7683]: Измерения
+              - generic [ref=e7684]:
+                - generic "Вероятность" [ref=e8298] [cursor=pointer]:
+                  - img [ref=e7689]:
+                    - img [ref=e7690]
+                  - generic "Вероятность" [ref=e8299]
+                - generic "Время записи" [ref=e8300] [cursor=pointer]:
+                  - img [ref=e7698]:
+                    - img [ref=e7699]
+                  - generic "Время записи" [ref=e8301]
+                - generic "Год" [ref=e8302] [cursor=pointer]:
+                  - img [ref=e7707]:
+                    - img [ref=e7708]
+                  - generic "Год" [ref=e8303]
+                  - img [ref=e7713]:
+                    - img [ref=e7714]
+                - generic "Дата записи" [ref=e8304] [cursor=pointer]:
+                  - img [ref=e7721]:
+                    - img [ref=e7722]
+                  - generic "Дата записи" [ref=e8305]
+                - generic "День недели" [ref=e8306] [cursor=pointer]:
+                  - img [ref=e7730]:
+                    - img [ref=e7731]
+                  - generic "День недели" [ref=e8307]
+                - generic "Департамент" [ref=e8308] [cursor=pointer]:
+                  - img [ref=e7739]:
+                    - img [ref=e7740]
+                  - generic "Департамент" [ref=e8309]
+                - generic "Длительность процесса" [ref=e8310] [cursor=pointer]:
+                  - img [ref=e7748]:
+                    - img [ref=e7749]
+                  - generic "Длительность процесса" [ref=e8311]
+                - generic "Имя пользователя" [ref=e8312] [cursor=pointer]:
+                  - img [ref=e7757]:
+                    - img [ref=e7758]
+                  - generic "Имя пользователя" [ref=e8313]
+                - generic "Количество действий" [ref=e8314] [cursor=pointer]:
+                  - img [ref=e7766]:
+                    - img [ref=e7767]
+                  - generic "Количество действий" [ref=e8315]
+                - generic "Найденный процесс" [ref=e8316] [cursor=pointer]:
+                  - img [ref=e7775]:
+                    - img [ref=e7776]
+                  - generic "Найденный процесс" [ref=e8317]
+                - generic "Проект" [ref=e8318] [cursor=pointer]:
+                  - img [ref=e7784]:
+                    - img [ref=e7785]
+                  - generic "Проект" [ref=e8319]
+                - generic "ПШЕ после автоматизации" [ref=e8320] [cursor=pointer]:
+                  - img [ref=e7793]:
+                    - img [ref=e7794]
+                  - generic "ПШЕ после автоматизации" [ref=e8321]
+                - generic "Сложность автоматизации" [ref=e8322] [cursor=pointer]:
+                  - img [ref=e7802]:
+                    - img [ref=e7803]
+                  - generic "Сложность автоматизации" [ref=e8323]
+        - generic [ref=e7423]:
+          - generic [ref=e7426]:
+            - generic [ref=e7428]:
+              - button "Линейная диаграмма" [ref=e8324] [cursor=pointer]:
+                - generic [ref=e7431]:
+                  - img [ref=e7433]:
+                    - img [ref=e8016]
+                  - generic [ref=e7439]: Линейная диаграмма
+              - button [ref=e7441] [cursor=pointer]:
+                - img [ref=e7444]:
+                  - img [ref=e7445]
+            - generic [ref=e7448]:
+              - generic [ref=e7450]:
+                - generic [ref=e7451]:
+                  - img [ref=e7453]:
+                    - img [ref=e7454]
+                  - generic [ref=e7456]: X
+                  - generic [ref=e7457]:
+                    - button [ref=e7459] [cursor=pointer]:
+                      - img [ref=e7462]:
+                        - img [ref=e7463]
+                    - button [ref=e8461] [cursor=pointer]:
+                      - img [ref=e8464]:
+                        - img [ref=e8465]
+                - generic [ref=e8469] [cursor=pointer]:
+                  - img [ref=e8471]:
+                    - img [ref=e8472]
+                  - generic "Найденный процесс (ПР6_Практика_Вариант2_Датасет)" [ref=e8474]:
+                    - generic [ref=e8475]: Найденный процесс
+              - generic [ref=e7476]:
+                - img [ref=e7478]:
+                  - img [ref=e7479]
+                - generic [ref=e7481]: "Y"
+                - generic [ref=e7482]:
+                  - button [ref=e7484] [cursor=pointer]:
+                    - img [ref=e7487]:
+                      - img [ref=e7488]
+                  - button [ref=e7815] [cursor=pointer]:
+                    - img [ref=e7818]:
+                      - img [ref=e7819]
+              - generic [ref=e8022]:
+                - img [ref=e8024]:
+                  - img [ref=e8025]
+                - generic [ref=e8027]: Y2
+                - generic [ref=e8028]:
+                  - button [ref=e8030] [cursor=pointer]:
+                    - img [ref=e8033]:
+                      - img [ref=e8034]
+                  - button [ref=e8039] [cursor=pointer]:
+                    - img [ref=e8042]:
+                      - img [ref=e8043]
+              - generic [ref=e7501]:
+                - img [ref=e7503]:
+                  - img [ref=e7504]
+                - generic [ref=e7506]: Цвета
+                - button [ref=e7822] [cursor=pointer]:
+                  - img [ref=e7825]:
+                    - img [ref=e7826]
+              - generic [ref=e8047]:
+                - img [ref=e8049]:
+                  - img [ref=e8050]
+                - generic [ref=e8053]: Формы
+                - button [ref=e8058] [cursor=pointer]:
+                  - img [ref=e8061]:
+                    - img [ref=e8062]
+              - generic [ref=e7519]:
+                - img [ref=e7521]:
+                  - img [ref=e7522]
+                - generic [ref=e7524]: Сортировка
+                - button [ref=e8477] [cursor=pointer]:
+                  - img [ref=e8480]:
+                    - img [ref=e8481]
+              - generic [ref=e7537]:
+                - img [ref=e7539]:
+                  - img [ref=e7540]
+                - generic [ref=e7542]: Подписи
+                - generic [ref=e7543]:
+                  - button [ref=e7545] [cursor=pointer]:
+                    - img [ref=e7548]:
+                      - img [ref=e7549]
+                  - button [ref=e7829] [cursor=pointer]:
+                    - img [ref=e7832]:
+                      - img [ref=e7833]
+              - generic [ref=e7562]:
+                - img [ref=e7564]:
+                  - img [ref=e7565]
+                - generic [ref=e7567]: Сплит
+                - generic [ref=e7568]: beta
+                - button [ref=e7836] [cursor=pointer]:
+                  - img [ref=e7839]:
+                    - img [ref=e7840]
+              - generic [ref=e7581]:
+                - img [ref=e7583]:
+                  - img [ref=e7584]
+                - generic [ref=e7586]: Фильтры
+                - button [ref=e7843] [cursor=pointer]:
+                  - img [ref=e7846]:
+                    - img [ref=e7847]
+          - generic [ref=e8484]:
+            - button [ref=e8489] [cursor=pointer]:
+              - img [ref=e8492]:
+                - img [ref=e8493]
+            - img [ref=e8499]:
+              - generic [ref=e8504]:
+                - generic [ref=e8505]: Процесс серого рекордера 1
+                - generic [ref=e8506]: Процесс серого рекордера 2
+                - generic [ref=e8507]: Процесс серого рекордера 3
+                - generic [ref=e8508]: Процесс серого рекордера 4
+                - generic [ref=e8509]: Процесс серого рекордера 5
+                - generic [ref=e8510]: Процесс серого рекордера 6
+  - generic [ref=e1261]:
+    - alert
+    - alert
+    - complementary
+    - complementary

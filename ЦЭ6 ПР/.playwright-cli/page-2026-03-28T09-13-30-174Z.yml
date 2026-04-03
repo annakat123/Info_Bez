@@ -1,0 +1,201 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - main [ref=e197]:
+    - generic [ref=e198]:
+      - img [ref=e200]:
+        - img [ref=e201]
+      - generic [ref=e204]:
+        - generic [ref=e205]: Давайте добавим коллег?
+        - generic [ref=e207]:
+          - text: Работайте в DataLens вместе бесплатно ещё 29 дней·Настроить вход
+          - link "через SSO" [ref=e208] [cursor=pointer]:
+            - /url: https://center.yandex.cloud/organization/federations
+        - button "Открыть настройки" [ref=e210] [cursor=pointer]:
+          - generic [ref=e211]: Открыть настройки
+      - generic [ref=e212]:
+        - img [ref=e216] [cursor=pointer]:
+          - img [ref=e217]
+        - heading "Подключения" [level=4] [ref=e219] [cursor=pointer]
+        - generic [ref=e220] [cursor=pointer]: Подключайте свои источники данных
+        - button "Создать подключение" [ref=e221] [cursor=pointer]:
+          - generic [ref=e222]: Создать
+        - img [ref=e226] [cursor=pointer]:
+          - img [ref=e227]
+        - heading "Датасеты" [level=4] [ref=e229] [cursor=pointer]
+        - generic [ref=e230] [cursor=pointer]: Описывайте модели данных с вычисляемыми полями и агрегациями
+        - button "Создать датасет" [ref=e231] [cursor=pointer]:
+          - generic [ref=e232]: Создать
+        - img [ref=e236] [cursor=pointer]:
+          - img [ref=e237]
+        - heading "Чарты" [level=4] [ref=e240] [cursor=pointer]
+        - generic [ref=e241] [cursor=pointer]: Визуализируйте данные в виде диаграмм и таблиц
+        - button "Создать чарт" [ref=e242] [cursor=pointer]:
+          - generic [ref=e243]: Создать
+        - img [ref=e247] [cursor=pointer]:
+          - img [ref=e248]
+        - heading "Дашборды" [level=4] [ref=e250] [cursor=pointer]
+        - generic [ref=e251] [cursor=pointer]: Создавайте панели с наборами диаграмм, таблиц и фильтров
+        - button "Создать дашборд" [ref=e252] [cursor=pointer]:
+          - generic [ref=e253]: Создать
+        - img [ref=e257] [cursor=pointer]:
+          - img [ref=e258]
+        - heading "Отчёты" [level=4] [ref=e260] [cursor=pointer]
+        - generic [ref=e261] [cursor=pointer]: Собирайте документы для презентации, экспорта или печати
+        - button "Создать отчёт" [ref=e262] [cursor=pointer]:
+          - generic [ref=e263]: Создать
+      - generic [ref=e264]:
+        - generic [ref=e265]:
+          - link "Открыть все работы Галереи" [ref=e266] [cursor=pointer]:
+            - /url: /gallery/all
+            - text: Галерея
+          - button [ref=e267] [cursor=pointer]:
+            - img [ref=e270]
+        - generic [ref=e272]:
+          - link "DataLens Demo Dashboard в Галерее DataLens Demo Dashboard" [ref=e273] [cursor=pointer]:
+            - /url: /gallery/wcyljs3cf5mwi
+            - generic [ref=e274]:
+              - img "DataLens Demo Dashboard в Галерее" [ref=e275]
+              - heading "DataLens Demo Dashboard" [level=1] [ref=e277]
+          - link "Коронавирус. Дашборд и данные в Галерее Коронавирус. Дашборд и данные" [ref=e278] [cursor=pointer]:
+            - /url: /gallery/k0rxsq57niv46
+            - generic [ref=e279]:
+              - img "Коронавирус. Дашборд и данные в Галерее" [ref=e280]
+              - heading "Коронавирус. Дашборд и данные" [level=1] [ref=e282]
+          - link "Погода в Галерее Погода" [ref=e283] [cursor=pointer]:
+            - /url: /gallery/7nd20g5n4mz6t
+            - generic [ref=e284]:
+              - img "Погода в Галерее" [ref=e285]
+              - heading "Погода" [level=1] [ref=e287]
+          - 'link "Организации: спрос и предложение в Галерее Организации: спрос и предложение" [ref=e288] [cursor=pointer]':
+            - /url: /gallery/euma77kb36nc0
+            - generic [ref=e289]:
+              - 'img "Организации: спрос и предложение в Галерее" [ref=e290]'
+              - 'heading "Организации: спрос и предложение" [level=1] [ref=e292]'

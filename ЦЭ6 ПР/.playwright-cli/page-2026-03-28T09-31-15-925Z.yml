@@ -1,0 +1,316 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e5340] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e5341] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e5342]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e5343] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e5344]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e5345] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e5346]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e5347] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e5348]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e5349] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e5350]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e5351] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e5352]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e5353] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e5354]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e5355] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e5356]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e5357] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e5358]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e5359] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e5360]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e5361] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e5362] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e5363] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e5364] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e5365] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e5366] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e4691]:
+      - generic [ref=e4694]:
+        - list [ref=e4695]:
+          - listitem [ref=e4696]:
+            - link [ref=e5367] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e4698]: /
+          - listitem [ref=e4699]:
+            - link [ref=e5368] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e4701]: /
+          - listitem [ref=e4702]:
+            - link [ref=e5369] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/wizard
+              - text: Новый чарт
+          - listitem [ref=e4704]
+        - generic [ref=e4705]:
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e5370] [cursor=pointer]:
+            - img [ref=e4709]:
+              - img [ref=e4710]
+            - generic [ref=e4712]: На весь экран
+          - button [ref=e4713] [cursor=pointer]:
+            - img [ref=e4716]:
+              - img [ref=e4717]
+          - generic [ref=e4719]:
+            - button [disabled]:
+              - generic: Сохранено
+      - generic [ref=e4721]:
+        - generic [ref=e4724]:
+          - generic [ref=e5371] [cursor=pointer]:
+            - img [ref=e4977]:
+              - img [ref=e4978]
+            - generic [ref=e4980]: "Датасет:"
+            - generic [ref=e4981]: ПР6_Практика_Вариант2_Датасет
+          - generic [ref=e4982]:
+            - generic [ref=e4984]:
+              - textbox [ref=e5372]:
+                - /placeholder: Поиск по имени и описанию
+              - button [ref=e4990] [cursor=pointer]:
+                - img [ref=e4993]:
+                  - img [ref=e4994]
+            - generic [ref=e4996]:
+              - generic [ref=e4997]: Измерения
+              - generic [ref=e4998]:
+                - generic [ref=e5373] [cursor=pointer]:
+                  - img [ref=e5003]:
+                    - img [ref=e5004]
+                  - generic [ref=e5374]: Вероятность
+                - generic [ref=e5375] [cursor=pointer]:
+                  - img [ref=e5012]:
+                    - img [ref=e5013]
+                  - generic [ref=e5376]: Время записи
+                - generic [ref=e5377] [cursor=pointer]:
+                  - img [ref=e5021]:
+                    - img [ref=e5022]
+                  - generic [ref=e5378]: Год
+                  - img [ref=e5027]:
+                    - img [ref=e5028]
+                - generic [ref=e5379] [cursor=pointer]:
+                  - img [ref=e5035]:
+                    - img [ref=e5036]
+                  - generic [ref=e5380]: Дата записи
+                - generic [ref=e5381] [cursor=pointer]:
+                  - img [ref=e5044]:
+                    - img [ref=e5045]
+                  - generic [ref=e5382]: День недели
+                - generic [ref=e5383] [cursor=pointer]:
+                  - img [ref=e5053]:
+                    - img [ref=e5054]
+                  - generic [ref=e5384]: Департамент
+                - generic [ref=e5385] [cursor=pointer]:
+                  - img [ref=e5062]:
+                    - img [ref=e5063]
+                  - generic [ref=e5386]: Длительность процесса
+                - generic [ref=e5387] [cursor=pointer]:
+                  - img [ref=e5071]:
+                    - img [ref=e5072]
+                  - generic [ref=e5388]: Имя пользователя
+                - generic [ref=e5389] [cursor=pointer]:
+                  - img [ref=e5080]:
+                    - img [ref=e5081]
+                  - generic [ref=e5390]: Количество действий
+                - generic [ref=e5391] [cursor=pointer]:
+                  - img [ref=e5089]:
+                    - img [ref=e5090]
+                  - generic [ref=e5392]: Найденный процесс
+                - generic [ref=e5393] [cursor=pointer]:
+                  - img [ref=e5098]:
+                    - img [ref=e5099]
+                  - generic [ref=e5394]: Проект
+                - generic [ref=e5395] [cursor=pointer]:
+                  - img [ref=e5107]:
+                    - img [ref=e5108]
+                  - generic [ref=e5396]: ПШЕ после автоматизации
+                - generic [ref=e5397] [cursor=pointer]:
+                  - img [ref=e5116]:
+                    - img [ref=e5117]
+                  - generic [ref=e5398]: Сложность автоматизации
+        - generic [ref=e4737]:
+          - generic [ref=e4740]:
+            - generic [ref=e4742]:
+              - button [ref=e5399] [cursor=pointer]:
+                - generic [ref=e4745]:
+                  - img [ref=e4747]:
+                    - img [ref=e4748]
+                  - generic [ref=e4753]: Столбчатая диаграмма
+              - button [ref=e4755] [cursor=pointer]:
+                - img [ref=e4758]:
+                  - img [ref=e4759]
+            - generic [ref=e4762]:
+              - generic [ref=e4765]:
+                - img [ref=e4767]:
+                  - img [ref=e4768]
+                - generic [ref=e4770]: X
+                - generic [ref=e4771]:
+                  - button [ref=e4773] [cursor=pointer]:
+                    - img [ref=e4776]:
+                      - img [ref=e4777]
+                  - button [ref=e5122] [cursor=pointer]:
+                    - img [ref=e5125]:
+                      - img [ref=e5126]
+              - generic [ref=e4790]:
+                - img [ref=e4792]:
+                  - img [ref=e4793]
+                - generic [ref=e4795]: "Y"
+                - generic [ref=e4796]:
+                  - button [ref=e4798] [cursor=pointer]:
+                    - img [ref=e4801]:
+                      - img [ref=e4802]
+                  - button [ref=e5129] [cursor=pointer]:
+                    - img [ref=e5132]:
+                      - img [ref=e5133]
+              - generic [ref=e4815]:
+                - img [ref=e4817]:
+                  - img [ref=e4818]
+                - generic [ref=e4820]: Цвета
+                - button [ref=e5136] [cursor=pointer]:
+                  - img [ref=e5139]:
+                    - img [ref=e5140]
+              - generic [ref=e4833]:
+                - img [ref=e4835]:
+                  - img [ref=e4836]
+                - generic [ref=e4838]: Сортировка
+                - button [ref=e4843] [cursor=pointer]:
+                  - img [ref=e4846]:
+                    - img [ref=e4847]
+              - generic [ref=e4851]:
+                - img [ref=e4853]:
+                  - img [ref=e4854]
+                - generic [ref=e4856]: Подписи
+                - generic [ref=e4857]:
+                  - button [ref=e4859] [cursor=pointer]:
+                    - img [ref=e4862]:
+                      - img [ref=e4863]
+                  - button [ref=e5143] [cursor=pointer]:
+                    - img [ref=e5146]:
+                      - img [ref=e5147]
+              - generic [ref=e4876]:
+                - img [ref=e4878]:
+                  - img [ref=e4879]
+                - generic [ref=e4881]: Сплит
+                - generic [ref=e4882]: beta
+                - button [ref=e5150] [cursor=pointer]:
+                  - img [ref=e5153]:
+                    - img [ref=e5154]
+              - generic [ref=e4895]:
+                - img [ref=e4897]:
+                  - img [ref=e4898]
+                - generic [ref=e4900]: Фильтры
+                - button [ref=e5157] [cursor=pointer]:
+                  - img [ref=e5160]:
+                    - img [ref=e5161]
+          - generic [ref=e4917]:
+            - img [ref=e5400]
+            - generic [ref=e4921]: Перетащите измерения и показатели в соответствующие секции, чтобы построить визуализацию
+  - generic [ref=e1261]:
+    - complementary
+    - complementary
+  - dialog [active] [ref=e5405]:
+    - generic [ref=e5406]:
+      - generic [ref=e5407]:
+        - generic [ref=e5409]: Настройки чарта
+        - generic [ref=e5411]:
+          - generic [ref=e5412]:
+            - generic [ref=e5413]:
+              - generic [ref=e5414]: Заголовок
+              - switch [checked] [ref=e5417] [cursor=pointer]
+            - textbox [ref=e5421]
+          - generic [ref=e5422]:
+            - generic [ref=e5423]: Легенда
+            - switch [checked] [ref=e5426] [cursor=pointer]
+          - generic [ref=e5428]:
+            - generic [ref=e5429]: Тултип
+            - switch [checked] [ref=e5432] [cursor=pointer]
+          - generic [ref=e5434]:
+            - generic [ref=e5435]: Сумма в тултипах
+            - switch [checked] [ref=e5438] [cursor=pointer]
+        - generic [ref=e5441]:
+          - button "Отменить" [ref=e5443] [cursor=pointer]:
+            - generic [ref=e5444]: Отменить
+          - button "Применить" [ref=e5446] [cursor=pointer]:
+            - generic [ref=e5447]: Применить
+      - button "Закрыть диалоговое окно" [ref=e5449] [cursor=pointer]:
+        - img [ref=e5452]:
+          - img [ref=e5453]

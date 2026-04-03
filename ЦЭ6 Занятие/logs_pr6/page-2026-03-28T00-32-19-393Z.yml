@@ -1,0 +1,739 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e1041] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e1042] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e1043]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e1044] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e1045]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e1046] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e1047]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e1048] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e1049]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e1050] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e1051]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e1052] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e1053]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e1054] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e1055]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e1056] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e1057]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e1058] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e1059]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e1060] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e1061]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e1062] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e1063] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e1064] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e1065] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e1066] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e1067] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e197]:
+      - generic [ref=e200]:
+        - list [ref=e201]:
+          - listitem [ref=e202]:
+            - link [ref=e1068] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e204]: /
+          - listitem [ref=e205]:
+            - link [ref=e1069] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e207]: /
+          - listitem [ref=e208]:
+            - link [ref=e1070] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/datasets/new
+              - text: Новый датасет
+          - listitem [ref=e210]
+        - generic [ref=e211]:
+          - combobox [ref=e213] [cursor=pointer]:
+            - img [ref=e216]:
+              - img [ref=e217]
+          - button [ref=e219] [cursor=pointer]:
+            - img [ref=e222]:
+              - img [ref=e223]
+          - button [disabled]:
+            - generic: Создать чарт
+          - button [ref=e1071] [cursor=pointer]:
+            - generic [ref=e226]: Сохранить
+      - generic [ref=e227]:
+        - radiogroup [ref=e228]:
+          - generic [ref=e229] [cursor=pointer]:
+            - radio [ref=e1072]
+            - generic [ref=e231]: Источники
+          - generic [ref=e232]:
+            - radio [checked] [ref=e1073]
+            - generic [ref=e234]: Поля
+          - generic [ref=e235] [cursor=pointer]:
+            - radio [ref=e1074]
+            - generic [ref=e237]: Параметры
+          - generic [ref=e238]:
+            - radio [disabled] [ref=e1075]
+            - generic [ref=e240]: Фильтрация
+        - button [ref=e1076] [cursor=pointer]:
+          - img [ref=e551]:
+            - img [ref=e552]
+          - generic [ref=e554]: Обновить поля
+        - button [ref=e1077] [cursor=pointer]:
+          - generic [ref=e243]: Предпросмотр
+        - button [ref=e1078] [cursor=pointer]:
+          - img [ref=e558]:
+            - img [ref=e559]
+          - generic [ref=e561]: Добавить поле
+        - textbox [ref=e1079]:
+          - /placeholder: Имя или описание поля
+      - generic [ref=e245]:
+        - generic [ref=e566]:
+          - combobox [ref=e568] [cursor=pointer]:
+            - img [ref=e571]:
+              - img [ref=e572]
+          - generic [ref=e575]:
+            - table [ref=e578]:
+              - rowgroup [ref=e589]:
+                - row [ref=e1080]:
+                  - columnheader [ref=e591]:
+                    - checkbox [ref=e595] [cursor=pointer]
+                  - columnheader [ref=e1081] [cursor=pointer]:
+                    - generic [ref=e597]:
+                      - generic [ref=e598]: Имя
+                      - img [ref=e600]:
+                        - img [ref=e601]
+                  - columnheader [ref=e1082] [cursor=pointer]:
+                    - generic [ref=e604]:
+                      - generic [ref=e605]: Источник поля
+                      - img [ref=e607]:
+                        - img [ref=e608]
+                  - columnheader [ref=e610] [cursor=pointer]:
+                    - generic [ref=e611]:
+                      - img [ref=e612]:
+                        - img [ref=e613]
+                      - img [ref=e616]:
+                        - img [ref=e617]
+                  - columnheader [ref=e619] [cursor=pointer]:
+                    - generic [ref=e620]:
+                      - img [ref=e621]:
+                        - img [ref=e622]
+                      - img [ref=e625]:
+                        - img [ref=e626]
+                  - columnheader [ref=e1083] [cursor=pointer]:
+                    - generic [ref=e629]:
+                      - generic [ref=e630]: Тип
+                      - img [ref=e632]:
+                        - img [ref=e633]
+                  - columnheader [ref=e1084] [cursor=pointer]:
+                    - generic [ref=e636]:
+                      - generic [ref=e637]: Агрегация
+                      - img [ref=e639]:
+                        - img [ref=e640]
+                  - columnheader [ref=e1085] [cursor=pointer]:
+                    - generic [ref=e643]:
+                      - generic [ref=e644]: Описание
+                      - img [ref=e646]:
+                        - img [ref=e647]
+            - table [ref=e653]:
+              - rowgroup [ref=e664]:
+                - row [ref=e1086]:
+                  - columnheader [ref=e666]:
+                    - checkbox [ref=e669] [cursor=pointer]
+                  - columnheader [ref=e1087] [cursor=pointer]:
+                    - generic [ref=e671]: Имя
+                    - img [ref=e673]:
+                      - img [ref=e674]
+                  - columnheader [ref=e1088] [cursor=pointer]:
+                    - generic [ref=e677]: Источник поля
+                    - img [ref=e679]:
+                      - img [ref=e680]
+                  - columnheader [ref=e682] [cursor=pointer]:
+                    - img [ref=e683]:
+                      - img [ref=e684]
+                    - img [ref=e687]:
+                      - img [ref=e688]
+                  - columnheader [ref=e690] [cursor=pointer]:
+                    - img [ref=e691]:
+                      - img [ref=e692]
+                    - img [ref=e695]:
+                      - img [ref=e696]
+                  - columnheader [ref=e1089] [cursor=pointer]:
+                    - generic [ref=e699]: Тип
+                    - img [ref=e701]:
+                      - img [ref=e702]
+                  - columnheader [ref=e1090] [cursor=pointer]:
+                    - generic [ref=e705]: Агрегация
+                    - img [ref=e707]:
+                      - img [ref=e708]
+                  - columnheader [ref=e1091] [cursor=pointer]:
+                    - generic [ref=e711]: Описание
+                    - img [ref=e713]:
+                      - img [ref=e714]
+              - rowgroup [ref=e716]:
+                - row [ref=e1092]:
+                  - cell [ref=e1093]:
+                    - generic [ref=e719]: "1"
+                  - cell [ref=e1094]:
+                    - textbox [ref=e723]: Страна
+                  - cell [ref=e1095]:
+                    - button [ref=e1096] [cursor=pointer]:
+                      - generic [ref=e726]: csv.strana
+                  - cell [ref=e727]:
+                    - button [ref=e1097] [cursor=pointer]
+                  - cell [ref=e731]:
+                    - button [ref=e1098] [cursor=pointer]
+                  - cell [ref=e735]:
+                    - combobox [ref=e737] [cursor=pointer]:
+                      - generic [ref=e739]:
+                        - img [ref=e740]:
+                          - img [ref=e741]
+                        - text: Строка
+                  - cell [ref=e743]:
+                    - combobox [ref=e745] [cursor=pointer]:
+                      - generic [ref=e747]: Нет
+                  - cell [ref=e748]:
+                    - textbox [ref=e751]
+                  - cell [ref=e752]
+                - row [ref=e1099]:
+                  - cell [ref=e1100]:
+                    - generic [ref=e755]: "2"
+                  - cell [ref=e1101]:
+                    - textbox [ref=e759]: Город
+                  - cell [ref=e1102]:
+                    - button [ref=e1103] [cursor=pointer]:
+                      - generic [ref=e762]: csv.gorod
+                  - cell [ref=e763]:
+                    - button [ref=e1104] [cursor=pointer]
+                  - cell [ref=e767]:
+                    - button [ref=e1105] [cursor=pointer]
+                  - cell [ref=e771]:
+                    - combobox [ref=e773] [cursor=pointer]:
+                      - generic [ref=e775]:
+                        - img [ref=e776]:
+                          - img [ref=e777]
+                        - text: Строка
+                  - cell [ref=e779]:
+                    - combobox [ref=e781] [cursor=pointer]:
+                      - generic [ref=e783]: Нет
+                  - cell [ref=e784]:
+                    - textbox [ref=e787]
+                  - cell [ref=e788]
+                - row [ref=e1106]:
+                  - cell [ref=e1107]:
+                    - generic [ref=e791]: "3"
+                  - cell [ref=e1108]:
+                    - textbox [ref=e795]: Номер заявки
+                  - cell [ref=e1109]:
+                    - button [ref=e1110] [cursor=pointer]:
+                      - generic [ref=e798]: csv.nomer_zayavki
+                  - cell [ref=e799]:
+                    - button [ref=e1111] [cursor=pointer]
+                  - cell [ref=e803]:
+                    - button [ref=e1112] [cursor=pointer]
+                  - cell [ref=e807]:
+                    - combobox [ref=e809] [cursor=pointer]:
+                      - generic [ref=e811]:
+                        - img [ref=e812]:
+                          - img [ref=e813]
+                        - text: Целое число
+                  - cell [ref=e815]:
+                    - combobox [ref=e817] [cursor=pointer]:
+                      - generic [ref=e819]: Нет
+                  - cell [ref=e820]:
+                    - textbox [ref=e823]
+                  - cell [ref=e824]
+                - row [ref=e1113]:
+                  - cell [ref=e1114]:
+                    - generic [ref=e827]: "4"
+                  - cell [ref=e1115]:
+                    - textbox [ref=e831]: Дата потсупления заявки
+                  - cell [ref=e1116]:
+                    - button [ref=e1117] [cursor=pointer]:
+                      - generic [ref=e834]: csv.data_potsupleniya_zayavki
+                  - cell [ref=e835]:
+                    - button [ref=e1118] [cursor=pointer]
+                  - cell [ref=e839]:
+                    - button [ref=e1119] [cursor=pointer]
+                  - cell [ref=e843]:
+                    - combobox [ref=e845] [cursor=pointer]:
+                      - generic [ref=e847]:
+                        - img [ref=e848]:
+                          - img [ref=e849]
+                        - text: Дата
+                  - cell [ref=e851]:
+                    - combobox [ref=e853] [cursor=pointer]:
+                      - generic [ref=e855]: Нет
+                  - cell [ref=e856]:
+                    - textbox [ref=e859]
+                  - cell [ref=e860]
+                - row [ref=e1120]:
+                  - cell [ref=e1121]:
+                    - generic [ref=e863]: "5"
+                  - cell [ref=e1122]:
+                    - textbox [ref=e867]: Дата закрытия заявки
+                  - cell [ref=e1123]:
+                    - button [ref=e1124] [cursor=pointer]:
+                      - generic [ref=e870]: csv.data_zakrytiya_zayavki
+                  - cell [ref=e871]:
+                    - button [ref=e1125] [cursor=pointer]
+                  - cell [ref=e875]:
+                    - button [ref=e1126] [cursor=pointer]
+                  - cell [ref=e879]:
+                    - combobox [ref=e881] [cursor=pointer]:
+                      - generic [ref=e883]:
+                        - img [ref=e884]:
+                          - img [ref=e885]
+                        - text: Дата
+                  - cell [ref=e887]:
+                    - combobox [ref=e889] [cursor=pointer]:
+                      - generic [ref=e891]: Нет
+                  - cell [ref=e892]:
+                    - textbox [ref=e895]
+                  - cell [ref=e896]
+                - row [ref=e1127]:
+                  - cell [ref=e1128]:
+                    - generic [ref=e899]: "6"
+                  - cell [ref=e1129]:
+                    - textbox [ref=e903]: Стоимость ремонта
+                  - cell [ref=e1130]:
+                    - button [ref=e1131] [cursor=pointer]:
+                      - generic [ref=e906]: csv.stoimost_remonta
+                  - cell [ref=e907]:
+                    - button [ref=e1132] [cursor=pointer]
+                  - cell [ref=e911]:
+                    - button [ref=e1133] [cursor=pointer]
+                  - cell [ref=e915]:
+                    - combobox [ref=e917] [cursor=pointer]:
+                      - generic [ref=e919]:
+                        - img [ref=e920]:
+                          - img [ref=e921]
+                        - text: Целое число
+                  - cell [ref=e923]:
+                    - combobox [ref=e925] [cursor=pointer]:
+                      - generic [ref=e927]: Нет
+                  - cell [ref=e928]:
+                    - textbox [ref=e931]
+                  - cell [ref=e932]
+                - row [ref=e1134]:
+                  - cell [ref=e1135]:
+                    - generic [ref=e935]: "7"
+                  - cell [ref=e1136]:
+                    - textbox [ref=e939]: Ответственный сотрудник
+                  - cell [ref=e1137]:
+                    - button [ref=e1138] [cursor=pointer]:
+                      - generic [ref=e942]: csv.otvetstvennyy_sotrudnik
+                  - cell [ref=e943]:
+                    - button [ref=e1139] [cursor=pointer]
+                  - cell [ref=e947]:
+                    - button [ref=e1140] [cursor=pointer]
+                  - cell [ref=e951]:
+                    - combobox [ref=e953] [cursor=pointer]:
+                      - generic [ref=e955]:
+                        - img [ref=e956]:
+                          - img [ref=e957]
+                        - text: Строка
+                  - cell [ref=e959]:
+                    - combobox [ref=e961] [cursor=pointer]:
+                      - generic [ref=e963]: Нет
+                  - cell [ref=e964]:
+                    - textbox [ref=e967]
+                  - cell [ref=e968]
+                - row [ref=e1141]:
+                  - cell [ref=e1142]:
+                    - generic [ref=e971]: "8"
+                  - cell [ref=e1143]:
+                    - textbox [ref=e975]: Кол-во дней ремонта
+                  - cell [ref=e1144]:
+                    - button [ref=e1145] [cursor=pointer]:
+                      - generic [ref=e978]: csv.kol-vo_dney_remonta
+                  - cell [ref=e979]:
+                    - button [ref=e1146] [cursor=pointer]
+                  - cell [ref=e983]:
+                    - button [ref=e1147] [cursor=pointer]
+                  - cell [ref=e987]:
+                    - combobox [ref=e989] [cursor=pointer]:
+                      - generic [ref=e991]:
+                        - img [ref=e992]:
+                          - img [ref=e993]
+                        - text: Целое число
+                  - cell [ref=e995]:
+                    - combobox [ref=e997] [cursor=pointer]:
+                      - generic [ref=e999]: Нет
+                  - cell [ref=e1000]:
+                    - textbox [ref=e1003]
+                  - cell [ref=e1004]
+                - row [ref=e1148]:
+                  - cell [ref=e1149]:
+                    - generic [ref=e1007]: "9"
+                  - cell [ref=e1150]:
+                    - textbox [ref=e1011]: Оценка качества сотрудника
+                  - cell [ref=e1151]:
+                    - button [ref=e1152] [cursor=pointer]:
+                      - generic [ref=e1014]: csv.otsenka_kachestva_sotrudnika
+                  - cell [ref=e1015]:
+                    - button [ref=e1153] [cursor=pointer]
+                  - cell [ref=e1019]:
+                    - button [ref=e1154] [cursor=pointer]
+                  - cell [ref=e1023]:
+                    - combobox [ref=e1025] [cursor=pointer]:
+                      - generic [ref=e1027]:
+                        - img [ref=e1028]:
+                          - img [ref=e1029]
+                        - text: Целое число
+                  - cell [ref=e1031]:
+                    - combobox [ref=e1033] [cursor=pointer]:
+                      - generic [ref=e1035]: Нет
+                  - cell [ref=e1036]:
+                    - textbox [ref=e1039]
+                  - cell [ref=e1040]
+        - generic [ref=e309]:
+          - generic [ref=e310]:
+            - generic [ref=e311]: Предпросмотр
+            - generic [ref=e312]:
+              - generic [ref=e313]: "Количество строк:"
+              - spinbutton [ref=e316]: "10"
+              - generic [ref=e317]: не больше 1 000
+            - generic [ref=e318]:
+              - button [ref=e1155] [cursor=pointer]:
+                - img [ref=e322]:
+                  - img [ref=e323]
+              - button [ref=e1156] [cursor=pointer]:
+                - img [ref=e328]:
+                  - img [ref=e329]
+              - button [ref=e1157] [cursor=pointer]:
+                - img [ref=e334]:
+                  - img [ref=e335]
+          - generic [ref=e338]:
+            - table [ref=e341]:
+              - rowgroup [ref=e353]:
+                - row [ref=e1158]:
+                  - columnheader [ref=e355]:
+                    - img [ref=e358]:
+                      - img [ref=e359]
+                  - columnheader [ref=e1159]:
+                    - generic [ref=e363]: Страна
+                  - columnheader [ref=e1160]:
+                    - generic [ref=e366]: Город
+                  - columnheader [ref=e1161]:
+                    - generic [ref=e369]: Номер заявки
+                  - columnheader [ref=e1162]:
+                    - generic [ref=e372]: Дата потсупления заявки
+                  - columnheader [ref=e1163]:
+                    - generic [ref=e375]: Дата закрытия заявки
+                  - columnheader [ref=e1164]:
+                    - generic [ref=e378]: Стоимость ремонта
+                  - columnheader [ref=e1165]:
+                    - generic [ref=e381]: Ответственный сотрудник
+                  - columnheader [ref=e1166]:
+                    - generic [ref=e384]: Кол-во дней ремонта
+                  - columnheader [ref=e1167]:
+                    - generic [ref=e387]: Оценка качества сотрудника
+            - table [ref=e390]:
+              - rowgroup [ref=e402]:
+                - row [ref=e1168]:
+                  - columnheader [ref=e404]:
+                    - img [ref=e407]:
+                      - img [ref=e408]
+                  - columnheader [ref=e1169]:
+                    - generic [ref=e412]: Страна
+                  - columnheader [ref=e1170]:
+                    - generic [ref=e415]: Город
+                  - columnheader [ref=e1171]:
+                    - generic [ref=e418]: Номер заявки
+                  - columnheader [ref=e1172]:
+                    - generic [ref=e421]: Дата потсупления заявки
+                  - columnheader [ref=e1173]:
+                    - generic [ref=e424]: Дата закрытия заявки
+                  - columnheader [ref=e1174]:
+                    - generic [ref=e427]: Стоимость ремонта
+                  - columnheader [ref=e1175]:
+                    - generic [ref=e430]: Ответственный сотрудник
+                  - columnheader [ref=e1176]:
+                    - generic [ref=e433]: Кол-во дней ремонта
+                  - columnheader [ref=e1177]:
+                    - generic [ref=e436]: Оценка качества сотрудника
+              - rowgroup [ref=e437]:
+                - row [ref=e1178]:
+                  - cell [ref=e1179]: "1"
+                  - cell [ref=e1180]: Россия
+                  - cell [ref=e1181]: Москва
+                  - cell [ref=e1182]: "389373"
+                  - cell [ref=e1183]: 2023-11-06
+                  - cell [ref=e1184]: 2023-11-09
+                  - cell [ref=e1185]: "19000"
+                  - cell [ref=e1186]: Котов А.В.
+                  - cell [ref=e1187]: "4"
+                  - cell [ref=e1188]: "4"
+                - row [ref=e1189]:
+                  - cell [ref=e1190]: "2"
+                  - cell [ref=e1191]: Россия
+                  - cell [ref=e1192]: Москва
+                  - cell [ref=e1193]: "206664"
+                  - cell [ref=e1194]: 2023-11-07
+                  - cell [ref=e1195]: 2023-11-10
+                  - cell [ref=e1196]: "28546"
+                  - cell [ref=e1197]: Васин В.Д.
+                  - cell [ref=e1198]: "4"
+                  - cell [ref=e1199]: "4"
+                - row [ref=e1200]:
+                  - cell [ref=e1201]: "3"
+                  - cell [ref=e1202]: Россия
+                  - cell [ref=e1203]: Москва
+                  - cell [ref=e1204]: "784046"
+                  - cell [ref=e1205]: 2024-04-07
+                  - cell [ref=e1206]: 2024-04-11
+                  - cell [ref=e1207]: "58203"
+                  - cell [ref=e1208]: Кетов А.А.
+                  - cell [ref=e1209]: "5"
+                  - cell [ref=e1210]: "5"
+                - row [ref=e1211]:
+                  - cell [ref=e1212]: "4"
+                  - cell [ref=e1213]: Россия
+                  - cell [ref=e1214]: Нижний Новгород
+                  - cell [ref=e1215]: "996474"
+                  - cell [ref=e1216]: 2024-04-08
+                  - cell [ref=e1217]: 2024-04-12
+                  - cell [ref=e1218]: "65393"
+                  - cell [ref=e1219]: Кетов А.А.
+                  - cell [ref=e1220]: "5"
+                  - cell [ref=e1221]: "5"
+                - row [ref=e1222]:
+                  - cell [ref=e1223]: "5"
+                  - cell [ref=e1224]: Россия
+                  - cell [ref=e1225]: Екатеринбург
+                  - cell [ref=e1226]: "132131"
+                  - cell [ref=e1227]: 2024-04-09
+                  - cell [ref=e1228]: 2024-04-13
+                  - cell [ref=e1229]: "12354"
+                  - cell [ref=e1230]: Кетов А.А.
+                  - cell [ref=e1231]: "5"
+                  - cell [ref=e1232]: "4"
+                - row [ref=e1233]:
+                  - cell [ref=e1234]: "6"
+                  - cell [ref=e1235]: Россия
+                  - cell [ref=e1236]: Нижний Новгород
+                  - cell [ref=e1237]: "822178"
+                  - cell [ref=e1238]: 2024-11-12
+                  - cell [ref=e1239]: 2024-11-14
+                  - cell [ref=e1240]: "13500"
+                  - cell [ref=e1241]: Васин В.Д.
+                  - cell [ref=e1242]: "3"
+                  - cell [ref=e1243]: "3"
+                - row [ref=e1244]:
+                  - cell [ref=e1245]: "7"
+                  - cell [ref=e1246]: Россия
+                  - cell [ref=e1247]: Екатеринбург
+                  - cell [ref=e1248]: "658082"
+                  - cell [ref=e1249]: 2024-11-13
+                  - cell [ref=e1250]: 2024-11-15
+                  - cell [ref=e1251]: "8657"
+                  - cell [ref=e1252]: Васин В.Д.
+                  - cell [ref=e1253]: "3"
+                  - cell [ref=e1254]: "4"
+                - row [ref=e1255]:
+                  - cell [ref=e1256]: "8"
+                  - cell [ref=e1257]: Россия
+                  - cell [ref=e1258]: Москва
+                  - cell [ref=e1259]: "418956"
+                  - cell [ref=e1260]: 2025-02-10
+                  - cell [ref=e1261]: 2025-02-15
+                  - cell [ref=e1262]: "37545"
+                  - cell [ref=e1263]: Васин В.Д.
+                  - cell [ref=e1264]: "6"
+                  - cell [ref=e1265]: "5"
+                - row [ref=e1266]:
+                  - cell [ref=e1267]: "9"
+                  - cell [ref=e1268]: Россия
+                  - cell [ref=e1269]: Екатеринбург
+                  - cell [ref=e1270]: "689680"
+                  - cell [ref=e1271]: 2025-02-11
+                  - cell [ref=e1272]: 2025-02-16
+                  - cell [ref=e1273]: "22564"
+                  - cell [ref=e1274]: Котов А.В.
+                  - cell [ref=e1275]: "6"
+                  - cell [ref=e1276]: "3"
+                - row [ref=e1277]:
+                  - cell [ref=e1278]: "10"
+                  - cell [ref=e1279]: Россия
+                  - cell [ref=e1280]: Нижний Новгород
+                  - cell [ref=e1281]: "155010"
+                  - cell [ref=e1282]: 2025-02-12
+                  - cell [ref=e1283]: 2025-02-17
+                  - cell [ref=e1284]: "45321"
+                  - cell [ref=e1285]: Котов А.В.
+                  - cell [ref=e1286]: "6"
+                  - cell [ref=e1287]: "5"
+  - dialog [ref=e1292]:
+    - generic [ref=e1293]:
+      - generic [ref=e1294]:
+        - textbox "Новое поле" [ref=e1299]
+        - generic [ref=e1300]:
+          - radiogroup [ref=e1301]:
+            - generic [ref=e1302]:
+              - radio "Формула" [checked] [ref=e1303]
+              - generic [ref=e1304]: Формула
+            - generic [ref=e1305] [cursor=pointer]:
+              - radio "Поле из источника" [ref=e1306]
+              - generic [ref=e1307]: Поле из источника
+          - generic [ref=e1308]:
+            - button "Помочь с формулами" [ref=e1309] [cursor=pointer]:
+              - img [ref=e1312]:
+                - img [ref=e1313]
+              - generic [ref=e1315]: Помочь с формулами
+            - button [ref=e1316] [cursor=pointer]:
+              - img [ref=e1319]:
+                - img [ref=e1320]
+            - button "Справочник" [ref=e1322] [cursor=pointer]:
+              - generic [ref=e1323]: Справочник
+        - generic [ref=e1326]:
+          - generic [ref=e1328]:
+            - generic [ref=e1332]:
+              - textbox "Поле" [ref=e1336]
+              - list [ref=e1337]:
+                - generic [ref=e1339]:
+                  - listitem [ref=e1340]:
+                    - generic [ref=e1342] [cursor=pointer]:
+                      - img [ref=e1343]:
+                        - img [ref=e1344]
+                      - generic "Страна" [ref=e1346]
+                  - listitem [ref=e1347]:
+                    - generic [ref=e1349] [cursor=pointer]:
+                      - img [ref=e1350]:
+                        - img [ref=e1351]
+                      - generic "Город" [ref=e1353]
+                  - listitem [ref=e1354]:
+                    - generic [ref=e1356] [cursor=pointer]:
+                      - img [ref=e1357]:
+                        - img [ref=e1358]
+                      - generic "Номер заявки" [ref=e1360]
+                  - listitem [ref=e1361]:
+                    - generic [ref=e1363] [cursor=pointer]:
+                      - img [ref=e1364]:
+                        - img [ref=e1365]
+                      - generic "Дата потсупления заявки" [ref=e1367]
+                  - listitem [ref=e1368]:
+                    - generic [ref=e1370] [cursor=pointer]:
+                      - img [ref=e1371]:
+                        - img [ref=e1372]
+                      - generic "Дата закрытия заявки" [ref=e1374]
+                  - listitem [ref=e1375]:
+                    - generic [ref=e1377] [cursor=pointer]:
+                      - img [ref=e1378]:
+                        - img [ref=e1379]
+                      - generic "Стоимость ремонта" [ref=e1381]
+                  - listitem [ref=e1382]:
+                    - generic [ref=e1384] [cursor=pointer]:
+                      - img [ref=e1385]:
+                        - img [ref=e1386]
+                      - generic "Ответственный сотрудник" [ref=e1388]
+                  - listitem [ref=e1389]:
+                    - generic [ref=e1391] [cursor=pointer]:
+                      - img [ref=e1392]:
+                        - img [ref=e1393]
+                      - generic "Кол-во дней ремонта" [ref=e1395]
+                  - listitem [ref=e1396]:
+                    - generic [ref=e1398] [cursor=pointer]:
+                      - img [ref=e1399]:
+                        - img [ref=e1400]
+                      - generic "Оценка качества сотрудника" [ref=e1402]
+            - generic [ref=e1404]:
+              - code [ref=e1407]:
+                - generic [ref=e1408]:
+                  - generic [ref=e1414]: "1"
+                  - textbox "Editor content;Press Alt+F1 for Accessibility Options." [active] [ref=e1421]
+              - generic [ref=e1423]:
+                - button "Отменить" [ref=e1425] [cursor=pointer]:
+                  - generic [ref=e1426]: Отменить
+                - button "Создать" [ref=e1428] [cursor=pointer]:
+                  - generic [ref=e1429]: Создать
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - textbox "Функция" [ref=e1433]
+                      - list
+                - generic [ref=e1434]:
+                  - img "template" [ref=e1436]
+                  - generic [ref=e1437]:
+                    - generic [ref=e1438]: Выберите функцию в списке слева, чтобы просмотреть её описание
+                    - generic [ref=e1440]:
+                      - link "Подробнее о синтаксисе" [ref=e1442] [cursor=pointer]:
+                        - /url: https://yandex.cloud/docs/datalens/concepts/calculations/formula-syntax
+                      - link "Примеры на демодашборде" [ref=e1444] [cursor=pointer]:
+                        - /url: https://datalens.yandex/9fms9uae7ip02?tab=87P
+      - button "Закрыть диалоговое окно" [ref=e1446] [cursor=pointer]:
+        - img [ref=e1449]:
+          - img [ref=e1450]
+  - generic [ref=e1453]:
+    - alert
+    - alert
+    - complementary
+    - complementary

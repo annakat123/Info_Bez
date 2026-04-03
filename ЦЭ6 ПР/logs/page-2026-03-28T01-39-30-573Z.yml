@@ -1,0 +1,264 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e24] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e38] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e40]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e48] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e50]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e58] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e60]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e68] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e70]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e78] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e80]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e89] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e91]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e99] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e101]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e112] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e114]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e123] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e125]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e133] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e135]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e145] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e155] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e163] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e171] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e179] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e190] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e410]:
+    - generic [ref=e413]:
+      - list [ref=e414]:
+        - listitem [ref=e415]:
+          - link "Коллекции и воркбуки" [ref=e416] [cursor=pointer]:
+            - /url: /collections
+          - generic [ref=e417]: /
+        - listitem [ref=e418]:
+          - link "ПР6_ЦЭДУП_Вариант2" [ref=e419] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3
+          - generic [ref=e420]: /
+        - listitem [ref=e421]:
+          - link "Новое подключение" [ref=e422] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3/connections/new
+        - listitem [ref=e423]
+      - combobox [ref=e425] [cursor=pointer]:
+        - img [ref=e428]:
+          - img [ref=e429]
+    - generic [ref=e431]:
+      - textbox "Имя коннектора" [active] [ref=e434]
+      - heading "Базы данных" [level=3] [ref=e435]
+      - generic [ref=e436]:
+        - link "ClickHouse" [ref=e438] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/clickhouse
+          - img [ref=e439]
+          - generic [ref=e440]: ClickHouse
+        - link "PostgreSQL" [ref=e442] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/postgres
+          - img [ref=e443]
+          - generic [ref=e444]: PostgreSQL
+        - link "MySQL" [ref=e446] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/mysql
+          - img [ref=e447]
+          - generic [ref=e448]: MySQL
+        - link "YDB" [ref=e450] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/ydb
+          - img [ref=e451]
+          - generic [ref=e452]: YDB
+        - link "YTsaurus CHYT" [ref=e454] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/chyt
+          - img [ref=e455]
+          - generic [ref=e456]: YTsaurus CHYT
+        - link "Greenplum" [ref=e458] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/greenplum
+          - img [ref=e459]
+          - generic [ref=e460]: Greenplum
+        - link "MS SQL Server" [ref=e462] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/mssql
+          - img [ref=e463]
+          - generic [ref=e464]: MS SQL Server
+        - link "Oracle Database" [ref=e466] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/oracle
+          - img [ref=e467]
+          - generic [ref=e468]: Oracle Database
+        - link "Trino" [ref=e470] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/trino
+          - img [ref=e471]
+          - generic [ref=e472]: Trino
+        - link "Snowflake" [ref=e474] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/snowflake
+          - img [ref=e475]
+          - generic [ref=e476]: Snowflake
+        - link "Prometheus" [ref=e478] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/promql
+          - img [ref=e479]
+          - generic [ref=e480]: Prometheus
+      - heading "Файлы и сервисы" [level=3] [ref=e481]
+      - generic [ref=e482]:
+        - link "Файлы" [ref=e484] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/file
+          - img [ref=e485]
+          - generic [ref=e486]: Файлы
+        - link "Google Sheets" [ref=e488] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/gsheets_v2
+          - img [ref=e489]
+          - generic [ref=e490]: Google Sheets
+        - link "Яндекс Документы" [ref=e492] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/yadocs
+          - img [ref=e493]
+          - generic [ref=e494]: Яндекс Документы
+        - link "Yandex Query" [ref=e496] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/yq
+          - img [ref=e497]
+          - generic [ref=e498]: Yandex Query
+        - link "Metrica" [ref=e500] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/metrica
+          - img [ref=e501]
+          - generic [ref=e502]: Metrica
+        - link "AppMetrica" [ref=e504] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/appmetrica
+          - img [ref=e505]
+          - generic [ref=e506]: AppMetrica
+        - link "Yandex Cloud Billing" [ref=e508] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/yc_billing
+          - img [ref=e509]
+          - generic [ref=e510]: Yandex Cloud Billing
+        - link "Мониторинг" [ref=e512] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/monitoring
+          - img [ref=e513]
+          - generic [ref=e514]: Мониторинг
+        - link "Usage Analytics Detailed" [ref=e516] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/usage_analytics_detailed
+          - img [ref=e517]
+          - generic [ref=e518]: Usage Analytics Detailed
+        - link "API Connector" [ref=e520] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/json_api
+          - img [ref=e521]
+          - generic [ref=e522]: API Connector
+        - link "SpeechSense" [ref=e524] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/speechsense
+          - img [ref=e525]
+          - generic [ref=e526]: SpeechSense
+      - heading "Партнерские подключения" [level=3] [ref=e527]
+      - generic [ref=e528]:
+        - link "Битрикс24" [ref=e530] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/bitrix24
+          - img [ref=e531]
+          - generic [ref=e532]: Битрикс24
+        - link "Подкасты Аналитика" [ref=e534] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/ch_ya_music_podcast_stats
+          - img [ref=e535]
+          - generic [ref=e536]: Подкасты Аналитика
+        - link "МойСклад" [ref=e538] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/moysklad
+          - img [ref=e539]
+          - generic [ref=e540]: МойСклад
+        - link "Контур.Маркет" [ref=e542] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/kontur_market
+          - img [ref=e543]
+          - generic [ref=e544]: Контур.Маркет
+        - link "Экстрактор 1С" [ref=e546] [cursor=pointer]:
+          - /url: /workbooks/jneh2sr45iyi3/connections/new/extractor1c
+          - img [ref=e547]
+          - generic [ref=e548]: Экстрактор 1С

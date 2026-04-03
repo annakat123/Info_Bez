@@ -1,0 +1,27 @@
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - button [ref=e6] [cursor=pointer]:
+        - img [ref=e9]:
+          - img [ref=e10]
+      - img [ref=e12]
+    - generic [ref=e18]:
+      - generic [ref=e20]: Enter email to log in
+      - generic [ref=e23]:
+        - textbox "username@example.com" [active] [ref=e24]
+        - button [ref=e27] [cursor=pointer]:
+          - img [ref=e30]:
+            - img [ref=e31]
+      - generic [ref=e33]: or
+      - generic [ref=e34]:
+        - button "Log in using Yandex" [ref=e35] [cursor=pointer]:
+          - img [ref=e38]:
+            - img [ref=e39]
+          - generic [ref=e41]: Log in using Yandex
+        - button "Log in via SSO" [ref=e42] [cursor=pointer]:
+          - generic [ref=e43]: Log in via SSO
+  - contentinfo [ref=e44]:
+    - button "English" [ref=e47] [cursor=pointer]:
+      - img [ref=e50]:
+        - img [ref=e51]
+      - generic [ref=e53]: English

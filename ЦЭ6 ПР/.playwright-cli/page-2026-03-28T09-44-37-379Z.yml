@@ -1,0 +1,330 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e10604] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e10605] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e10606]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e10607] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e10608]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e10609] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e10610]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e10611] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e10612]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e10613] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e10614]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e10615] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e10616]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e10617] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e10618]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e10619] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e10620]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e10621] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e10622]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e10623] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e10624]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e10625] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e10626] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e10627] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e10628] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e10629] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e10630] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e7377]:
+      - generic [ref=e7380]:
+        - list [ref=e7381]:
+          - listitem [ref=e7382]:
+            - link [ref=e10631] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e7384]: /
+          - listitem [ref=e7385]:
+            - link [ref=e10632] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e7387]: /
+          - listitem [ref=e7388]:
+            - link [ref=e10633] [cursor=pointer]:
+              - /url: /wizard/593vujj3qy8qp-pr6-praktika-krugovaya-veroyatnostponaydennymprocessam
+              - text: ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам
+          - listitem [ref=e7390]:
+            - generic [ref=e8993]:
+              - button [ref=e10634] [cursor=pointer]:
+                - img [ref=e9919]:
+                  - img [ref=e9920]
+              - button [ref=e9922] [cursor=pointer]:
+                - img [ref=e9925]:
+                  - img [ref=e9926]
+        - generic [ref=e7391]:
+          - button [ref=e8009] [cursor=pointer]:
+            - img [ref=e8012]:
+              - img [ref=e8013]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e10635] [cursor=pointer]:
+            - img [ref=e7395]:
+              - img [ref=e7396]
+            - generic [ref=e7398]: На весь экран
+          - button [ref=e7399] [cursor=pointer]:
+            - img [ref=e7402]:
+              - img [ref=e7403]
+          - button [ref=e10636] [cursor=pointer]:
+            - generic [ref=e8459]: Сохранить
+          - button [ref=e9008] [cursor=pointer]:
+            - img [ref=e9011]:
+              - img [ref=e9012]
+      - generic [ref=e7407]:
+        - generic [ref=e9929]:
+          - generic [ref=e10637] [cursor=pointer]:
+            - img [ref=e9935]:
+              - img [ref=e9936]
+            - generic [ref=e9938]: "Датасет:"
+            - generic [ref=e9939]: ПР6_Практика_Вариант2_Датасет
+          - generic [ref=e9940]:
+            - generic [ref=e9942]:
+              - textbox [ref=e10638]:
+                - /placeholder: Поиск по имени и описанию
+              - button [ref=e9948] [cursor=pointer]:
+                - img [ref=e9951]:
+                  - img [ref=e9952]
+            - generic [ref=e9954]:
+              - generic [ref=e9955]: Измерения
+              - generic [ref=e9956]:
+                - generic [ref=e10639] [cursor=pointer]:
+                  - img [ref=e9961]:
+                    - img [ref=e9962]
+                  - generic [ref=e10640]: Вероятность
+                - generic [ref=e10641] [cursor=pointer]:
+                  - img [ref=e9970]:
+                    - img [ref=e9971]
+                  - generic [ref=e10642]: Время записи
+                - generic [ref=e10643] [cursor=pointer]:
+                  - img [ref=e9979]:
+                    - img [ref=e9980]
+                  - generic [ref=e10644]: Год
+                  - img [ref=e9985]:
+                    - img [ref=e9986]
+                - generic [ref=e10645] [cursor=pointer]:
+                  - img [ref=e9993]:
+                    - img [ref=e9994]
+                  - generic [ref=e10646]: Дата записи
+                - generic [ref=e10647] [cursor=pointer]:
+                  - img [ref=e10002]:
+                    - img [ref=e10003]
+                  - generic [ref=e10648]: День недели
+                - generic [ref=e10649] [cursor=pointer]:
+                  - img [ref=e10011]:
+                    - img [ref=e10012]
+                  - generic [ref=e10650]: Департамент
+                - generic [ref=e10651] [cursor=pointer]:
+                  - img [ref=e10020]:
+                    - img [ref=e10021]
+                  - generic [ref=e10652]: Длительность процесса
+                - generic [ref=e10653] [cursor=pointer]:
+                  - img [ref=e10029]:
+                    - img [ref=e10030]
+                  - generic [ref=e10654]: Имя пользователя
+                - generic [ref=e10655] [cursor=pointer]:
+                  - img [ref=e10038]:
+                    - img [ref=e10039]
+                  - generic [ref=e10656]: Количество действий
+                - generic [ref=e10657] [cursor=pointer]:
+                  - img [ref=e10047]:
+                    - img [ref=e10048]
+                  - generic [ref=e10658]: Найденный процесс
+                - generic [ref=e10659] [cursor=pointer]:
+                  - img [ref=e10056]:
+                    - img [ref=e10057]
+                  - generic [ref=e10660]: Проект
+                - generic [ref=e10661] [cursor=pointer]:
+                  - img [ref=e10065]:
+                    - img [ref=e10066]
+                  - generic [ref=e10662]: ПШЕ после автоматизации
+                - generic [ref=e10663] [cursor=pointer]:
+                  - img [ref=e10074]:
+                    - img [ref=e10075]
+                  - generic [ref=e10664]: Сложность автоматизации
+        - generic [ref=e10100]:
+          - generic [ref=e10103]:
+            - generic [ref=e10105]:
+              - button [ref=e10665] [cursor=pointer]:
+                - generic [ref=e10108]:
+                  - img [ref=e10110]:
+                    - img [ref=e10475]
+                  - generic [ref=e10115]: Таблица
+              - button [ref=e10117] [cursor=pointer]:
+                - img [ref=e10120]:
+                  - img [ref=e10121]
+            - generic [ref=e10124]:
+              - generic [ref=e10480]:
+                - generic [ref=e10481]:
+                  - img [ref=e10483]:
+                    - img [ref=e10484]
+                  - generic [ref=e10486]: Столбцы
+                  - generic [ref=e10487]:
+                    - button [ref=e10489] [cursor=pointer]:
+                      - img [ref=e10492]:
+                        - img [ref=e10493]
+                    - button [ref=e10498] [cursor=pointer]:
+                      - img [ref=e10501]:
+                        - img [ref=e10502]
+                - generic [ref=e10506] [cursor=pointer]:
+                  - img [ref=e10508]:
+                    - img [ref=e10509]
+                  - generic [ref=e10512]: Найденный процесс
+              - generic [ref=e10515]:
+                - img [ref=e10517]:
+                  - img [ref=e10518]
+                - generic [ref=e10520]: Цвета
+                - button [ref=e10525] [cursor=pointer]:
+                  - img [ref=e10528]:
+                    - img [ref=e10529]
+              - generic [ref=e10206]:
+                - img [ref=e10208]:
+                  - img [ref=e10209]
+                - generic [ref=e10211]: Сортировка
+                - button [ref=e10216] [cursor=pointer]:
+                  - img [ref=e10219]:
+                    - img [ref=e10220]
+              - generic [ref=e10242]:
+                - img [ref=e10244]:
+                  - img [ref=e10245]
+                - generic [ref=e10247]: Фильтры
+                - button [ref=e10252] [cursor=pointer]:
+                  - img [ref=e10255]:
+                    - img [ref=e10256]
+          - table [ref=e10539]:
+            - rowgroup [ref=e10540]:
+              - row [ref=e10667]:
+                - columnheader [ref=e10668] [cursor=pointer]:
+                  - generic [ref=e10543]: Найденный процесс
+            - rowgroup [ref=e10544]:
+              - row [ref=e10669]:
+                - cell [ref=e10670]:
+                  - generic [ref=e10547]: Процесс серого рекордера 1
+              - row [ref=e10671]:
+                - cell [ref=e10672]:
+                  - generic [ref=e10550]: Процесс серого рекордера 2
+              - row [ref=e10673]:
+                - cell [ref=e10674]:
+                  - generic [ref=e10553]: Процесс серого рекордера 3
+              - row [ref=e10675]:
+                - cell [ref=e10676]:
+                  - generic [ref=e10556]: Процесс серого рекордера 4
+              - row [ref=e10677]:
+                - cell [ref=e10678]:
+                  - generic [ref=e10559]: Процесс серого рекордера 5
+              - row [ref=e10679]:
+                - cell [ref=e10680]:
+                  - generic [ref=e10562]: Процесс серого рекордера 6
+  - generic [ref=e1261]:
+    - complementary
+    - complementary
+  - table [ref=e10564]:
+    - rowgroup [ref=e10565]:
+      - row [ref=e10681]:
+        - columnheader [ref=e10682] [cursor=pointer]:
+          - generic [ref=e10568]: Найденный процесс
+    - rowgroup [ref=e10569]:
+      - row [ref=e10683]:
+        - cell [ref=e10684]:
+          - generic [ref=e10572]: Процесс серого рекордера 1
+      - row [ref=e10685]:
+        - cell [ref=e10686]:
+          - generic [ref=e10575]: Процесс серого рекордера 2
+      - row [ref=e10687]:
+        - cell [ref=e10688]:
+          - generic [ref=e10578]: Процесс серого рекордера 3
+      - row [ref=e10689]:
+        - cell [ref=e10690]:
+          - generic [ref=e10581]: Процесс серого рекордера 4
+      - row [ref=e10691]:
+        - cell [ref=e10692]:
+          - generic [ref=e10584]: Процесс серого рекордера 5
+      - row [ref=e10693]:
+        - cell [ref=e10694]:
+          - generic [ref=e10587]: Процесс серого рекордера 6
+  - dialog [active] [ref=e10699]:
+    - generic [ref=e10700]:
+      - generic [ref=e10702]: Сохранить чарт
+      - generic [ref=e10705]:
+        - generic [ref=e10706]: Название
+        - textbox "Введите название" [ref=e10709]: ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам - копия
+      - generic [ref=e10711]:
+        - button "Отменить" [ref=e10713] [cursor=pointer]:
+          - generic [ref=e10714]: Отменить
+        - button "Сохранить" [ref=e10716] [cursor=pointer]:
+          - generic [ref=e10717]: Сохранить
+      - button "Закрыть диалоговое окно" [ref=e10719] [cursor=pointer]:
+        - img [ref=e10722]:
+          - img [ref=e10723]

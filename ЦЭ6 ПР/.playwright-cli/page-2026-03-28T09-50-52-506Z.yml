@@ -1,0 +1,280 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button "Все сервисы" [ref=e13456] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+              - generic "Все сервисы":
+                - generic: Все сервисы
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link "Коллекции и воркбуки" [ref=e13457] [cursor=pointer]:
+              - /url: /collections
+              - button "Коллекции и воркбуки" [ref=e13458]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+                - generic "Коллекции и воркбуки":
+                  - generic: Коллекции и воркбуки
+          - listitem [ref=e46]:
+            - link "Избранное" [ref=e13459] [cursor=pointer]:
+              - /url: /favorites
+              - button "Избранное" [ref=e13460]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+                - generic "Избранное":
+                  - generic: Избранное
+          - listitem [ref=e56]:
+            - link "Подключения" [ref=e13461] [cursor=pointer]:
+              - /url: /connections
+              - button "Подключения" [ref=e13462]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+                - generic "Подключения":
+                  - generic: Подключения
+          - listitem [ref=e66]:
+            - link "Датасеты" [ref=e13463] [cursor=pointer]:
+              - /url: /datasets
+              - button "Датасеты" [ref=e13464]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+                - generic "Датасеты":
+                  - generic: Датасеты
+          - listitem [ref=e76]:
+            - link "Чарты" [ref=e13465] [cursor=pointer]:
+              - /url: /widgets
+              - button "Чарты" [ref=e13466]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+                - generic "Чарты":
+                  - generic: Чарты
+          - listitem [ref=e87]:
+            - link "Дашборды" [ref=e13467] [cursor=pointer]:
+              - /url: /dashboards
+              - button "Дашборды" [ref=e13468]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+                - generic "Дашборды":
+                  - generic: Дашборды
+          - listitem [ref=e97]:
+            - link "Отчёты" [ref=e13469] [cursor=pointer]:
+              - /url: /reports
+              - button "Отчёты" [ref=e13470]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+                - generic "Отчёты":
+                  - generic: Отчёты
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link "Галерея" [ref=e13471] [cursor=pointer]:
+              - /url: /gallery
+              - button "Галерея" [ref=e13472]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+                - generic "Галерея":
+                  - generic: Галерея
+          - listitem [ref=e121]:
+            - link "Фоновый экспорт данных" [ref=e13473] [cursor=pointer]:
+              - /url: /exports
+              - button "Фоновый экспорт данных" [ref=e13474]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+                - generic "Фоновый экспорт данных":
+                  - generic: Фоновый экспорт данных
+          - listitem [ref=e131]:
+            - link "Настройки сервиса" [ref=e13475] [cursor=pointer]:
+              - /url: /settings
+              - button "Настройки сервиса" [ref=e13476]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+                - generic "Настройки сервиса":
+                  - generic: Настройки сервиса
+      - generic [ref=e142]:
+        - button "29 Пробный период" [ref=e13477] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+          - generic "Пробный период":
+            - generic: Пробный период
+        - button "Уведомления" [ref=e13478] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+          - generic "Уведомления":
+            - generic: Уведомления
+        - button "Центр поддержки" [ref=e13479] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+          - generic "Центр поддержки":
+            - generic: Центр поддержки
+        - button "Настройки" [ref=e13480] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+          - generic "Настройки":
+            - generic: Настройки
+        - button "Учётная запись" [ref=e13481] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+          - generic "Учётная запись":
+            - generic: Учётная запись
+      - button "Развернуть" [ref=e13482] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e12382]:
+      - generic [ref=e12386]:
+        - list [ref=e12387]:
+          - listitem [ref=e12388]:
+            - link "Коллекции и воркбуки" [ref=e13483] [cursor=pointer]:
+              - /url: /collections
+            - generic [ref=e12390]: /
+          - listitem [ref=e12391]:
+            - link "ПР6_ЦЭДУП_Вариант2" [ref=e13484] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+            - generic [ref=e12393]: /
+          - listitem [ref=e12394]:
+            - link "Новый дашборд" [ref=e13485] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/dashboards
+          - listitem [ref=e12396]
+        - generic [ref=e12397]:
+          - button [ref=e12949] [cursor=pointer]:
+            - img [ref=e12952]:
+              - img [ref=e12953]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button "Настройки" [ref=e13486] [cursor=pointer]:
+            - img [ref=e12401]:
+              - img [ref=e12402]
+          - button [ref=e12404] [cursor=pointer]:
+            - img [ref=e12407]:
+              - img [ref=e12408]
+          - button "Связи" [ref=e13487] [cursor=pointer]:
+            - generic [ref=e12411]: Связи
+          - button "Вкладки" [ref=e13488] [cursor=pointer]:
+            - generic [ref=e12413]: Вкладки
+          - button "Сохранить" [ref=e13489] [cursor=pointer]:
+            - generic [ref=e12959]: Сохранить
+      - generic [ref=e12421]:
+        - generic [ref=e12422]: Новый дашборд
+        - generic [ref=e12961]:
+          - generic [ref=e12962]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic "ПР6_Практика_Индикатор_УникПользователи"
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic "Еще 0":
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Имя пользователя
+                                - generic: "10"
+            - generic [ref=e12965]:
+              - button "Настройки" [ref=e13490] [cursor=pointer]:
+                - img [ref=e12969]:
+                  - img [ref=e12970]
+              - button "Связи" [ref=e13491] [cursor=pointer]:
+                - img [ref=e12975]:
+                  - img [ref=e12976]
+              - button "Дополнительные опции" [ref=e13492] [cursor=pointer]:
+                - img [ref=e12982]:
+                  - img [ref=e12983]
+          - generic [ref=e13493]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic "ПР6_Практика_Индикатор_УникПроцессы"
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic "Еще 0":
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Найденный процесс
+                                - generic: "6"
+            - generic [ref=e13496]:
+              - button "Настройки" [ref=e13497] [cursor=pointer]:
+                - img [ref=e13500]:
+                  - img [ref=e13501]
+              - button "Связи" [ref=e13503] [cursor=pointer]:
+                - img [ref=e13506]:
+                  - img [ref=e13507]
+              - button "Дополнительные опции" [ref=e13510] [cursor=pointer]:
+                - img [ref=e13513]:
+                  - img [ref=e13514]
+        - generic [ref=e12431]:
+          - button "Чарт" [ref=e13518]:
+            - img [ref=e12434]:
+              - img [ref=e12435]
+            - generic "Чарт" [ref=e13519]
+          - button "Селектор" [ref=e13520]:
+            - img [ref=e12441]:
+              - img [ref=e12442]
+            - generic "Селектор" [ref=e13521]
+          - button "Селектор (JS)" [ref=e13522]:
+            - img [ref=e12447]:
+              - img [ref=e12448]
+            - generic "Селектор (JS)" [ref=e13523]
+          - button "Текст" [ref=e13524]:
+            - img [ref=e12453]:
+              - img [ref=e12454]
+            - generic "Текст" [ref=e13525]
+          - button "Заголовок" [ref=e13526]:
+            - img [ref=e12459]:
+              - img [ref=e12460]
+            - generic "Заголовок" [ref=e13527]
+  - generic [ref=e1261]:
+    - alert
+    - alert
+    - complementary
+    - complementary

@@ -1,0 +1,258 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e653] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e654] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e655]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e656] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e657]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e658] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e659]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e660] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e661]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e662] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e663]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e664] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e665]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e666] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e667]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e668] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e669]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e670] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e671]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e672] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e673]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e674] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e675] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e676] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e677] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e678] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e679] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e572]:
+      - generic [ref=e576]:
+        - list [ref=e577]:
+          - listitem [ref=e578]:
+            - link [ref=e680] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e580]: /
+          - listitem [ref=e581]:
+            - link [ref=e681] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e583]: /
+          - listitem [ref=e584]:
+            - link [ref=e682] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/dashboards
+              - text: Новый дашборд
+          - listitem [ref=e586]
+        - generic [ref=e587]:
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e683] [cursor=pointer]:
+            - img [ref=e591]:
+              - img [ref=e592]
+          - button [ref=e594] [cursor=pointer]:
+            - img [ref=e597]:
+              - img [ref=e598]
+          - button [ref=e684] [cursor=pointer]:
+            - generic [ref=e601]: Связи
+          - button [ref=e685] [cursor=pointer]:
+            - generic [ref=e603]: Вкладки
+          - generic [ref=e604]:
+            - button [disabled]:
+              - generic: Сохранить
+      - generic [ref=e611]:
+        - generic [ref=e612]: Новый дашборд
+        - generic [ref=e615]:
+          - img [ref=e686]
+          - generic [ref=e618]:
+            - generic [ref=e619]: Дашборд пока пустой
+            - generic [ref=e620]: Перетаскивайте блоки с панели снизу, чтобы добавить на дашборд чарт, селектор или поясняющий текст
+        - generic [ref=e621]:
+          - button [ref=e687]:
+            - img [ref=e624]:
+              - img [ref=e625]
+            - generic [ref=e688]: Чарт
+          - button [ref=e689]:
+            - img [ref=e631]:
+              - img [ref=e632]
+            - generic [ref=e690]: Селектор
+          - button [ref=e691]:
+            - img [ref=e637]:
+              - img [ref=e638]
+            - generic [ref=e692]: Селектор (JS)
+          - button [ref=e693]:
+            - img [ref=e643]:
+              - img [ref=e644]
+            - generic [ref=e694]: Текст
+          - button [ref=e695]:
+            - img [ref=e649]:
+              - img [ref=e650]
+            - generic [ref=e696]: Заголовок
+  - dialog [ref=e701]:
+    - generic [ref=e702]:
+      - generic [ref=e704]: Чарт
+      - generic [ref=e706]:
+        - generic [ref=e707]:
+          - list [ref=e710]:
+            - button "Индикатор_МаксСтоимость" [ref=e936]:
+              - generic [ref=e717] [cursor=pointer]:
+                - button [ref=e719]:
+                  - img [ref=e722]:
+                    - img [ref=e723]
+                - generic [ref=e725]: Индикатор_МаксСтоимость
+          - button "Добавить" [ref=e727] [cursor=pointer]:
+            - img [ref=e730]:
+              - img [ref=e731]
+            - generic [ref=e733]: Добавить
+        - separator [ref=e734]
+        - generic [ref=e736]:
+          - generic [ref=e737]:
+            - generic [ref=e738]: Общие
+            - generic [ref=e739]:
+              - generic [ref=e741]: Заголовок
+              - textbox "Заголовок" [ref=e745]:
+                - /placeholder: Введите заголовок
+                - text: Индикатор_МаксСтоимость
+            - generic [ref=e746]:
+              - generic [ref=e748]: Чарт
+              - generic [ref=e750]:
+                - generic [ref=e751]:
+                  - button "Индикатор_МаксСтоимость" [ref=e937] [cursor=pointer]:
+                    - generic "Индикатор_МаксСтоимость" [ref=e940]:
+                      - img [ref=e944]:
+                        - img [ref=e945]
+                      - generic [ref=e949]: Индикатор_МаксСтоимость
+                  - link "Открыть" [ref=e950] [cursor=pointer]:
+                    - /url: /navigate/osjpargtkx808
+                    - generic [ref=e951]: Открыть
+                - button "Указать ссылку" [ref=e757] [cursor=pointer]:
+                  - generic [ref=e758]: Указать ссылку
+            - generic [ref=e759]:
+              - generic [ref=e761]:
+                - text: Фильтрация
+                - button [ref=e763] [cursor=pointer]:
+                  - img [ref=e764]:
+                    - img [ref=e765]
+              - generic [ref=e768]:
+                - generic:
+                  - generic:
+                    - checkbox "Фильтрация" [disabled]
+          - generic [ref=e769]:
+            - generic [ref=e770]: Внешний вид
+            - generic [ref=e771]:
+              - generic [ref=e773]: Заголовок
+              - generic [ref=e776] [cursor=pointer]:
+                - generic:
+                  - img
+                - checkbox "Заголовок" [checked] [ref=e777]
+            - generic [ref=e778]:
+              - generic [ref=e780]: Описание
+              - checkbox [ref=e785] [cursor=pointer]
+            - generic [ref=e786]:
+              - generic [ref=e788]:
+                - text: Подсказка
+                - button [ref=e790] [cursor=pointer]:
+                  - img [ref=e791]:
+                    - img [ref=e792]
+              - checkbox [ref=e798] [cursor=pointer]
+            - generic [ref=e799]:
+              - generic [ref=e801]:
+                - text: Автовысота
+                - button [ref=e803] [cursor=pointer]:
+                  - img [ref=e804]:
+                    - img [ref=e805]
+              - generic [ref=e953] [cursor=pointer]:
+                - generic:
+                  - img
+                - checkbox "Автовысота" [checked] [ref=e954]
+          - generic [ref=e810] [cursor=pointer]:
+            - generic [ref=e811]: Параметры
+            - img [ref=e814]:
+              - img [ref=e815]
+      - generic [ref=e819]:
+        - button "Отменить" [ref=e821] [cursor=pointer]:
+          - generic [ref=e822]: Отменить
+        - button "Добавить" [ref=e824] [cursor=pointer]:
+          - generic [ref=e825]: Добавить
+      - button "Закрыть диалоговое окно" [ref=e827] [cursor=pointer]:
+        - img [ref=e830]:
+          - img [ref=e831]

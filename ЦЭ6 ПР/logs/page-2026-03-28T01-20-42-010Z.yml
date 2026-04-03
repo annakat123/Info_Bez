@@ -1,0 +1,596 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e1165] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e1166] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e1167]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e1168] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e1169]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e1170] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e1171]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e1172] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e1173]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e1174] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e1175]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e1176] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e1177]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e1178] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e1179]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e1180] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e1181]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e1182] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e1183]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e1184] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e1185]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e1186] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e1187] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e1188] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e1189] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e1190] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e1191] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e572]:
+      - generic [ref=e576]:
+        - list [ref=e577]:
+          - listitem [ref=e578]:
+            - link [ref=e1192] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e580]: /
+          - listitem [ref=e581]:
+            - link [ref=e1193] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e583]: /
+          - listitem [ref=e584]:
+            - link [ref=e1194] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/dashboards
+              - text: Новый дашборд
+          - listitem [ref=e586]
+        - generic [ref=e587]:
+          - button [ref=e985] [cursor=pointer]:
+            - img [ref=e988]:
+              - img [ref=e989]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e1195] [cursor=pointer]:
+            - img [ref=e591]:
+              - img [ref=e592]
+          - button [ref=e594] [cursor=pointer]:
+            - img [ref=e597]:
+              - img [ref=e598]
+          - button [ref=e1196] [cursor=pointer]:
+            - generic [ref=e601]: Связи
+          - button [ref=e1197] [cursor=pointer]:
+            - generic [ref=e603]: Вкладки
+          - button [ref=e1198] [cursor=pointer]:
+            - generic [ref=e995]: Сохранить
+      - generic [ref=e611]:
+        - generic [ref=e612]: Новый дашборд
+        - generic [ref=e997]:
+          - generic [ref=e998]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Индикатор_МаксСтоимость
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: sum([Стоимость ремонта])
+                                - generic: 3 989 504
+            - generic [ref=e1001]:
+              - button [ref=e1199] [cursor=pointer]:
+                - img [ref=e1005]:
+                  - img [ref=e1006]
+              - button [ref=e1200] [cursor=pointer]:
+                - img [ref=e1011]:
+                  - img [ref=e1012]
+              - button [ref=e1201] [cursor=pointer]:
+                - img [ref=e1018]:
+                  - img [ref=e1019]
+          - generic [ref=e1033]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Индикатор_СреднееМинМакс
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Стоимость ремонта
+                                - generic: 3 989 504
+            - generic [ref=e1036]:
+              - button [ref=e1202] [cursor=pointer]:
+                - img [ref=e1040]:
+                  - img [ref=e1041]
+              - button [ref=e1203] [cursor=pointer]:
+                - img [ref=e1046]:
+                  - img [ref=e1047]
+              - button [ref=e1204] [cursor=pointer]:
+                - img [ref=e1053]:
+                  - img [ref=e1054]
+          - generic [ref=e1058]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Круговая_Сотрудники_Заказы
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic: Номер заявки
+            - generic [ref=e1061]:
+              - button [ref=e1205] [cursor=pointer]:
+                - img [ref=e1065]:
+                  - img [ref=e1066]
+              - button [ref=e1206] [cursor=pointer]:
+                - img [ref=e1071]:
+                  - img [ref=e1072]
+              - button [ref=e1207] [cursor=pointer]:
+                - img [ref=e1078]:
+                  - img [ref=e1079]
+          - generic [ref=e1083]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Линейная_Оценка_ПоДатам
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - img:
+                                - generic:
+                                  - generic: Янв '24
+                                  - generic: Май '24
+                                  - generic: Сен '24
+                                  - generic: Янв '25
+                                - generic:
+                                  - generic: "2"
+                                  - generic: "4"
+                                  - generic: "6"
+                                  - generic: "8"
+                                  - generic: "10"
+                                  - generic: "12"
+            - generic [ref=e1086]:
+              - button [ref=e1208] [cursor=pointer]:
+                - img [ref=e1090]:
+                  - img [ref=e1091]
+              - button [ref=e1209] [cursor=pointer]:
+                - img [ref=e1096]:
+                  - img [ref=e1097]
+              - button [ref=e1210] [cursor=pointer]:
+                - img [ref=e1103]:
+                  - img [ref=e1104]
+          - generic [ref=e1108]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: Сводная_Города_Заказы_Дни
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - table:
+                                  - rowgroup:
+                                    - row:
+                                      - columnheader:
+                                        - generic: Город
+                                      - columnheader:
+                                        - generic: Номер заявки
+                                      - columnheader:
+                                        - generic: Кол-во дней ремонта
+                                  - rowgroup:
+                                    - row:
+                                      - cell:
+                                        - generic: Екатеринбург
+                                      - cell:
+                                        - generic: 20 730 992
+                                      - cell:
+                                        - generic: "189"
+                                    - row:
+                                      - cell:
+                                        - generic: Москва
+                                      - cell:
+                                        - generic: 18 867 540
+                                      - cell:
+                                        - generic: "156"
+                                    - row:
+                                      - cell:
+                                        - generic: Нижний Новгород
+                                      - cell:
+                                        - generic: 16 782 500
+                                      - cell:
+                                        - generic: "142"
+            - generic [ref=e1111]:
+              - button [ref=e1211] [cursor=pointer]:
+                - img [ref=e1115]:
+                  - img [ref=e1116]
+              - button [ref=e1212] [cursor=pointer]:
+                - img [ref=e1121]:
+                  - img [ref=e1122]
+              - button [ref=e1213] [cursor=pointer]:
+                - img [ref=e1128]:
+                  - img [ref=e1129]
+        - generic [ref=e621]:
+          - button [ref=e1214]:
+            - img [ref=e624]:
+              - img [ref=e625]
+            - generic [ref=e1215]: Чарт
+          - button [ref=e1216]:
+            - img [ref=e631]:
+              - img [ref=e632]
+            - generic [ref=e1217]: Селектор
+          - button [ref=e1218]:
+            - img [ref=e637]:
+              - img [ref=e638]
+            - generic [ref=e1219]: Селектор (JS)
+          - button [ref=e1220]:
+            - img [ref=e643]:
+              - img [ref=e644]
+            - generic [ref=e1221]: Текст
+          - button [ref=e1222]:
+            - img [ref=e649]:
+              - img [ref=e650]
+            - generic [ref=e1223]: Заголовок
+  - table [ref=e1134]:
+    - rowgroup [ref=e1135]:
+      - row [ref=e1224]:
+        - columnheader [ref=e1225] [cursor=pointer]:
+          - generic [ref=e1138]: Город
+        - columnheader [ref=e1226] [cursor=pointer]:
+          - generic [ref=e1140]: Номер заявки
+        - columnheader [ref=e1227] [cursor=pointer]:
+          - generic [ref=e1142]: Кол-во дней ремонта
+    - rowgroup [ref=e1143]:
+      - row [ref=e1228]:
+        - cell [ref=e1229]:
+          - generic [ref=e1146]: Екатеринбург
+        - cell [ref=e1230]:
+          - generic [ref=e1148]: 20 730 992
+        - cell [ref=e1231]:
+          - generic [ref=e1150]: "189"
+      - row [ref=e1232]:
+        - cell [ref=e1233]:
+          - generic [ref=e1153]: Москва
+        - cell [ref=e1234]:
+          - generic [ref=e1155]: 18 867 540
+        - cell [ref=e1235]:
+          - generic [ref=e1157]: "156"
+      - row [ref=e1236]:
+        - cell [ref=e1237]:
+          - generic [ref=e1160]: Нижний Новгород
+        - cell [ref=e1238]:
+          - generic [ref=e1162]: 16 782 500
+        - cell [ref=e1239]:
+          - generic [ref=e1164]: "142"
+  - dialog [ref=e1244]:
+    - generic [ref=e1245]:
+      - generic [ref=e1247]: Группа селекторов
+      - generic [ref=e1248]:
+        - tablist [ref=e1249]:
+          - tab "Селекторы" [selected] [ref=e1250] [cursor=pointer]:
+            - generic [ref=e1252]: Селекторы
+          - tab "Настройки группы" [ref=e1253] [cursor=pointer]:
+            - generic [ref=e1255]: Настройки группы
+        - generic [ref=e1256]:
+          - generic [ref=e1257]:
+            - list [ref=e1260]:
+              - generic [ref=e1261]:
+                - button "Месяц" [ref=e1624]:
+                  - img [ref=e1676]:
+                    - img [ref=e1677]
+                  - generic "Месяц" [ref=e1625] [cursor=pointer]
+                - button "Ответственный сотрудник" [ref=e1965]:
+                  - img [ref=e1681]:
+                    - img [ref=e1682]
+                  - generic "Ответственный сотрудник" [ref=e1966] [cursor=pointer]
+            - button "Добавить" [ref=e1270] [cursor=pointer]:
+              - img [ref=e1273]:
+                - img [ref=e1274]
+              - generic [ref=e1276]: Добавить
+          - separator [ref=e1277]
+          - generic [ref=e1698]:
+            - generic [ref=e1699]:
+              - generic [ref=e1701]: Общее
+              - generic [ref=e1702]:
+                - generic [ref=e1704]: Источник
+                - group [ref=e1707] [cursor=pointer]:
+                  - combobox [ref=e1708]:
+                    - generic [ref=e1709]: На основе датасета
+                  - img [ref=e1710]:
+                    - img [ref=e1711]
+              - generic [ref=e1713]:
+                - generic [ref=e1715]: Датасет
+                - generic [ref=e1717]:
+                  - generic [ref=e1718]:
+                    - button "ПР6_Вариант2_Датасет" [ref=e1720] [cursor=pointer]:
+                      - generic "ПР6_Вариант2_Датасет" [ref=e1723]:
+                        - img [ref=e1727]:
+                          - img [ref=e1728]
+                        - generic [ref=e1731]: ПР6_Вариант2_Датасет
+                    - link "Открыть" [ref=e1732] [cursor=pointer]:
+                      - /url: /datasets/hlch59bhktdy1
+                      - generic [ref=e1733]: Открыть
+                  - button "Указать ссылку" [ref=e1735] [cursor=pointer]:
+                    - generic [ref=e1736]: Указать ссылку
+              - generic [ref=e1737]:
+                - generic [ref=e1739]: Поле
+                - group [ref=e1743] [cursor=pointer]:
+                  - combobox [active] [ref=e1744]:
+                    - generic [ref=e1968]:
+                      - img [ref=e1970]:
+                        - img [ref=e1971]
+                      - generic [ref=e1973]: Ответственный сотрудник
+                  - img [ref=e1746]:
+                    - img [ref=e1747]
+              - generic [ref=e1749]:
+                - generic [ref=e1751]: Показать на вкладках
+                - generic [ref=e1755]:
+                  - group [ref=e1757] [cursor=pointer]:
+                    - combobox [ref=e1758]:
+                      - generic [ref=e1762]:
+                        - generic [ref=e1763]: Из настроек группы
+                        - generic [ref=e1764]: Текущая вкладка
+                    - img [ref=e1765]:
+                      - img [ref=e1766]
+                  - button [ref=e1974] [cursor=pointer]:
+                    - img [ref=e1977]:
+                      - img [ref=e1978]
+            - generic [ref=e1768]:
+              - generic [ref=e1770]: Фильтрация
+              - generic [ref=e1771]:
+                - generic [ref=e1773]: Тип селектора
+                - group [ref=e1776] [cursor=pointer]:
+                  - combobox [ref=e1980]:
+                    - generic [ref=e1982]:
+                      - img [ref=e1984]:
+                        - img [ref=e1985]
+                      - generic [ref=e1987]: Список
+                  - img [ref=e1777]:
+                    - img [ref=e1778]
+              - generic [ref=e1780]:
+                - generic [ref=e1783]:
+                  - text: Операция
+                  - button [ref=e1784] [cursor=pointer]:
+                    - img [ref=e1785]:
+                      - img [ref=e1786]
+                - group [ref=e1790] [cursor=pointer]:
+                  - combobox [ref=e1988]:
+                    - generic [ref=e1989]: —
+                  - img [ref=e1791]:
+                    - img [ref=e1792]
+              - generic [ref=e1990]:
+                - generic [ref=e1992]: Множественный выбор
+                - checkbox [ref=e1996] [cursor=pointer]
+              - generic [ref=e1997]:
+                - generic [ref=e1999]: Значение по умолчанию
+                - group [ref=e2003] [cursor=pointer]:
+                  - combobox [ref=e2004]:
+                    - generic [ref=e2005]: Не определено
+                  - img [ref=e2006]:
+                    - img [ref=e2007]
+              - generic [ref=e1802]:
+                - generic [ref=e1804]: Обязательное поле
+                - checkbox [ref=e2011] [cursor=pointer]
+            - generic [ref=e1806]:
+              - generic [ref=e1808]: Отображение
+              - generic [ref=e1809]:
+                - generic [ref=e1811]: Заголовок
+                - textbox [ref=e1817]: Ответственный сотрудник
+              - radiogroup [ref=e1822]:
+                - generic [ref=e1823] [cursor=pointer]:
+                  - radio "Скрыт" [ref=e1824]
+                  - generic [ref=e1825]: Скрыт
+                - generic [ref=e1826]:
+                  - radio "Слева" [checked] [ref=e1827]
+                  - generic [ref=e1828]: Слева
+                - generic [ref=e1829] [cursor=pointer]:
+                  - radio "Сверху" [ref=e1830]
+                  - generic [ref=e1831]: Сверху
+              - generic [ref=e1832]:
+                - generic [ref=e1835]:
+                  - text: Внутренний заголовок
+                  - button [ref=e1836] [cursor=pointer]:
+                    - img [ref=e1837]:
+                      - img [ref=e1838]
+                - generic [ref=e1841]:
+                  - checkbox [ref=e2014] [cursor=pointer]
+                  - textbox [disabled] [ref=e1844]
+              - generic [ref=e1845]:
+                - generic [ref=e1848]:
+                  - text: Цветовой акцент
+                  - button [ref=e1849] [cursor=pointer]:
+                    - img [ref=e1850]:
+                      - img [ref=e1851]
+                - checkbox [ref=e2017] [cursor=pointer]
+              - generic [ref=e1855]:
+                - generic [ref=e1857]: Подсказка
+                - checkbox [ref=e2020] [cursor=pointer]
+      - generic [ref=e1435]:
+        - button "Отменить" [ref=e1437] [cursor=pointer]:
+          - generic [ref=e1438]: Отменить
+        - button "Сохранить" [ref=e1440] [cursor=pointer]:
+          - generic [ref=e1441]: Сохранить
+      - button "Закрыть диалоговое окно" [ref=e1443] [cursor=pointer]:
+        - img [ref=e1446]:
+          - img [ref=e1447]

@@ -1,0 +1,648 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img [ref=e13]:
+          - img [ref=e14]
+      - list [ref=e20]:
+        - listitem [ref=e22]:
+          - button "Все сервисы" [ref=e2222] [cursor=pointer]:
+            - img [ref=e27]:
+              - img [ref=e28]
+            - generic "Все сервисы":
+              - generic: Все сервисы
+    - list [ref=e34]:
+      - generic [ref=e35]:
+        - listitem [ref=e36]:
+          - link "Коллекции и воркбуки" [ref=e2223] [cursor=pointer]:
+            - /url: /collections
+            - button "Коллекции и воркбуки" [ref=e2224]:
+              - img [ref=e43]:
+                - img [ref=e44]
+              - generic "Коллекции и воркбуки":
+                - generic: Коллекции и воркбуки
+        - listitem [ref=e46]:
+          - link "Избранное" [ref=e2225] [cursor=pointer]:
+            - /url: /favorites
+            - button "Избранное" [ref=e2226]:
+              - img [ref=e53]:
+                - img [ref=e54]
+              - generic "Избранное":
+                - generic: Избранное
+        - listitem [ref=e56]:
+          - link "Подключения" [ref=e2227] [cursor=pointer]:
+            - /url: /connections
+            - button "Подключения" [ref=e2228]:
+              - img [ref=e63]:
+                - img [ref=e64]
+              - generic "Подключения":
+                - generic: Подключения
+        - listitem [ref=e66]:
+          - link "Датасеты" [ref=e2229] [cursor=pointer]:
+            - /url: /datasets
+            - button "Датасеты" [ref=e2230]:
+              - img [ref=e73]:
+                - img [ref=e74]
+              - generic "Датасеты":
+                - generic: Датасеты
+        - listitem [ref=e76]:
+          - link "Чарты" [ref=e2231] [cursor=pointer]:
+            - /url: /widgets
+            - button "Чарты" [ref=e2232]:
+              - img [ref=e83]:
+                - img [ref=e84]
+              - generic "Чарты":
+                - generic: Чарты
+        - listitem [ref=e87]:
+          - link "Дашборды" [ref=e2233] [cursor=pointer]:
+            - /url: /dashboards
+            - button "Дашборды" [ref=e2234]:
+              - img [ref=e94]:
+                - img [ref=e95]
+              - generic "Дашборды":
+                - generic: Дашборды
+        - listitem [ref=e97]:
+          - link "Отчёты" [ref=e2235] [cursor=pointer]:
+            - /url: /reports
+            - button "Отчёты" [ref=e2236]:
+              - img [ref=e104]:
+                - img [ref=e105]
+              - generic "Отчёты":
+                - generic: Отчёты
+        - listitem [ref=e107]
+        - listitem [ref=e110]:
+          - link "Галерея" [ref=e2237] [cursor=pointer]:
+            - /url: /gallery
+            - button "Галерея" [ref=e2238]:
+              - img [ref=e117]:
+                - img [ref=e118]
+              - generic "Галерея":
+                - generic: Галерея
+        - listitem [ref=e121]:
+          - link "Фоновый экспорт данных" [ref=e2239] [cursor=pointer]:
+            - /url: /exports
+            - button "Фоновый экспорт данных" [ref=e2240]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - generic "Фоновый экспорт данных":
+                - generic: Фоновый экспорт данных
+        - listitem [ref=e131]:
+          - link "Настройки сервиса" [ref=e2241] [cursor=pointer]:
+            - /url: /settings
+            - button "Настройки сервиса" [ref=e2242]:
+              - img [ref=e138]:
+                - img [ref=e139]
+              - generic "Настройки сервиса":
+                - generic: Настройки сервиса
+    - generic [ref=e142]:
+      - button "29 Пробный период" [ref=e2243] [cursor=pointer]:
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e152]: "29"
+        - generic "Пробный период":
+          - generic: Пробный период
+      - button "Уведомления" [ref=e2244] [cursor=pointer]:
+        - img [ref=e158]:
+          - img [ref=e159]
+        - generic "Уведомления":
+          - generic: Уведомления
+      - button "Центр поддержки" [ref=e2245] [cursor=pointer]:
+        - img [ref=e166]:
+          - img [ref=e167]
+        - generic "Центр поддержки":
+          - generic: Центр поддержки
+      - button "Настройки" [ref=e2246] [cursor=pointer]:
+        - img [ref=e174]:
+          - img [ref=e175]
+        - generic "Настройки":
+          - generic: Настройки
+      - button "Учётная запись" [ref=e2247] [cursor=pointer]:
+        - generic [ref=e183]:
+          - img [ref=e184]:
+            - img [ref=e185]
+          - img [ref=e187]:
+            - img [ref=e188]
+        - generic "Учётная запись":
+          - generic: Учётная запись
+    - button "Развернуть" [ref=e2248] [cursor=pointer]:
+      - img [ref=e191]:
+        - img [ref=e192]
+  - generic [ref=e196]:
+    - generic [ref=e200]:
+      - list [ref=e201]:
+        - listitem [ref=e202]:
+          - link "Коллекции и воркбуки" [ref=e2249] [cursor=pointer]:
+            - /url: /collections
+          - generic [ref=e204]: /
+        - listitem [ref=e2250]:
+          - button "Показать больше" [ref=e2252] [cursor=pointer]:
+            - generic [ref=e2254]: ...
+          - generic [ref=e2255]: /
+        - listitem [ref=e211]:
+          - link "Новый дашборд" [ref=e2256] [cursor=pointer]:
+            - /url: /workbooks/jneh2sr45iyi3/dashboards
+        - listitem [ref=e213]
+      - generic [ref=e214]:
+        - button [ref=e286] [cursor=pointer]:
+          - img [ref=e289]:
+            - img [ref=e290]
+        - button [disabled]:
+          - generic:
+            - generic:
+              - img:
+                - img
+        - button "Настройки" [ref=e2257] [cursor=pointer]:
+          - img [ref=e218]:
+            - img [ref=e219]
+        - button [ref=e221] [cursor=pointer]:
+          - img [ref=e224]:
+            - img [ref=e225]
+        - button "Связи" [ref=e2258] [cursor=pointer]:
+          - generic [ref=e228]: Связи
+        - button "Вкладки" [ref=e2259] [cursor=pointer]:
+          - generic [ref=e230]: Вкладки
+        - button "Сохранить" [ref=e2260] [cursor=pointer]:
+          - generic [ref=e293]: Сохранить
+    - generic [ref=e238]:
+      - generic [ref=e239]: Новый дашборд
+      - generic [ref=e295]:
+        - generic [ref=e296]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_УникПользователи"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Имя пользователя
+                              - generic: "10"
+          - generic [ref=e299]:
+            - button "Настройки" [ref=e2261] [cursor=pointer]:
+              - img [ref=e303]:
+                - img [ref=e304]
+            - button "Связи" [ref=e2262] [cursor=pointer]:
+              - img [ref=e309]:
+                - img [ref=e310]
+            - button "Дополнительные опции" [ref=e2263] [cursor=pointer]:
+              - img [ref=e316]:
+                - img [ref=e317]
+        - generic [ref=e321]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_УникПроцессы"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Найденный процесс
+                              - generic: "6"
+          - generic [ref=e324]:
+            - button "Настройки" [ref=e2264] [cursor=pointer]:
+              - img [ref=e328]:
+                - img [ref=e329]
+            - button "Связи" [ref=e2265] [cursor=pointer]:
+              - img [ref=e334]:
+                - img [ref=e335]
+            - button "Дополнительные опции" [ref=e2266] [cursor=pointer]:
+              - img [ref=e341]:
+                - img [ref=e342]
+        - generic [ref=e346]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_МаксДлительность"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Длительность процесса
+                              - generic: 4,15
+          - generic [ref=e349]:
+            - button "Настройки" [ref=e2267] [cursor=pointer]:
+              - img [ref=e353]:
+                - img [ref=e354]
+            - button "Связи" [ref=e2268] [cursor=pointer]:
+              - img [ref=e359]:
+                - img [ref=e360]
+            - button "Дополнительные опции" [ref=e2269] [cursor=pointer]:
+              - img [ref=e366]:
+                - img [ref=e367]
+        - generic [ref=e371]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_МинДлительность"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Длительность процесса
+                              - generic: 0,36
+          - generic [ref=e374]:
+            - button "Настройки" [ref=e2270] [cursor=pointer]:
+              - img [ref=e378]:
+                - img [ref=e379]
+            - button "Связи" [ref=e2271] [cursor=pointer]:
+              - img [ref=e384]:
+                - img [ref=e385]
+            - button "Дополнительные опции" [ref=e2272] [cursor=pointer]:
+              - img [ref=e391]:
+                - img [ref=e392]
+        - generic [ref=e396]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_РаспознанныеДействия"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e399]:
+            - button "Настройки" [ref=e2273] [cursor=pointer]:
+              - img [ref=e403]:
+                - img [ref=e404]
+            - button "Связи" [ref=e2274] [cursor=pointer]:
+              - img [ref=e409]:
+                - img [ref=e410]
+            - button "Дополнительные опции" [ref=e2275] [cursor=pointer]:
+              - img [ref=e416]:
+                - img [ref=e417]
+        - generic [ref=e421]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_НераспознанныеДействия"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e424]:
+            - button "Настройки" [ref=e2276] [cursor=pointer]:
+              - img [ref=e428]:
+                - img [ref=e429]
+            - button "Связи" [ref=e2277] [cursor=pointer]:
+              - img [ref=e434]:
+                - img [ref=e435]
+            - button "Дополнительные опции" [ref=e2278] [cursor=pointer]:
+              - img [ref=e441]:
+                - img [ref=e442]
+        - generic [ref=e446]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Индикатор_СуммарныйПШЕ"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e449]:
+            - button "Настройки" [ref=e2279] [cursor=pointer]:
+              - img [ref=e453]:
+                - img [ref=e454]
+            - button "Связи" [ref=e2280] [cursor=pointer]:
+              - img [ref=e459]:
+                - img [ref=e460]
+            - button "Дополнительные опции" [ref=e2281] [cursor=pointer]:
+              - img [ref=e466]:
+                - img [ref=e467]
+        - generic [ref=e471]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Линейная_МаксСредМинДлительностьПоПроцессам"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e474]:
+            - button "Настройки" [ref=e2282] [cursor=pointer]:
+              - img [ref=e478]:
+                - img [ref=e479]
+            - button "Связи" [ref=e2283] [cursor=pointer]:
+              - img [ref=e484]:
+                - img [ref=e485]
+            - button "Дополнительные опции" [ref=e2284] [cursor=pointer]:
+              - img [ref=e491]:
+                - img [ref=e492]
+        - generic [ref=e496]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e499]:
+            - button "Настройки" [ref=e2285] [cursor=pointer]:
+              - img [ref=e503]:
+                - img [ref=e504]
+            - button "Связи" [ref=e2286] [cursor=pointer]:
+              - img [ref=e509]:
+                - img [ref=e510]
+            - button "Дополнительные опции" [ref=e2287] [cursor=pointer]:
+              - img [ref=e516]:
+                - img [ref=e517]
+        - generic [ref=e521]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Таблица_ПроектМинСложностьМаксПШЕ"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e524]:
+            - button "Настройки" [ref=e2288] [cursor=pointer]:
+              - img [ref=e528]:
+                - img [ref=e529]
+            - button "Связи" [ref=e2289] [cursor=pointer]:
+              - img [ref=e534]:
+                - img [ref=e535]
+            - button "Дополнительные опции" [ref=e2290] [cursor=pointer]:
+              - img [ref=e541]:
+                - img [ref=e542]
+        - generic [ref=e546]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic "ПР6_Практика_Столбчатая_РаспознанныеДействияПоПользователям"
+                        - generic:
+                          - generic:
+                            - combobox:
+                              - generic:
+                                - generic "Еще 0":
+                                  - generic:
+                                    - generic: Еще 0
+                                    - generic:
+                                      - img:
+                                        - img
+          - generic [ref=e549]:
+            - button "Настройки" [ref=e2291] [cursor=pointer]:
+              - img [ref=e553]:
+                - img [ref=e554]
+            - button "Связи" [ref=e2292] [cursor=pointer]:
+              - img [ref=e559]:
+                - img [ref=e560]
+            - button "Дополнительные опции" [ref=e2293] [cursor=pointer]:
+              - img [ref=e566]:
+                - img [ref=e567]
+        - generic [ref=e2294]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic "Год"
+                      - generic:
+                        - generic:
+                          - textbox
+                    - generic:
+                      - generic:
+                        - generic "Департамент"
+                      - generic:
+                        - generic:
+                          - generic: Нет выбранных значений
+                        - generic:
+                          - img:
+                            - img
+                    - generic:
+                      - generic:
+                        - generic "Имя пользователя"
+                      - generic:
+                        - generic:
+                          - generic: Нет выбранных значений
+                        - generic:
+                          - img:
+                            - img
+                    - generic:
+                      - generic:
+                        - generic "Найденный процесс"
+                      - generic:
+                        - generic:
+                          - generic: Нет выбранных значений
+                        - generic:
+                          - img:
+                            - img
+          - generic [ref=e2297]:
+            - button "Закрепить" [ref=e2298] [cursor=pointer]:
+              - img [ref=e2301]:
+                - img [ref=e2302]
+            - button "Настройки" [ref=e2304] [cursor=pointer]:
+              - img [ref=e2307]:
+                - img [ref=e2308]
+            - button "Связи" [ref=e2310] [cursor=pointer]:
+              - img [ref=e2313]:
+                - img [ref=e2314]
+            - button "Дополнительные опции" [ref=e2317] [cursor=pointer]:
+              - img [ref=e2320]:
+                - img [ref=e2321]
+      - generic [ref=e248]:
+        - button "Чарт" [ref=e2325]:
+          - img [ref=e251]:
+            - img [ref=e252]
+          - generic "Чарт" [ref=e2326]
+        - button "Селектор" [ref=e2327]:
+          - img [ref=e258]:
+            - img [ref=e259]
+          - generic "Селектор" [ref=e2328]
+        - button "Селектор (JS)" [ref=e2329]:
+          - img [ref=e264]:
+            - img [ref=e265]
+          - generic "Селектор (JS)" [ref=e2330]
+        - button "Текст" [ref=e2331]:
+          - img [ref=e270]:
+            - img [ref=e271]
+          - generic "Текст" [ref=e2332]
+        - button "Заголовок" [ref=e2333]:
+          - img [ref=e276]:
+            - img [ref=e277]
+          - generic "Заголовок" [ref=e2334]

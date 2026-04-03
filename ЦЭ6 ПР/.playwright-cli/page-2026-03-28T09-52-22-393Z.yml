@@ -1,0 +1,725 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]:
+            - img [ref=e14]
+        - list [ref=e20]:
+          - listitem [ref=e22]:
+            - button [ref=e14273] [cursor=pointer]:
+              - img [ref=e27]:
+                - img [ref=e28]
+      - list [ref=e34]:
+        - generic [ref=e35]:
+          - listitem [ref=e36]:
+            - link [ref=e14274] [cursor=pointer]:
+              - /url: /collections
+              - button [ref=e14275]:
+                - img [ref=e43]:
+                  - img [ref=e44]
+          - listitem [ref=e46]:
+            - link [ref=e14276] [cursor=pointer]:
+              - /url: /favorites
+              - button [ref=e14277]:
+                - img [ref=e53]:
+                  - img [ref=e54]
+          - listitem [ref=e56]:
+            - link [ref=e14278] [cursor=pointer]:
+              - /url: /connections
+              - button [ref=e14279]:
+                - img [ref=e63]:
+                  - img [ref=e64]
+          - listitem [ref=e66]:
+            - link [ref=e14280] [cursor=pointer]:
+              - /url: /datasets
+              - button [ref=e14281]:
+                - img [ref=e73]:
+                  - img [ref=e74]
+          - listitem [ref=e76]:
+            - link [ref=e14282] [cursor=pointer]:
+              - /url: /widgets
+              - button [ref=e14283]:
+                - img [ref=e83]:
+                  - img [ref=e84]
+          - listitem [ref=e87]:
+            - link [ref=e14284] [cursor=pointer]:
+              - /url: /dashboards
+              - button [ref=e14285]:
+                - img [ref=e94]:
+                  - img [ref=e95]
+          - listitem [ref=e97]:
+            - link [ref=e14286] [cursor=pointer]:
+              - /url: /reports
+              - button [ref=e14287]:
+                - img [ref=e104]:
+                  - img [ref=e105]
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link [ref=e14288] [cursor=pointer]:
+              - /url: /gallery
+              - button [ref=e14289]:
+                - img [ref=e117]:
+                  - img [ref=e118]
+          - listitem [ref=e121]:
+            - link [ref=e14290] [cursor=pointer]:
+              - /url: /exports
+              - button [ref=e14291]:
+                - img [ref=e128]:
+                  - img [ref=e129]
+          - listitem [ref=e131]:
+            - link [ref=e14292] [cursor=pointer]:
+              - /url: /settings
+              - button [ref=e14293]:
+                - img [ref=e138]:
+                  - img [ref=e139]
+      - generic [ref=e142]:
+        - button [ref=e14294] [cursor=pointer]:
+          - generic [ref=e148]:
+            - img [ref=e149]
+            - generic [ref=e152]: "29"
+        - button [ref=e14295] [cursor=pointer]:
+          - img [ref=e158]:
+            - img [ref=e159]
+        - button [ref=e14296] [cursor=pointer]:
+          - img [ref=e166]:
+            - img [ref=e167]
+        - button [ref=e14297] [cursor=pointer]:
+          - img [ref=e174]:
+            - img [ref=e175]
+        - button [ref=e14298] [cursor=pointer]:
+          - generic [ref=e183]:
+            - img [ref=e184]:
+              - img [ref=e185]
+            - img [ref=e187]:
+              - img [ref=e188]
+      - button [ref=e14299] [cursor=pointer]:
+        - img [ref=e191]:
+          - img [ref=e192]
+    - generic [ref=e12382]:
+      - generic [ref=e12386]:
+        - list [ref=e12387]:
+          - listitem [ref=e12388]:
+            - link [ref=e14300] [cursor=pointer]:
+              - /url: /collections
+              - text: Коллекции и воркбуки
+            - generic [ref=e12390]: /
+          - listitem [ref=e12391]:
+            - link [ref=e14301] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3
+              - text: ПР6_ЦЭДУП_Вариант2
+            - generic [ref=e12393]: /
+          - listitem [ref=e12394]:
+            - link [ref=e14302] [cursor=pointer]:
+              - /url: /workbooks/jneh2sr45iyi3/dashboards
+              - text: Новый дашборд
+          - listitem [ref=e12396]
+        - generic [ref=e12397]:
+          - button [ref=e12949] [cursor=pointer]:
+            - img [ref=e12952]:
+              - img [ref=e12953]
+          - button [disabled]:
+            - generic:
+              - generic:
+                - img:
+                  - img
+          - button [ref=e14303] [cursor=pointer]:
+            - img [ref=e12401]:
+              - img [ref=e12402]
+          - button [ref=e12404] [cursor=pointer]:
+            - img [ref=e12407]:
+              - img [ref=e12408]
+          - button [ref=e14304] [cursor=pointer]:
+            - generic [ref=e12411]: Связи
+          - button [ref=e14305] [cursor=pointer]:
+            - generic [ref=e12413]: Вкладки
+          - button [ref=e14306] [cursor=pointer]:
+            - generic [ref=e12959]: Сохранить
+      - generic [ref=e12421]:
+        - generic [ref=e12422]: Новый дашборд
+        - generic [ref=e12961]:
+          - generic [ref=e12962]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_УникПользователи
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Имя пользователя
+                                - generic: "10"
+            - generic [ref=e12965]:
+              - button [ref=e14307] [cursor=pointer]:
+                - img [ref=e12969]:
+                  - img [ref=e12970]
+              - button [ref=e14308] [cursor=pointer]:
+                - img [ref=e12975]:
+                  - img [ref=e12976]
+              - button [ref=e14309] [cursor=pointer]:
+                - img [ref=e12982]:
+                  - img [ref=e12983]
+          - generic [ref=e13493]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_УникПроцессы
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Найденный процесс
+                                - generic: "6"
+            - generic [ref=e13496]:
+              - button [ref=e14310] [cursor=pointer]:
+                - img [ref=e13500]:
+                  - img [ref=e13501]
+              - button [ref=e14311] [cursor=pointer]:
+                - img [ref=e13506]:
+                  - img [ref=e13507]
+              - button [ref=e14312] [cursor=pointer]:
+                - img [ref=e13513]:
+                  - img [ref=e13514]
+          - generic [ref=e13568]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_МаксДлительность
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Длительность процесса
+                                - generic: 4,15
+            - generic [ref=e13571]:
+              - button [ref=e14313] [cursor=pointer]:
+                - img [ref=e13575]:
+                  - img [ref=e13576]
+              - button [ref=e14314] [cursor=pointer]:
+                - img [ref=e13581]:
+                  - img [ref=e13582]
+              - button [ref=e14315] [cursor=pointer]:
+                - img [ref=e13588]:
+                  - img [ref=e13589]
+          - generic [ref=e13593]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_МинДлительность
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Длительность процесса
+                                - generic: 0,36
+            - generic [ref=e13596]:
+              - button [ref=e14316] [cursor=pointer]:
+                - img [ref=e13600]:
+                  - img [ref=e13601]
+              - button [ref=e14317] [cursor=pointer]:
+                - img [ref=e13606]:
+                  - img [ref=e13607]
+              - button [ref=e14318] [cursor=pointer]:
+                - img [ref=e13613]:
+                  - img [ref=e13614]
+          - generic [ref=e13618]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_РаспознанныеДействия
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic: Длительность процесса
+                                - generic: 120,00
+            - generic [ref=e13621]:
+              - button [ref=e14319] [cursor=pointer]:
+                - img [ref=e13625]:
+                  - img [ref=e13626]
+              - button [ref=e14320] [cursor=pointer]:
+                - img [ref=e13631]:
+                  - img [ref=e13632]
+              - button [ref=e14321] [cursor=pointer]:
+                - img [ref=e13638]:
+                  - img [ref=e13639]
+          - generic [ref=e13643]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_НераспознанныеДействия
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+            - generic [ref=e13646]:
+              - button [ref=e14322] [cursor=pointer]:
+                - img [ref=e13650]:
+                  - img [ref=e13651]
+              - button [ref=e14323] [cursor=pointer]:
+                - img [ref=e13656]:
+                  - img [ref=e13657]
+              - button [ref=e14324] [cursor=pointer]:
+                - img [ref=e13663]:
+                  - img [ref=e13664]
+          - generic [ref=e13668]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Индикатор_СуммарныйПШЕ
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+            - generic [ref=e13671]:
+              - button [ref=e14325] [cursor=pointer]:
+                - img [ref=e13675]:
+                  - img [ref=e13676]
+              - button [ref=e14326] [cursor=pointer]:
+                - img [ref=e13681]:
+                  - img [ref=e13682]
+              - button [ref=e14327] [cursor=pointer]:
+                - img [ref=e13688]:
+                  - img [ref=e13689]
+          - generic [ref=e13693]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Линейная_МаксСредМинДлительностьПоПроцессам
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+            - generic [ref=e13696]:
+              - button [ref=e14328] [cursor=pointer]:
+                - img [ref=e13700]:
+                  - img [ref=e13701]
+              - button [ref=e14329] [cursor=pointer]:
+                - img [ref=e13706]:
+                  - img [ref=e13707]
+              - button [ref=e14330] [cursor=pointer]:
+                - img [ref=e13713]:
+                  - img [ref=e13714]
+          - generic [ref=e13718]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Круговая_ВероятностьПоНайденнымПроцессам
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+            - generic [ref=e13721]:
+              - button [ref=e14331] [cursor=pointer]:
+                - img [ref=e13725]:
+                  - img [ref=e13726]
+              - button [ref=e14332] [cursor=pointer]:
+                - img [ref=e13731]:
+                  - img [ref=e13732]
+              - button [ref=e14333] [cursor=pointer]:
+                - img [ref=e13738]:
+                  - img [ref=e13739]
+          - generic [ref=e13743]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Таблица_ПроектМинСложностьМаксПШЕ
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+            - generic [ref=e13746]:
+              - button [ref=e14334] [cursor=pointer]:
+                - img [ref=e13750]:
+                  - img [ref=e13751]
+              - button [ref=e14335] [cursor=pointer]:
+                - img [ref=e13756]:
+                  - img [ref=e13757]
+              - button [ref=e14336] [cursor=pointer]:
+                - img [ref=e13763]:
+                  - img [ref=e13764]
+          - generic [ref=e13768]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic: ПР6_Практика_Столбчатая_РаспознанныеДействияПоПользователям
+                          - generic:
+                            - generic:
+                              - combobox:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic: Еще 0
+                                      - generic:
+                                        - img:
+                                          - img
+            - generic [ref=e13771]:
+              - button [ref=e14337] [cursor=pointer]:
+                - img [ref=e13775]:
+                  - img [ref=e13776]
+              - button [ref=e14338] [cursor=pointer]:
+                - img [ref=e13781]:
+                  - img [ref=e13782]
+              - button [ref=e14339] [cursor=pointer]:
+                - img [ref=e13788]:
+                  - img [ref=e13789]
+        - generic [ref=e12431]:
+          - button [ref=e14340]:
+            - img [ref=e12434]:
+              - img [ref=e12435]
+            - generic [ref=e14341]: Чарт
+          - button [ref=e14342]:
+            - img [ref=e12441]:
+              - img [ref=e12442]
+            - generic [ref=e14343]: Селектор
+          - button [ref=e14344]:
+            - img [ref=e12447]:
+              - img [ref=e12448]
+            - generic [ref=e14345]: Селектор (JS)
+          - button [ref=e14346]:
+            - img [ref=e12453]:
+              - img [ref=e12454]
+            - generic [ref=e14347]: Текст
+          - button [ref=e14348]:
+            - img [ref=e12459]:
+              - img [ref=e12460]
+            - generic [ref=e14349]: Заголовок
+  - generic [ref=e1261]:
+    - complementary
+    - complementary
+  - dialog [active] [ref=e14354]:
+    - generic [ref=e14355]:
+      - generic [ref=e14357]: Группа селекторов
+      - generic [ref=e14358]:
+        - tablist [ref=e14359]:
+          - tab "Селекторы" [selected] [ref=e14360] [cursor=pointer]:
+            - generic [ref=e14362]: Селекторы
+          - tab "Настройки группы" [ref=e14363] [cursor=pointer]:
+            - generic [ref=e14365]: Настройки группы
+        - generic [ref=e14366]:
+          - generic [ref=e14367]:
+            - list [ref=e14370]:
+              - button "Селектор 1" [ref=e14372]:
+                - generic "Селектор 1" [ref=e14378] [cursor=pointer]
+            - button "Добавить" [ref=e14380] [cursor=pointer]:
+              - img [ref=e14383]:
+                - img [ref=e14384]
+              - generic [ref=e14386]: Добавить
+          - separator [ref=e14387]
+          - generic [ref=e14388]:
+            - generic [ref=e14389]:
+              - generic [ref=e14391]: Общее
+              - generic [ref=e14392]:
+                - generic [ref=e14394]: Источник
+                - group [ref=e14397] [cursor=pointer]:
+                  - combobox [ref=e14398]:
+                    - generic [ref=e14399]: На основе датасета
+                  - img [ref=e14400]:
+                    - img [ref=e14401]
+              - generic [ref=e14403]:
+                - generic [ref=e14405]: Датасет
+                - generic [ref=e14407]:
+                  - button "Выбрать" [ref=e14410] [cursor=pointer]:
+                    - generic [ref=e14412]: Выбрать
+                  - button "Указать ссылку" [ref=e14414] [cursor=pointer]:
+                    - generic [ref=e14415]: Указать ссылку
+              - generic [ref=e14416]:
+                - generic [ref=e14418]: Поле
+                - group [ref=e14422]:
+                  - combobox [disabled]:
+                    - generic: Выбрать
+                  - img [ref=e14423]:
+                    - img [ref=e14424]
+              - generic [ref=e14426]:
+                - generic [ref=e14428]: Показать на вкладках
+                - group [ref=e14434] [cursor=pointer]:
+                  - combobox [ref=e14435]:
+                    - generic [ref=e14439]:
+                      - generic [ref=e14440]: Текущая вкладка
+                      - generic [ref=e14441]: Вкладка 1
+                  - img [ref=e14442]:
+                    - img [ref=e14443]
+            - generic [ref=e14445]:
+              - generic [ref=e14447]: Фильтрация
+              - generic [ref=e14448]:
+                - generic [ref=e14450]: Тип селектора
+                - group [ref=e14453]:
+                  - combobox [disabled]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img:
+                            - img
+                        - generic: Список
+                  - img [ref=e14454]:
+                    - img [ref=e14455]
+              - generic [ref=e14457]:
+                - generic [ref=e14460]:
+                  - text: Операция
+                  - button [ref=e14461] [cursor=pointer]:
+                    - img [ref=e14462]:
+                      - img [ref=e14463]
+                - group [ref=e14467]:
+                  - combobox [disabled]:
+                    - generic: —
+                  - img [ref=e14468]:
+                    - img [ref=e14469]
+              - generic [ref=e14471]:
+                - generic [ref=e14473]: Множественный выбор
+                - generic [ref=e14474]:
+                  - generic:
+                    - generic:
+                      - checkbox [disabled]
+              - generic [ref=e14475]:
+                - generic [ref=e14477]: Значение по умолчанию
+                - group [ref=e14481]:
+                  - combobox [disabled]:
+                    - generic: Не определено
+                  - img [ref=e14482]:
+                    - img [ref=e14483]
+              - generic [ref=e14485]:
+                - generic [ref=e14487]: Обязательное поле
+                - generic [ref=e14488]:
+                  - generic:
+                    - generic:
+                      - checkbox [disabled]
+            - generic [ref=e14489]:
+              - generic [ref=e14491]: Отображение
+              - generic [ref=e14492]:
+                - generic [ref=e14494]: Заголовок
+                - textbox [disabled] [ref=e14500]: Селектор 1
+              - radiogroup [disabled] [ref=e14505]:
+                - generic [ref=e14506]:
+                  - radio "Скрыт" [disabled] [ref=e14507]
+                  - generic [ref=e14508]: Скрыт
+                - generic [ref=e14509]:
+                  - radio "Слева" [checked] [disabled] [ref=e14510]
+                  - generic [ref=e14511]: Слева
+                - generic [ref=e14512]:
+                  - radio "Сверху" [disabled] [ref=e14513]
+                  - generic [ref=e14514]: Сверху
+              - generic [ref=e14515]:
+                - generic [ref=e14518]:
+                  - text: Внутренний заголовок
+                  - button [ref=e14519] [cursor=pointer]:
+                    - img [ref=e14520]:
+                      - img [ref=e14521]
+                - generic [ref=e14524]:
+                  - generic:
+                    - generic:
+                      - checkbox [disabled]
+                  - textbox [disabled] [ref=e14527]
+              - generic [ref=e14528]:
+                - generic [ref=e14531]:
+                  - text: Цветовой акцент
+                  - button [ref=e14532] [cursor=pointer]:
+                    - img [ref=e14533]:
+                      - img [ref=e14534]
+                - generic [ref=e14537]:
+                  - generic:
+                    - generic:
+                      - checkbox [disabled]
+              - generic [ref=e14538]:
+                - generic [ref=e14540]: Подсказка
+                - generic [ref=e14542]:
+                  - generic:
+                    - generic:
+                      - checkbox [disabled]
+      - generic [ref=e14545]:
+        - button "Отменить" [ref=e14547] [cursor=pointer]:
+          - generic [ref=e14548]: Отменить
+        - button "Сохранить" [ref=e14550] [cursor=pointer]:
+          - generic [ref=e14551]: Сохранить
+      - button "Закрыть диалоговое окно" [ref=e14553] [cursor=pointer]:
+        - img [ref=e14556]:
+          - img [ref=e14557]

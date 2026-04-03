@@ -1,0 +1,649 @@
+- generic [ref=e5]:
+  - navigation [ref=e12]:
+    - generic [ref=e13]:
+      - link "Logo icon" [ref=e15] [cursor=pointer]:
+        - /url: /
+        - img "Logo icon" [ref=e17]
+      - generic [ref=e19]:
+        - list [ref=e22]:
+          - listitem [ref=e23] [cursor=pointer]:
+            - link "DataLens Gallery" [ref=e24]:
+              - /url: /gallery
+              - generic [ref=e25]: DataLens Gallery
+          - listitem [ref=e26] [cursor=pointer]:
+            - link "Документация" [ref=e27]:
+              - /url: https://yandex.cloud/ru/docs/datalens/
+              - generic [ref=e28]: Документация
+          - listitem [ref=e29] [cursor=pointer]:
+            - link "Нейроаналитик" [ref=e30]:
+              - /url: /promo#neuroanalyst
+              - generic [ref=e31]: Нейроаналитик
+          - listitem [ref=e32] [cursor=pointer]:
+            - link "Тарифы" [ref=e33]:
+              - /url: /promo#tariffs
+              - generic [ref=e34]: Тарифы
+          - listitem [ref=e35] [cursor=pointer]:
+            - link "Кейсы клиентов" [ref=e36]:
+              - /url: /promo#cases
+              - generic [ref=e37]: Кейсы клиентов
+        - button "Next" [ref=e38] [cursor=pointer]:
+          - img [ref=e39]:
+            - img [ref=e40]
+      - list [ref=e43]:
+        - listitem [ref=e44] [cursor=pointer]:
+          - link "Начать в облаке" [ref=e45]:
+            - /url: /?skipPromo=true
+            - generic [ref=e48]: Начать в облаке
+    - group
+  - main [ref=e52]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - text: Аналитика
+          - text: любого масштаба
+        - generic [ref=e58]:
+          - text: От простых отчётов и быстрой визуализации данных
+          - text: до корпоративного BI для всей компании.
+      - generic [ref=e59]:
+        - link "Начать в облаке" [ref=e60] [cursor=pointer]:
+          - /url: /?skipPromo=true
+          - generic [ref=e63]: Начать в облаке
+        - link "Обсудить проект" [ref=e64] [cursor=pointer]:
+          - /url: "#consultation"
+          - generic [ref=e67]: Обсудить проект
+      - generic [ref=e68]:
+        - generic [ref=e71]:
+          - img [ref=e74]
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - generic [ref=e77]:
+                - img [ref=e81]
+                - generic [ref=e88]:
+                  - img [ref=e91]
+                  - generic [ref=e92]:
+                    - generic [ref=e93]:
+                      - img [ref=e95]
+                      - img [ref=e97]
+                    - img [ref=e99]
+              - generic:
+                - generic:
+                  - img
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic:
+                  - img
+        - generic [ref=e102]:
+          - generic:
+            - generic:
+              - img
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+            - generic [ref=e108]:
+              - generic [ref=e109]:
+                - generic:
+                  - img
+              - generic [ref=e111]:
+                - generic:
+                  - img
+                - generic:
+                  - img
+              - generic [ref=e117]:
+                - generic:
+                  - img
+        - generic [ref=e120]:
+          - generic:
+            - generic:
+              - img
+          - generic [ref=e122]:
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+              - generic:
+                - img
+            - generic [ref=e124]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+        - generic [ref=e130]:
+          - generic:
+            - generic:
+              - img
+          - generic [ref=e132]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic:
+                  - img
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic:
+                  - img
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - generic:
+                - generic:
+                  - img
+      - radiogroup [ref=e135]:
+        - generic [ref=e138] [cursor=pointer]: Отдел продаж
+        - generic [ref=e141] [cursor=pointer]: Продукт
+        - generic [ref=e144] [cursor=pointer]: Магазины
+        - generic [ref=e147] [cursor=pointer]: Компания
+    - generic [ref=e151]:
+      - generic [ref=e155]:
+        - generic:
+          - generic:
+            - img "Logo Hoff"
+        - generic:
+          - generic:
+            - img "Logo Magnit"
+        - generic:
+          - generic:
+            - img "Logo Petrvich"
+        - generic:
+          - generic:
+            - img "Logo Rulog"
+        - generic:
+          - generic:
+            - img "Logo Petrovax"
+        - generic:
+          - generic:
+            - img "Logo Skyeng"
+        - generic:
+          - generic:
+            - img "Logo Delotech"
+        - generic:
+          - generic:
+            - img "Logo Renessans"
+        - generic:
+          - generic:
+            - img "Logo Farfor"
+        - generic:
+          - generic:
+            - img "Logo Yandex"
+      - generic [ref=e157]:
+        - heading "Почему крупный бизнес выбирает DataLens" [level=2] [ref=e160]
+        - generic [ref=e163]:
+          - generic [ref=e167]:
+            - img [ref=e169]
+            - generic [ref=e171]:
+              - heading "BI-система для любой инфраструктуры" [level=3] [ref=e174]
+              - paragraph [ref=e177]: Можно быстро начать использовать DataLens в облаке, а при необходимости развернуть в своей инфраструктуре и просто перенести отчёты.
+          - generic [ref=e181]:
+            - img [ref=e183]
+            - generic [ref=e185]:
+              - heading "Партнёры" [level=3] [ref=e188]
+              - paragraph [ref=e191]: У 30+ наших партнёров есть полноценная аналитическая практика, сертифицированные специалисты и опыт успешной реализации BI-проектов. Они помогут реализовать проект внедрения под ключ.
+          - generic [ref=e195]:
+            - img [ref=e197]
+            - generic [ref=e199]:
+              - heading "Прозрачное ценообразование" [level=3] [ref=e202]
+              - paragraph [ref=e205]: Понятная тарифная сетка, которая поможет спланировать расходы на BI заранее.
+          - generic [ref=e209]:
+            - img [ref=e211]
+            - generic [ref=e213]:
+              - heading "Быстрый старт и встроенный Нейроаналитик" [level=3] [ref=e216]
+              - paragraph [ref=e219]: Активируйте сервис бесплатно и постройте первый дашборд уже сегодня. В простом интерфейсе разберётся любой пользователь, а ИИ-агент Нейроаналитик поможет интерпретировать данные и написать код.
+          - generic [ref=e223]:
+            - img [ref=e225]
+            - generic [ref=e227]:
+              - heading "Для всей команды" [level=3] [ref=e230]
+              - paragraph [ref=e233]: Используйте корпоративные учётные записи (SSO) или Яндекс ID, гибко настраивайте права доступа для групп и отдельных пользователей.
+          - generic [ref=e237]:
+            - img [ref=e239]
+            - generic [ref=e241]:
+              - heading "Надёжно и безопасно" [level=3] [ref=e244]
+              - paragraph [ref=e247]: Решение включено в Реестр отечественного ПО, работает на сертифицированной облачной платформе и регулярно проходит пентесты.
+      - generic [ref=e252]:
+        - generic [ref=e255]:
+          - heading "Нейроаналитик в интерфейсе" [level=2] [ref=e258]
+          - generic [ref=e260]:
+            - generic [ref=e261]:
+              - img [ref=e263]
+              - generic [ref=e264]:
+                - heading "Поможет с кодом и формулами" [level=3] [ref=e265]
+                - text: Создавайте формулы и графики любой сложности. ИИ-агент создаст нужные вычисляемые поля в синтаксисе DataLens и напишет код на Javascript для Editor.
+            - generic [ref=e266]:
+              - img [ref=e268]
+              - generic [ref=e269]:
+                - heading "Суммаризирует" [level=3] [ref=e270]
+                - text: Не тратьте время на интерпретацию данных — используйте быстрые ИИ‑инсайты для принятия решений.
+        - generic [ref=e271]:
+          - generic:
+            - generic:
+              - generic:
+                - img
+      - generic [ref=e279]:
+        - heading "Подключайте данные легко" [level=2] [ref=e282]
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - img [ref=e287]
+            - generic [ref=e288]:
+              - heading "Выберите источник" [level=3] [ref=e289]
+              - paragraph [ref=e291]: "Больше 30 источников: от простой загрузки Excel/CSV до нативных коннекторов к ClickHouse® и другим СУБД."
+          - generic [ref=e292]:
+            - img [ref=e294]
+            - generic [ref=e295]:
+              - heading "Опишите модель данных" [level=3] [ref=e296]
+              - paragraph [ref=e298]: “Звёзды”, “снежинки” с оптимизацией связей и нативный SQL — где это нужно.
+          - generic [ref=e299]:
+            - img [ref=e301]
+            - generic [ref=e302]:
+              - heading "Создайте вычисления" [level=3] [ref=e303]
+              - paragraph [ref=e305]: Встроенный язык DataLens Formula Language для сложных расчётов и агрегаций.
+      - generic [ref=e313]:
+        - generic:
+          - generic:
+            - generic:
+              - img "Чарты в визарде"
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - heading "Визуализируйте как вам удобно" [level=2] [ref=e317]
+            - paragraph [ref=e321]: Собирайте дашборды и чарты в визуальном редакторе
+          - generic [ref=e322]:
+            - button "Создавайте чарты в визарде Self-service-конструктор визуализаций для каждого" [ref=e323]:
+              - generic [ref=e324]: Создавайте чарты в визарде
+              - generic [ref=e325]: Self-service-конструктор визуализаций для каждого
+            - button "Собирайте дашборды Готовые примеры в DataLens Gallery" [ref=e326] [cursor=pointer]:
+              - generic [ref=e327]: Собирайте дашборды
+              - generic:
+                - text: Готовые примеры в
+                - link "DataLens Gallery" [ref=e328]:
+                  - /url: https://datalens.ru/gallery/
+            - button "Готовьте отчёты Добавляйте чарты, тексты и изображения и используйте отчёт как интерактивную презентацию, в том числе в PDF" [ref=e329] [cursor=pointer]:
+              - generic [ref=e330]: Готовьте отчёты
+              - generic: Добавляйте чарты, тексты и изображения и используйте отчёт как интерактивную презентацию, в том числе в PDF
+      - generic [ref=e333]:
+        - generic:
+          - generic:
+            - generic:
+              - img "Адаптивная вёрстка"
+        - generic [ref=e334]:
+          - heading "Используйте везде" [level=2] [ref=e337]
+          - generic [ref=e338]:
+            - button "Со смартфона Адаптивная вёрстка для любого устройства, всегда с вами" [ref=e339]:
+              - generic [ref=e340]: Со смартфона
+              - generic [ref=e341]: Адаптивная вёрстка для любого устройства, всегда с вами
+            - button "В вашей системе Безопасно через айфрейм в корпоративные порталы, CRM, ERP" [ref=e342] [cursor=pointer]:
+              - generic [ref=e343]: В вашей системе
+              - generic: Безопасно через айфрейм в корпоративные порталы, CRM, ERP
+            - button "Рассылкой на почту и в Telegram Скоро По расписанию или по событию — только самое важное" [ref=e344] [cursor=pointer]:
+              - generic [ref=e345]: Рассылкой на почту и в Telegram Скоро
+              - generic: По расписанию или по событию — только самое важное
+      - generic [ref=e347]:
+        - heading "Решайте нестандартные задачи" [level=2] [ref=e350]
+        - generic [ref=e353]:
+          - generic [ref=e355]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e357]:
+              - heading "Editor" [level=3] [ref=e360]
+              - paragraph [ref=e363]: JavaScript-кастомизация для самых сложных визуализаций и обработки данных кодом
+          - generic [ref=e365]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e367]:
+              - heading "Брендирование" [level=3] [ref=e370]
+              - paragraph [ref=e373]: Измените внешний вид DataLens под свой бренд и корпоративные стандарты
+          - generic [ref=e375]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e377]:
+              - heading "Работа с API" [level=3] [ref=e380]
+              - paragraph [ref=e383]: API-коннекторы для данных, а также возможность работать с BI как с кодом
+      - generic [ref=e385]:
+        - generic [ref=e386]:
+          - generic [ref=e387]: DataLens Gallery
+          - paragraph [ref=e389]: Готовые примеры дашбордов для бизнеса
+          - paragraph [ref=e391]: Вдохновитесь примерами дашбордов компаний из различных индустрий и работами активных участников сообщества. Можно брать их за основу для ваших проектов с DataLens
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - link "The best creations · 0" [ref=e395] [cursor=pointer]:
+              - /url: /gallery/all?category=editors-choice
+              - generic [ref=e398]:
+                - text: The best creations
+                - generic [ref=e399]: · 0
+            - link "Show all · 0" [ref=e404] [cursor=pointer]:
+              - /url: /gallery/all?
+              - generic [ref=e406]:
+                - generic [ref=e407]:
+                  - text: Show all
+                  - generic [ref=e408]: · 0
+                - img [ref=e409]
+          - button "Show all categories" [ref=e412] [cursor=pointer]:
+            - generic [ref=e413]: Show all categories
+      - generic [ref=e415]:
+        - heading "А ещё DataLens — это" [level=2] [ref=e418]
+        - generic [ref=e419]:
+          - generic [ref=e420]:
+            - menu "Pages" [ref=e421]:
+              - button "Page 1" [ref=e422] [cursor=pointer]
+              - button "Page 2" [ref=e423] [cursor=pointer]
+              - button "Page 3" [ref=e424] [cursor=pointer]
+            - generic [ref=e425]:
+              - group [ref=e426]:
+                - generic [ref=e428]:
+                  - generic:
+                    - generic:
+                      - img
+                  - generic [ref=e430]:
+                    - heading "Книга" [level=3] [ref=e433]
+                    - paragraph [ref=e436]: "От дашборда к системе: как построить операционную аналитику в компании."
+                    - link "Читать" [ref=e439] [cursor=pointer]:
+                      - /url: /book
+                      - text: Читать
+                      - img [ref=e440]:
+                        - img [ref=e441]
+              - group [ref=e443]:
+                - generic [ref=e445]:
+                  - generic:
+                    - generic:
+                      - img
+                  - generic [ref=e447]:
+                    - heading "Крупнейшее BI‑сообщество" [level=3] [ref=e450]
+                    - paragraph [ref=e453]: Нас больше 14 тысяч, и комьюнити постоянно растёт, обменивается опытом и знаниями.
+                    - link "Открыть Telegram" [ref=e456] [cursor=pointer]:
+                      - /url: https://t.me/YandexDataLens
+                      - text: Открыть Telegram
+                      - img [ref=e457]:
+                        - img [ref=e458]
+              - group [ref=e460]:
+                - generic [ref=e462]:
+                  - generic:
+                    - generic:
+                      - img
+                  - generic [ref=e464]:
+                    - heading "Опенсорс-продукт" [level=3] [ref=e467]
+                    - paragraph [ref=e470]: Исходный код ядра DataLens доступен по лицензии Apache® 2.0. Можно использовать для собственных проектов.
+                    - link "Открыть Github" [ref=e473] [cursor=pointer]:
+                      - /url: https://github.com/datalens-tech
+                      - text: Открыть Github
+                      - img [ref=e474]:
+                        - img [ref=e475]
+              - group [ref=e477]:
+                - generic [ref=e481]:
+                  - heading [level=3] [ref=e484]: Курс на Практикуме
+                  - paragraph [ref=e487]: Бесплатно изучите основы продукта и лучшие практики от продуктовой команды и экспертов рынка.
+                  - link [ref=e490] [cursor=pointer]:
+                    - /url: https://yandex.cloud/ru/training/datalens
+                    - text: Узнать больше
+                    - img [ref=e491]:
+                      - img [ref=e492]
+              - group [ref=e494]:
+                - generic [ref=e498]:
+                  - heading [level=3] [ref=e501]: Сертификация
+                  - paragraph [ref=e504]: Подтвердите свою экспертизу в продукте и получите сертификат, повышающий вашу ценность как специалиста.
+                  - link [ref=e507] [cursor=pointer]:
+                    - /url: https://yandex.cloud/ru/events/1297
+                    - text: Узнать больше
+                    - img [ref=e508]:
+                      - img [ref=e509]
+          - generic:
+            - button "Previous" [ref=e512] [cursor=pointer]:
+              - img [ref=e515]:
+                - img [ref=e516]
+            - button "Next" [ref=e519] [cursor=pointer]:
+              - img [ref=e522]:
+                - img [ref=e523]
+      - generic [ref=e526]:
+        - heading "Варианты поставки" [level=2] [ref=e529]
+        - generic [ref=e530]:
+          - generic [ref=e537]:
+            - generic [ref=e538]:
+              - generic [ref=e539]: Cloud
+              - generic [ref=e540]:
+                - generic [ref=e541]: 990 ₽ / месяц
+                - generic [ref=e544]: 30 дней бесплатно
+              - generic [ref=e545]: за рабочее место
+              - generic [ref=e546]: Для корпоративных внедрений и решения бизнес-задач.
+              - link "Перейти" [ref=e547] [cursor=pointer]:
+                - /url: /settings/billing-rates
+                - generic [ref=e550]: Перейти
+              - generic [ref=e551]: Бесплатно для индивидуального использования
+            - generic [ref=e553]:
+              - generic [ref=e554]:
+                - img [ref=e556]:
+                  - img [ref=e557]
+                - generic [ref=e559]: Готовое окружение в несколько кликов
+              - generic [ref=e560]:
+                - img [ref=e562]:
+                  - img [ref=e563]
+                - generic [ref=e565]: Ранний доступ к новым возможностям
+              - generic [ref=e566]:
+                - img [ref=e568]:
+                  - img [ref=e569]
+                - generic [ref=e571]: Автоматические обновления без простоя
+              - generic [ref=e572]:
+                - img [ref=e574]:
+                  - img [ref=e575]
+                - generic [ref=e577]: Гарантии доступности и SLA
+              - generic [ref=e578]:
+                - img [ref=e580]:
+                  - img [ref=e581]
+                - generic [ref=e583]: Техническая поддержка от Yandex Cloud
+          - generic [ref=e590]:
+            - generic [ref=e591]:
+              - generic [ref=e592]: on-premises
+              - generic [ref=e594]: от 1,6 млн / год
+              - generic [ref=e595]: Подписка на год или бессрочная лицензия
+              - generic [ref=e596]: Для крупных компаний и развёртывания в собственной инфраструктуре.
+              - link "Оставить заявку" [ref=e597] [cursor=pointer]:
+                - /url: "#enterpise"
+                - generic [ref=e600]: Оставить заявку
+            - generic [ref=e602]:
+              - generic [ref=e603]:
+                - img [ref=e605]:
+                  - img [ref=e606]
+                - generic [ref=e608]: Архив с Docker®-контейнерами и Helm-чартами для развёртывания на k8s/k3s
+              - generic [ref=e609]:
+                - img [ref=e611]:
+                  - img [ref=e612]
+                - generic [ref=e614]: Регулярный выпуск новых версий
+              - generic [ref=e615]:
+                - img [ref=e617]:
+                  - img [ref=e618]
+                - generic [ref=e620]: Безболезненные обновления
+              - generic [ref=e621]:
+                - img [ref=e623]:
+                  - img [ref=e624]
+                - generic [ref=e626]: Поддержка через авторизованных партнёров и дистрибьюторов
+      - generic [ref=e628]:
+        - generic [ref=e629]:
+          - heading "Помогаем клиентам сфокусироваться на важном" [level=2] [ref=e631]
+          - paragraph [ref=e635]: Благодаря DataLens эти компании решают реальные бизнес-задачи и получают результат, не отвлекаясь на рутину.
+        - generic [ref=e636]:
+          - button [ref=e637]:
+            - generic:
+              - generic:
+                - img
+          - button [ref=e638] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img
+          - button [ref=e639] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img
+          - button [ref=e640] [cursor=pointer]:
+            - generic:
+              - generic:
+                - img
+        - generic [ref=e642]:
+          - generic [ref=e643]:
+            - generic [ref=e644]:
+              - paragraph [ref=e645]: "Наше решение удобно и для аналитиков, и для бизнеса: команда «Петровакс Фарм» освоила новый стек технологий всего за несколько месяцев, а дашборды DataLens и привычные Excel‑таблицы быстро вошли в повседневную работу."
+              - paragraph [ref=e646]: Мы легко интегрируем новые источники данных, создаём отчёты и дашборды, адаптируем систему под задачи бизнеса — собственными силами, при помощи специалистов SQEEL. Гибкая архитектура упрощает и ускоряет анализ и помогает выявлять причинно‑следственные связи и корреляцию между различными показателями.
+            - generic [ref=e647]:
+              - img [ref=e650]
+              - generic [ref=e651]:
+                - generic [ref=e652]: Анна Шарикова
+                - generic [ref=e653]:
+                  - text: руководитель отдела бизнес-аналитики,
+                  - text: «Петровакс Фарм»
+          - generic [ref=e654]:
+            - generic [ref=e656]:
+              - generic [ref=e657]: "150"
+              - generic [ref=e658]: бизнес-пользователей
+            - generic [ref=e660]:
+              - generic [ref=e661]: "30"
+              - generic [ref=e662]: дашбордов
+            - generic [ref=e664]:
+              - generic [ref=e665]: "7"
+              - generic [ref=e666]: месяцев на создание аналитической платформы
+      - generic [ref=e668]:
+        - heading "Актуальное" [level=2] [ref=e671]
+        - generic [ref=e674]:
+          - generic [ref=e676]:
+            - generic:
+              - generic:
+                - img
+            - heading "Вебинар" [level=4] [ref=e677]:
+              - paragraph [ref=e679]: Вебинар
+            - generic [ref=e681]:
+              - heading "Дашборд без тормозов с помощью Yandex DataLens и ClickHouse" [level=3] [ref=e684]
+              - link "Подробнее" [ref=e687] [cursor=pointer]:
+                - /url: https://yandex.cloud/ru/events/1285
+                - text: Подробнее
+                - img [ref=e688]:
+                  - img [ref=e689]
+          - generic [ref=e692]:
+            - generic:
+              - generic:
+                - img
+            - heading "Пост" [level=4] [ref=e693]:
+              - paragraph [ref=e695]: Пост
+            - generic [ref=e697]:
+              - heading "Как прошёл DataLens Festival 2025" [level=3] [ref=e700]
+              - link "Подробнее" [ref=e703] [cursor=pointer]:
+                - /url: https://datalens.ru/festival
+                - text: Подробнее
+                - img [ref=e704]:
+                  - img [ref=e705]
+          - generic [ref=e708]:
+            - generic:
+              - generic:
+                - img
+            - heading "Вебинар" [level=4] [ref=e709]:
+              - paragraph [ref=e711]: Вебинар
+            - generic [ref=e713]:
+              - heading "Как стать сертифицированным специалистом по DataLens" [level=3] [ref=e716]
+              - link "Подробнее" [ref=e719] [cursor=pointer]:
+                - /url: https://yandex.cloud/ru/events/1297
+                - text: Подробнее
+                - img [ref=e720]:
+                  - img [ref=e721]
+          - generic [ref=e724]:
+            - generic:
+              - generic:
+                - img
+            - heading "Статья" [level=4] [ref=e725]:
+              - paragraph [ref=e727]: Статья
+            - generic [ref=e729]:
+              - heading "Обзор тарифов в сервисе Yandex DataLens" [level=3] [ref=e732]
+              - link "Подробнее" [ref=e735] [cursor=pointer]:
+                - /url: https://yandex.cloud/ru/docs/datalens/pricing
+                - text: Подробнее
+                - img [ref=e736]:
+                  - img [ref=e737]
+      - generic [ref=e743]:
+        - paragraph [ref=e744]:
+          - text: ClickHouse является зарегистрированным товарным знаком
+          - link "ClickHouse, Inc" [ref=e745] [cursor=pointer]:
+            - /url: https://clickhouse.com
+          - text: .
+        - paragraph [ref=e746]:
+          - text: Ознакомьтесь с
+          - link "условиями использования Yandex DataLens" [ref=e747] [cursor=pointer]:
+            - /url: https://yandex.ru/legal/cloud_terms_datalens/
+          - text: .
+  - generic [ref=e749]:
+    - generic [ref=e750]:
+      - img "Команда Yandex DataLens" [ref=e753]
+      - generic [ref=e754]:
+        - generic [ref=e755]:
+          - heading "Постройте первый дашборд для бизнеса уже сегодня" [level=2] [ref=e757]
+          - generic [ref=e759]: Мы — команда Yandex DataLens. Готовы помочь вам построить систему бизнес-аналитики, которая масштабируется вместе с вашим бизнесом. Начните работу с сервисом прямо сейчас или свяжитесь с нами для консультации по внедрению.
+        - generic [ref=e760]:
+          - link "Начать в облаке" [ref=e761] [cursor=pointer]:
+            - /url: /?skipPromo=true
+            - generic [ref=e764]: Начать в облаке
+          - link "Обсудить проект" [ref=e765] [cursor=pointer]:
+            - /url: "#consultation"
+            - generic [ref=e768]: Обсудить проект
+    - generic [ref=e770]:
+      - generic [ref=e771]:
+        - generic [ref=e772]: Для работы
+        - link "Документация" [ref=e774] [cursor=pointer]:
+          - /url: https://yandex.cloud/docs/datalens
+        - link "Тарифы" [ref=e776] [cursor=pointer]:
+          - /url: "#tariffs"
+        - link "Практические руководства" [ref=e778] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/docs/datalens/tutorials/
+        - link "Техническая поддержка" [ref=e780] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/support
+      - generic [ref=e781]:
+        - generic [ref=e782]: Почему DataLens
+        - link "Истории успеха" [ref=e784] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/cases?categoryId=23
+        - link "Партнёры" [ref=e786] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/partners/catalogue?service=23
+        - link "Часть экосистемы Data Platform" [ref=e788] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/data-platform
+        - link "Безопасность" [ref=e790] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/security
+      - generic [ref=e791]:
+        - generic [ref=e792]: Сообщество
+        - link "Yandex DataLens в Telegram" [ref=e794] [cursor=pointer]:
+          - /url: https://t.me/YandexDataLens
+        - link "Мероприятия и вебинары" [ref=e796] [cursor=pointer]:
+          - /url: https://yandex.cloud/events?services=23
+        - link "Блог" [ref=e798] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/blog?services=23%2C457
+        - link "Предложить свою идею" [ref=e800] [cursor=pointer]:
+          - /url: https://yandex.cloud/features?serviceId=23
+      - generic [ref=e801]:
+        - generic [ref=e802]: Компания
+        - link "О Yandex Cloud" [ref=e804] [cursor=pointer]:
+          - /url: https://yandex.cloud/ru/about
+        - link "Карьера в DataLens" [ref=e806] [cursor=pointer]:
+          - /url: https://yandex.ru/jobs/services/cloud/datalens
+        - link "Гайдбук DataLens" [ref=e808] [cursor=pointer]:
+          - /url: https://disk.yandex.ru/d/vypa-g7eOoP1nw
+    - img [ref=e811]
+    - generic [ref=e812]:
+      - generic [ref=e813]:
+        - link "Privacy policy" [ref=e815] [cursor=pointer]:
+          - /url: https://yandex.ru/legal/confidential?lang=en
+        - link "Terms of use" [ref=e817] [cursor=pointer]:
+          - /url: https://yandex.ru/legal/cloud_termsofuse?lang=en
+      - generic [ref=e818]: © 2026 Yandex.Cloud LLC
