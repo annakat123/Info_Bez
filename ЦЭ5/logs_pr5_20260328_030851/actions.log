@@ -1,0 +1,12 @@
+﻿Start: 2026-03-28T03:08:52
+
+Verification summary:
+- Loaded config from files and updated DB config successfully.
+- Catalog.Counterparties attributes: INN, Phone, MainWarehouse (CatalogRef.Warehouses)
+- Catalog.Warehouses attributes: Address, Manager, MainCounterparty (CatalogRef.Counterparties)
+- Catalog.Items attributes: Article, Category, DefaultWarehouse (CatalogRef.Warehouses)
+
+Artifacts:
+- designer_load.log
+- *_before.xml
+- *_after.xml
